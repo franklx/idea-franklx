@@ -3,14 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1546941575688">
+      <file name="/Dummy.txt" timestamp="1546986509319">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1546974069153">
+      <file name="$USER_HOME$/Projects/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1546986488628">
         <mark key="'" line="104" column="11" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+        <mark key="[" line="196" column="6" />
+        <mark key="]" line="198" column="6" />
+        <mark key="." line="198" column="6" />
+        <mark key="^" line="198" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/ktorch/src/test/kotlin/ktorch/AppTest.kt" timestamp="1546467265334">
         <mark key="[" line="7" column="0" />
