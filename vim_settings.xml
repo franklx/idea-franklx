@@ -55,10 +55,11 @@
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="112" />
       </file>
-      <file name="P:/eval-kotlin/build.gradle.kts" timestamp="1546968435316">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="P:/eval-kotlin/build.gradle.kts" timestamp="1546989741519">
+        <mark key="[" line="31" column="46" />
+        <mark key="]" line="31" column="50" />
+        <mark key="." line="31" column="50" />
+        <mark key="^" line="31" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" timestamp="1546973925110">
         <mark key="'" line="180" column="12" />
@@ -191,11 +192,11 @@
       <jump line="180" column="12" filename="$USER_HOME$/Projects/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgeCA9IGFycmF5T2YoMSwyLDMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>, version: '5.87.0.RELEASE'</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>shutdown</text>
