@@ -63,12 +63,12 @@
         <mark key="^" line="493" column="62" />
         <mark key="." line="494" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ktorch/build.gradle.kts" timestamp="1546947213801">
+      <file name="$USER_HOME$/Projects/ktorch/build.gradle.kts" timestamp="1546948468112">
         <mark key="'" line="62" column="1" />
-        <mark key="[" line="60" column="8" />
-        <mark key="]" line="60" column="9" />
-        <mark key="." line="60" column="9" />
-        <mark key="^" line="60" column="9" />
+        <mark key="[" line="59" column="72" />
+        <mark key="]" line="59" column="93" />
+        <mark key="." line="59" column="93" />
+        <mark key="^" line="59" column="93" />
       </file>
       <file name="/fragment.java" timestamp="1546879095533">
         <mark key="[" line="0" column="0" />
@@ -195,10 +195,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.name</text>
+        <text>toString()</text>
       </register>
       <register name="-" type="4">
-        <text>.name</text>
+        <text>toString()</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
