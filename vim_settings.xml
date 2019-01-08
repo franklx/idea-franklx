@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1546810350444">
+      <file name="/Dummy.txt" timestamp="1546941575688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1546939990693">
@@ -24,6 +24,7 @@
       <file name="/fragment.py" timestamp="1546522261111">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/ktorch/src/main/kotlin/ktorch/IeeeAddressConverter.kt" timestamp="1546940998092" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zsmartsystems.zigbee/com.zsmartsystems.zigbee.dongle.cc2531/1.1.8/6298105e2f1004a2b6c7c867749115893055f327/com.zsmartsystems.zigbee.dongle.cc2531-1.1.8-sources.jar!/com/zsmartsystems/zigbee/dongle/cc2531/ZigBeeDongleTiCc2531.java" timestamp="1546522003152">
         <mark key="'" line="34" column="54" />
         <mark key="[" line="244" column="22" />
@@ -55,15 +56,19 @@
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="112" />
       </file>
-      <file name="$USER_HOME$/Projects/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" timestamp="1546939770372">
+      <file name="$USER_HOME$/Projects/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" timestamp="1546941395941">
         <mark key="'" line="279" column="16" />
+        <mark key="[" line="494" column="0" />
+        <mark key="]" line="494" column="0" />
+        <mark key="^" line="493" column="62" />
+        <mark key="." line="494" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ktorch/build.gradle.kts" timestamp="1546940090278">
+      <file name="$USER_HOME$/Projects/ktorch/build.gradle.kts" timestamp="1546941136336">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="33" column="20" />
-        <mark key="]" line="33" column="45" />
-        <mark key="." line="33" column="45" />
-        <mark key="^" line="33" column="45" />
+        <mark key="[" line="34" column="44" />
+        <mark key="]" line="34" column="51" />
+        <mark key="." line="34" column="51" />
+        <mark key="^" line="34" column="51" />
       </file>
       <file name="/fragment.java" timestamp="1546879095533">
         <mark key="[" line="0" column="0" />
@@ -189,59 +194,58 @@
       <jump line="279" column="16" filename="$USER_HOME$/Projects/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>com.zsmartsystems.zigbee:com.zsmartsystems.zigbee.serial:1.1.8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KFN0cmluZ1V0aWxzLmxlZnRQYWQoSW50ZWdlci50b1N0cmluZyhncm91cC5ncm91cElkKSwgMTApICsgIiAgICAgICIgKyBncm91cC5sYWJlbCwgb3V0KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>com.zsmartsystems.zigbee:com.zsmartsystems.zigbee.serial:1.1.8</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJjb20uenNtYXJ0c3lzdGVtcy56aWdiZWU6Y29tLnpzbWFydHN5c3RlbXMuemlnYmVlLnNlcmlhbDoxLjEuOCIpCg==</text>
+      <register name="0" type="4">
+        <text>&quot;      &quot; + group.label, out</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KFN0cmluZ1V0aWxzLmxlZnRQYWQoSW50ZWdlci50b1N0cmluZyhncm91cC5ncm91cElkKSwgMTApICsgIiAgICAgICIgKyBncm91cC5sYWJlbCwgb3V0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZHBvaW50LmRkCg==</text>
+        <text encoding="base64">ICAgIC8vY29tLnpzbWFydHN5c3RlbXMuemlnYmVlOmNvbS56c21hcnRzeXN0ZW1zLnppZ2JlZS5jb25zb2xlLm1haW46MS4xLjgiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsZWVwCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJvcmcuYXBhY2hlLmNvbW1vbnMuY2xpOjEuNCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHppZ2JlZUFwaS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgZm9yIChtcyBpbiBsb25nQXJyYXlPZig1MDApKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZHBvaW50LmRkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsZWVwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChtcyBpbiBsb25nQXJyYXlPZig1MDApKSB7CiAgICAgICAgICAgICAgICBUaHJlYWQoUnVubmFibGUgewogICAgICAgICAgICAgICAgICAgIHZhbCBjbHVzdGVyID0gZW5kcG9pbnQuZ2V0SW5wdXRDbHVzdGVyKFpjbE9uT2ZmQ2x1c3Rlci5DTFVTVEVSX0lEKSBhcyBaY2xPbk9mZkNsdXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHppZ2JlZUFwaS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2x1c3Rlci4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgZm9yIChtcyBpbiBsb25nQXJyYXlPZig1MDApKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHppZ2JlZWRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>coor</entry>
         <entry>Coo</entry>
         <entry>readLine</entry>
         <entry>reset</entry>
@@ -261,6 +265,7 @@
         <entry>quit</entry>
         <entry>!shutdown</entry>
         <entry>console</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
