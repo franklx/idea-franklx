@@ -3,12 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" timestamp="1547716274261">
-        <mark key="'" line="18" column="36" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-views/1.0.3/9e176ca5a9f25d854cee6bc21a57f04ce0129d9f/micronaut-views-1.0.3-sources.jar!/io/micronaut/views/velocity/VelocityViewsRenderer.java" timestamp="1547721055357" />
+      <file name="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" timestamp="1547721281254">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-views/1.0.3/9e176ca5a9f25d854cee6bc21a57f04ce0129d9f/micronaut-views-1.0.3-sources.jar!/io/micronaut/views/thymeleaf/ThymeleafViewsRenderer.java" timestamp="1547720847538">
+        <mark key="'" line="68" column="71" />
       </file>
     </filemarks>
     <jumps>
@@ -16,7 +18,6 @@
       <jump line="94" column="0" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
       <jump line="35" column="0" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
       <jump line="38" column="27" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
-      <jump line="46" column="21" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
       <jump line="47" column="28" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
       <jump line="59" column="31" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
       <jump line="76" column="62" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
@@ -26,59 +27,121 @@
       <jump line="121" column="28" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
       <jump line="122" column="25" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
       <jump line="123" column="55" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
-      <jump line="131" column="48" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
       <jump line="18" column="36" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="14" column="2" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="89" column="0" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="17" column="0" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="131" column="5" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="46" column="30" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="16" column="27" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="28" column="32" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="63" column="10" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="58" column="18" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="56" column="15" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="52" column="10" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="40" column="75" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="45" column="33" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="0" column="0" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="48" column="2" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="51" column="15" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="71" column="31" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="57" column="18" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="55" column="15" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="44" column="64" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="120" column="68" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="167" column="50" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="67" column="8" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="23" column="0" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="68" column="48" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
+      <jump line="55" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-views/1.0.3/9e176ca5a9f25d854cee6bc21a57f04ce0129d9f/micronaut-views-1.0.3-sources.jar!/io/micronaut/views/thymeleaf/ThymeleafViewsRenderer.java" />
+      <jump line="71" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-views/1.0.3/9e176ca5a9f25d854cee6bc21a57f04ce0129d9f/micronaut-views-1.0.3-sources.jar!/io/micronaut/views/thymeleaf/ThymeleafViewsRenderer.java" />
+      <jump line="73" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-views/1.0.3/9e176ca5a9f25d854cee6bc21a57f04ce0129d9f/micronaut-views-1.0.3-sources.jar!/io/micronaut/views/thymeleaf/ThymeleafViewsRenderer.java" />
+      <jump line="99" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-views/1.0.3/9e176ca5a9f25d854cee6bc21a57f04ce0129d9f/micronaut-views-1.0.3-sources.jar!/io/micronaut/views/thymeleaf/ThymeleafViewsRenderer.java" />
+      <jump line="29" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-views/1.0.3/9e176ca5a9f25d854cee6bc21a57f04ce0129d9f/micronaut-views-1.0.3-sources.jar!/io/micronaut/views/thymeleaf/ThymeleafViewsRenderer.java" />
+      <jump line="32" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-views/1.0.3/9e176ca5a9f25d854cee6bc21a57f04ce0129d9f/micronaut-views-1.0.3-sources.jar!/io/micronaut/views/thymeleaf/ThymeleafViewsRenderer.java" />
+      <jump line="53" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-views/1.0.3/9e176ca5a9f25d854cee6bc21a57f04ce0129d9f/micronaut-views-1.0.3-sources.jar!/io/micronaut/views/thymeleaf/ThymeleafViewsRenderer.java" />
+      <jump line="68" column="71" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-views/1.0.3/9e176ca5a9f25d854cee6bc21a57f04ce0129d9f/micronaut-views-1.0.3-sources.jar!/io/micronaut/views/thymeleaf/ThymeleafViewsRenderer.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm1pY3JvbmF1dC5jb250ZXh0LmFubm90YXRpb24gLlJlcXVpcmVzCmltcG9ydCBpby5taWNyb25hdXQuY29yZS51dGlsLlN0cmluZ1V0aWxzCg==</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm1pY3JvbmF1dC5jb250ZXh0LmFubm90YXRpb24gLlJlcXVpcmVzCmltcG9ydCBpby5taWNyb25hdXQuY29yZS51dGlsLlN0cmluZ1V0aWxzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuamtuYWNrLmhhbmRsZWJhcnMuSGFuZGxlYmFycwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuamtuYWNrLmhhbmRsZWJhcnMuSGFuZGxlYmFycwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm1pY3JvbmF1dC5jb3JlLnV0aWwuVG9nZ2xlYWJsZQppbXBvcnQgY29tLmdpdGh1Yi5qa25hY2suaGFuZGxlYmFycy5IYW5kbGViYXJzCmltcG9ydCBpby5taWNyb25hdXQuY29udGV4dC5hbm5vdGF0aW9uIC5Db25maWd1cmF0aW9uUHJvcGVydGllcwppbXBvcnQgaW8ubWljcm9uYXV0LmNvbnRleHQuYW5ub3RhdGlvbiAuUmVxdWlyZXMKaW1wb3J0IGlvLm1pY3JvbmF1dC5jb3JlLnV0aWwuU3RyaW5nVXRpbHMKaW1wb3J0IGlvLm1pY3JvbmF1dC52aWV3cy5WaWV3c0NvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuamtuYWNrLmhhbmRsZWJhcnMuSGFuZGxlYmFycwppbXBvcnQgaW8ubWljcm9uYXV0LmNvbnRleHQuYW5ub3RhdGlvbiAuQ29uZmlndXJhdGlvblByb3BlcnRpZXMKaW1wb3J0IGlvLm1pY3JvbmF1dC5jb250ZXh0LmFubm90YXRpb24gLlJlcXVpcmVzCmltcG9ydCBpby5taWNyb25hdXQuY29yZS51dGlsLlN0cmluZ1V0aWxzCmltcG9ydCBpby5taWNyb25hdXQudmlld3MuVmlld3NDb25maWd1cmF0aW9uUHJvcGVydGllcwoK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="-" type="4">
+        <text>: JadeTemplate</text>
       </register>
       <register name="/" type="4">
-        <text>Handle</text>
+        <text>Writable</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGphZGU0ai5yZW5kZXJUZW1wbGF0ZSh0ZW1wbGF0ZSwgZGF0YSwgd3JpdGVyKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGphZGU0ai5nZXRUZW1wbGF0ZSgpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy92YWwgdGVtcGxhdGUgPSBqYWRlNGouZ2V0VGVtcGxhdGUodmlld0xvY2F0aW9uKHZpZXdOYW1lKSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vamFkZTRqLnJlbmRlclRlbXBsYXRlKHRlbXBsYXRlLCBkYXRhLCB3cml0ZXIpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGphZGU0ai5yZW5kZXIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVW5pdCgpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRlbXBsYXRlID0gamFkZTRqLmdldFRlbXBsYXRlKHZpZXdMb2NhdGlvbih2aWV3TmFtZSkpCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBqYWRlNGoucmVuZGVyVGVtcGxhdGUodGVtcGxhdGUsIGRhdGEsIHdyaXRlcikKICAgICAgICAgICAgfSBjYXRjaCAoZTogVGhyb3dhYmxlKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBWaWV3UmVuZGVyaW5nRXhjZXB0aW9uKCJFcnJvciByZW5kZXJpbmcgSmFkZTRKIHZpZXcgWyIgKyB2aWV3TmFtZSArICJdOiAiICsgZS5tZXNzYWdlLCBlKQogICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Handle</last-search>
+      <last-search>Writable</last-search>
       <last-offset />
-      <last-pattern>Handle</last-pattern>
+      <last-pattern>Writable</last-pattern>
+      <last-replace>jade4j</last-replace>
+      <last-substitute>handlebars</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>Handle</entry>
+        <entry>Handlebars</entry>
+        <entry>handle</entry>
+        <entry>handlebars</entry>
+        <entry>PREFIX</entry>
+        <entry>ArgumentUtils</entry>
+        <entry>location</entry>
+        <entry>initializeTemplate</entry>
+        <entry>TemplateEngine</entry>
+        <entry>Writer</entry>
+        <entry>Writable</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>%s:Handlebars:Jade:g</entry>
+        <entry>%s:Handlebars:Jade4J:g</entry>
+        <entry>%s:handlebars:jade4j:g</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
