@@ -4,10 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-views/1.0.3/9e176ca5a9f25d854cee6bc21a57f04ce0129d9f/micronaut-views-1.0.3-sources.jar!/io/micronaut/views/velocity/VelocityViewsRenderer.java" timestamp="1547721055357" />
-      <file name="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" timestamp="1547721281254">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" timestamp="1547721574398">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="74" column="48" />
+        <mark key="]" line="74" column="66" />
+        <mark key="." line="74" column="48" />
+        <mark key="^" line="70" column="50" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-views/1.0.3/9e176ca5a9f25d854cee6bc21a57f04ce0129d9f/micronaut-views-1.0.3-sources.jar!/io/micronaut/views/thymeleaf/ThymeleafViewsRenderer.java" timestamp="1547720847538">
         <mark key="'" line="68" column="71" />
@@ -61,55 +63,56 @@
       <jump line="32" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-views/1.0.3/9e176ca5a9f25d854cee6bc21a57f04ce0129d9f/micronaut-views-1.0.3-sources.jar!/io/micronaut/views/thymeleaf/ThymeleafViewsRenderer.java" />
       <jump line="53" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-views/1.0.3/9e176ca5a9f25d854cee6bc21a57f04ce0129d9f/micronaut-views-1.0.3-sources.jar!/io/micronaut/views/thymeleaf/ThymeleafViewsRenderer.java" />
       <jump line="68" column="71" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-views/1.0.3/9e176ca5a9f25d854cee6bc21a57f04ce0129d9f/micronaut-views-1.0.3-sources.jar!/io/micronaut/views/thymeleaf/ThymeleafViewsRenderer.java" />
+      <jump line="69" column="0" filename="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Any?</text>
       </register>
       <register name="-" type="4">
-        <text>: JadeTemplate</text>
+        <text>Any?</text>
       </register>
       <register name="/" type="4">
-        <text>Writable</text>
+        <text>data</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGphZGU0ai5yZW5kZXJUZW1wbGF0ZSh0ZW1wbGF0ZSwgZGF0YSwgd3JpdGVyKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">TWFwPFN0cmluZz8sIEFueT8+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcSA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGphZGU0ai5nZXRUZW1wbGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGphZGU0ai5yZW5kZXJUZW1wbGF0ZSh0ZW1wbGF0ZSxkYXRhLHdyaXRlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy92YWwgdGVtcGxhdGUgPSBqYWRlNGouZ2V0VGVtcGxhdGUodmlld0xvY2F0aW9uKHZpZXdOYW1lKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vamFkZTRqLnJlbmRlclRlbXBsYXRlKHRlbXBsYXRlLCBkYXRhLCB3cml0ZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB0ID0gamFkZTRqLmdldFRlbXBsYXRlKCIiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGphZGU0ai5yZW5kZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGphZGU0ai5nZXRUZW1wbGF0ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy92YWwgdGVtcGxhdGUgPSBqYWRlNGouZ2V0VGVtcGxhdGUodmlld0xvY2F0aW9uKHZpZXdOYW1lKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVW5pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vamFkZTRqLnJlbmRlclRlbXBsYXRlKHRlbXBsYXRlLCBkYXRhLCB3cml0ZXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRlbXBsYXRlID0gamFkZTRqLmdldFRlbXBsYXRlKHZpZXdMb2NhdGlvbih2aWV3TmFtZSkpCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBqYWRlNGoucmVuZGVyVGVtcGxhdGUodGVtcGxhdGUsIGRhdGEsIHdyaXRlcikKICAgICAgICAgICAgfSBjYXRjaCAoZTogVGhyb3dhYmxlKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBWaWV3UmVuZGVyaW5nRXhjZXB0aW9uKCJFcnJvciByZW5kZXJpbmcgSmFkZTRKIHZpZXcgWyIgKyB2aWV3TmFtZSArICJdOiAiICsgZS5tZXNzYWdlLCBlKQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGphZGU0ai5yZW5kZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Writable</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>Writable</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>jade4j</last-replace>
       <last-substitute>handlebars</last-substitute>
       <last-dir>1</last-dir>
@@ -128,6 +131,7 @@
         <entry>TemplateEngine</entry>
         <entry>Writer</entry>
         <entry>Writable</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>%s:Handlebars:Jade:g</entry>
