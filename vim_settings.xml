@@ -9,11 +9,11 @@
         <mark key="." line="29" column="25" />
         <mark key="^" line="29" column="25" />
       </file>
-      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" timestamp="1547850356034">
+      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" timestamp="1547850769879">
         <mark key="'" line="71" column="25" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -32,12 +32,15 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSmFkZTRKKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxPZgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSmFkZTRKKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxPZgo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgSmFkZTRKKCkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUucHVnLmFwcC5QdWdFbmdpbmU7Cg==</text>
       </register>
       <register name=":" type="4">
