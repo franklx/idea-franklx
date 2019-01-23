@@ -9,17 +9,17 @@
         <mark key="." line="29" column="25" />
         <mark key="^" line="29" column="25" />
       </file>
-      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" timestamp="1547850769879">
-        <mark key="'" line="71" column="25" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" timestamp="1548271757818">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="37" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="89" column="48" />
       </file>
-      <file name="P:/eval-kotlin/src/main/kotlin/example/micronaut/HelloController.kt" timestamp="1548270022150">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="17" />
-        <mark key="^" line="26" column="33" />
-        <mark key="." line="26" column="0" />
+      <file name="P:/eval-kotlin/src/main/kotlin/example/micronaut/HelloController.kt" timestamp="1548271608045">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="18" />
+        <mark key="^" line="25" column="18" />
+        <mark key="." line="25" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -35,34 +35,50 @@
       <jump line="104" column="19" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="100" column="22" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="71" column="25" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="89" column="11" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm1pY3JvbmF1dC52aWV3cy5WaWV3Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBWaWV3KCJ0ZXN0IikK</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBWaWV3KCJ0ZXN0IikK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxPZgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSmFkZTRKKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUucHVnLmFwcC5QdWdFbmdpbmU7Cg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odmlld05hbWUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.pug</text>
+        <text>Name</text>
       </register>
       <register name="/" type="4">
         <text>initializeP</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odmlld05hbWUpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odmlld05hbWUpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHZpZXdOYW1lKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLm9iamVjdHMuR2xvYmFsOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIEdsb2JhbC5wcmludGxuKHEpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwdWdlbmdpbmUudGVtcGxhdGVleAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIHByaW50bG4ocSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIHJldHVybiBxCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihxKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgIHByaW50bG4K</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -88,6 +104,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
