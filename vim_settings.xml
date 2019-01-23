@@ -9,11 +9,12 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" timestamp="1548262436479">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" timestamp="1548263518908">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="75" column="42" />
+        <mark key="]" line="75" column="48" />
+        <mark key="." line="75" column="48" />
+        <mark key="^" line="75" column="48" />
       </file>
       <file name="P:/eval-kotlin/src/main/kotlin/io.micronaut.views.jade4j.kt" timestamp="1547721574398">
         <mark key="'" line="69" column="0" />
@@ -100,11 +101,11 @@
       <jump line="73" column="0" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Qcm9wZXJ0aWVzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>modelOf</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>modelOf</text>
       </register>
       <register name="/" type="4">
         <text>modelOf</text>
@@ -113,31 +114,31 @@
         <text encoding="base64">aW1wb3J0IGRlLm5ldWxhbmQuamFkZTRqLmV4Y2VwdGlvbnMuSmFkZVBhcnNlckV4Y2VwdGlvbjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Qcm9wZXJ0aWVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3c1JlbmRlcmVyIHYgPSBuZXcgVmlld3NSZW5kZXJlcigpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Qcm9wZXJ0aWVzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1vCg==</text>
+        <text encoding="base64">ICAgICAgICBWaWV3c1JlbmRlcmVyIHYgPSBuZXcgVmlld3NSZW5kZXJlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5tbwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5tbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUucHVnLmFwcC5QdWdFbmdpbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIubW8K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUucHVnLmFwcC5QdWdFbmdpbmU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW8vbWljcm9uYXV0L3ZpZXdzL1ZpZXdzUmVuZGVyZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIubW8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CmltcG9ydCBqYXZhLm5pby5jaGFyc2V0LlN0YW5kYXJkQ2hhcnNldHM7Cg==</text>
+        <text encoding="base64">aW8vbWljcm9uYXV0L3ZpZXdzL1ZpZXdzUmVuZGVyZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -179,6 +180,7 @@
         <entry>%s:Handlebars:Jade:g</entry>
         <entry>%s:Handlebars:Jade4J:g</entry>
         <entry>%s:handlebars:jade4j:g</entry>
+        <entry encoding="base64">JzwsJz4hc29ydA==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
