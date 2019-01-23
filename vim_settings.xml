@@ -9,17 +9,18 @@
         <mark key="." line="29" column="25" />
         <mark key="^" line="29" column="25" />
       </file>
-      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" timestamp="1548271757818">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="37" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="89" column="48" />
+      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" timestamp="1548273450314">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="89" column="40" />
       </file>
-      <file name="P:/eval-kotlin/src/main/kotlin/example/micronaut/HelloController.kt" timestamp="1548271608045">
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="18" />
-        <mark key="^" line="25" column="18" />
-        <mark key="." line="25" column="18" />
+      <file name="P:/eval-kotlin/src/main/kotlin/example/micronaut/HelloController.kt" timestamp="1548273529208">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="18" />
+        <mark key="^" line="32" column="18" />
+        <mark key="." line="32" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -27,8 +28,6 @@
       <jump line="32" column="48" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="33" column="42" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="34" column="48" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="91" column="37" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="94" column="55" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="83" column="16" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="93" column="12" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="58" column="30" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
@@ -36,55 +35,83 @@
       <jump line="100" column="22" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="71" column="25" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="89" column="11" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="124" column="16" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="57" column="27" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="117" column="12" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="68" column="22" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="126" column="5" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="75" column="19" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="77" column="58" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="81" column="80" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="119" column="0" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="78" column="64" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="91" column="27" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="94" column="51" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="120" column="19" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="76" column="12" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="0" column="0" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="16" column="21" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="29" column="20" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="30" column="20" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="31" column="20" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="55" column="39" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="60" column="14" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="63" column="40" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="65" column="34" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="72" column="52" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="98" column="29" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="99" column="4" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="118" column="0" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odmlld05hbWUpOwo=</text>
+        <text encoding="base64">ICAgIEBHZXQoIi9wdWciKQogICAgQFZpZXcoInRlc3QucHVnIikKICAgIGZ1biB0ZXN0X3B1ZygpOiBNYXA8U3RyaW5nLEFueT4gewogICAgICAgIHJldHVybiBtYXBPZigidGVzdCIgdG8gMSkKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>view</text>
       </register>
       <register name="/" type="4">
-        <text>initializeP</text>
+        <text>System.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odmlld05hbWUpOwo=</text>
+        <text encoding="base64">ICAgIEBHZXQoIi9wdWciKQogICAgQFZpZXcoInRlc3QucHVnIikKICAgIGZ1biB0ZXN0X3B1ZygpOiBNYXA8U3RyaW5nLEFueT4gewogICAgICAgIHJldHVybiBtYXBPZigidGVzdCIgdG8gMSkKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odmlld05hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmlldyA9IDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHZpZXdOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odmlldyk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHEpOwogICAgICAgIHJldHVybiBxOwogICAgICAgIC8vcmV0dXJuIHB1Z0VuZ2luZS50ZW1wbGF0ZUV4aXN0cyh2aWV3TmFtZSh2aWV3TmFtZSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLm9iamVjdHMuR2xvYmFsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIuIiArCiAgICAgICAgICAgICAgICBleHRlbnNpb24oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIEdsb2JhbC5wcmludGxuKHEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcuc2V0QmFzZVBhdGgoInJlc291cmNlcy92aWV3cyIpOwogICAgICAgIHJldHVybiBjb25maWc7CiAgICAgICAgLyoKICAgICAgICBmaW5hbCBQcm9wZXJ0aWVzIHAgPSBuZXcgUHJvcGVydGllcygpOwogICAgICAgIHAuc2V0UHJvcGVydHkoInJlc291cmNlLmxvYWRlciIsICJjbGFzcyIpOwogICAgICAgIHAuc2V0UHJvcGVydHkoImNsYXNzLnJlc291cmNlLmxvYWRlci5jbGFzcyIsICJvcmcuYXBhY2hlLnB1Zy5ydW50aW1lLnJlc291cmNlLmxvYWRlci5DbGFzc3BhdGhSZXNvdXJjZUxvYWRlciIpOwogICAgICAgIHJldHVybiBuZXcgUHVnRW5naW5lKHApOwogICAgICAgICovCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWdlbmdpbmUudGVtcGxhdGVleAo=</text>
+      <register name="5" type="4">
+        <text>n
+        JadeConfiguration config =</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHByaW50bG4ocSkK</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBxCg==</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihxKQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9sZGVyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHByaW50bG4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9KYWRlVGVtcGxhdGUgdGVtcGxhdGUgPSBwdWdFbmdpbmUuZ2V0VGVtcGxhdGUodmlldyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>initializeP</last-search>
+      <last-search>System.</last-search>
       <last-offset />
-      <last-pattern>initializeP</last-pattern>
+      <last-pattern>System.</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -94,6 +121,13 @@
         <entry>pugEngline</entry>
         <entry>pugEngine</entry>
         <entry>initializeP</entry>
+        <entry>folder</entry>
+        <entry>normalizeFolder</entry>
+        <entry>viewName</entry>
+        <entry>view</entry>
+        <entry encoding="base64">dmlld1w+</entry>
+        <entry>config</entry>
+        <entry>System.</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
