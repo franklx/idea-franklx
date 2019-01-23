@@ -15,6 +15,11 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
+      <file name="P:/eval-kotlin/src/main/kotlin/example/micronaut/HelloController.kt" timestamp="1548265858561">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="28" column="35" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
@@ -34,8 +39,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbW9kZWxPZgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxPZgo=</text>
+      <register name="&quot;" type="4">
+        <text>q</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBuZXcgSmFkZTRKKCkK</text>
@@ -47,7 +52,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>PugEngine</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text>initializeP</text>
@@ -70,6 +75,8 @@
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
