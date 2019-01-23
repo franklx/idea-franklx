@@ -2,14 +2,47 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="P:/eval-kotlin/src/main/kotlin/example/micronaut/HelloController.kt" timestamp="1548264680117">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="35" />
+        <mark key="." line="26" column="35" />
+        <mark key="^" line="26" column="35" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLm1pY3JvbmF1dC52aWV3cy5WaWV3Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLm1pY3JvbmF1dC52aWV3cy5wdWcuCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>HttpResponse</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBHZXQoIi90ZXN0L3B1ZyIpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>HttpResponse</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
