@@ -9,18 +9,30 @@
         <mark key="." line="29" column="25" />
         <mark key="^" line="29" column="25" />
       </file>
-      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" timestamp="1548284953740">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="89" column="8" />
-        <mark key="]" line="89" column="9" />
-        <mark key="." line="89" column="9" />
-        <mark key="^" line="89" column="9" />
+      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" timestamp="1548287268399">
+        <mark key="'" line="73" column="25" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="94" column="14" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.kt" timestamp="1548287634722">
+        <mark key="[" line="48" column="35" />
+        <mark key="]" line="48" column="36" />
+        <mark key="." line="48" column="36" />
+        <mark key="^" line="48" column="36" />
       </file>
       <file name="P:/eval-kotlin/src/main/kotlin/example/micronaut/HelloController.kt" timestamp="1548273529208">
         <mark key="[" line="32" column="16" />
         <mark key="]" line="32" column="18" />
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="18" />
+      </file>
+      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRendererConfigurationProperties.kt" timestamp="1548287422729">
+        <mark key="[" line="64" column="8" />
+        <mark key="]" line="64" column="13" />
+        <mark key="^" line="64" column="13" />
+        <mark key="." line="64" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -58,60 +70,62 @@
       <jump line="63" column="40" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="65" column="34" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="72" column="52" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="98" column="29" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="99" column="4" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="118" column="0" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="71" column="0" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="96" column="0" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="73" column="25" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="98" column="30" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="74" column="25" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>templateExists</text>
+        <text>classes = [Jade4J::class]</text>
       </register>
       <register name="-" type="4">
-        <text>templateExists</text>
+        <text>classes = [Jade4J::class]</text>
       </register>
       <register name="/" type="4">
-        <text>resource</text>
+        <text>initializePug</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBHZXQoIi9wdWciKQogICAgQFZpZXcoInRlc3QucHVnIikKICAgIGZ1biB0ZXN0X3B1ZygpOiBNYXA8U3RyaW5nLEFueT4gewogICAgICAgIHJldHVybiBtYXBPZigidGVzdCIgdG8gMSkKICAgIH0K</text>
+      <register name="0" type="4">
+        <text>viewName(viewName)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmlldyA9IDsK</text>
+        <text encoding="base64">aW1wb3J0IGlvLm1pY3JvbmF1dC5jb3JlLmlvLlJlc291cmNlTG9hZGVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odmlldyk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHEpOwogICAgICAgIHJldHVybiBxOwogICAgICAgIC8vcmV0dXJuIHB1Z0VuZ2luZS50ZW1wbGF0ZUV4aXN0cyh2aWV3TmFtZSh2aWV3TmFtZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcHVnRW5naW5lLnRlbXBsYXRlRXhpc3RzKCB2aWV3TmFtZSh2aWV3TmFtZSkgKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIuIiArCiAgICAgICAgICAgICAgICBleHRlbnNpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odmlld05hbWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcuc2V0QmFzZVBhdGgoInJlc291cmNlcy92aWV3cyIpOwogICAgICAgIHJldHVybiBjb25maWc7CiAgICAgICAgLyoKICAgICAgICBmaW5hbCBQcm9wZXJ0aWVzIHAgPSBuZXcgUHJvcGVydGllcygpOwogICAgICAgIHAuc2V0UHJvcGVydHkoInJlc291cmNlLmxvYWRlciIsICJjbGFzcyIpOwogICAgICAgIHAuc2V0UHJvcGVydHkoImNsYXNzLnJlc291cmNlLmxvYWRlci5jbGFzcyIsICJvcmcuYXBhY2hlLnB1Zy5ydW50aW1lLnJlc291cmNlLmxvYWRlci5DbGFzc3BhdGhSZXNvdXJjZUxvYWRlciIpOwogICAgICAgIHJldHVybiBuZXcgUHVnRW5naW5lKHApOwogICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>n
-        JadeConfiguration config =</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIC8vcmV0dXJuIHB1Z0VuZ2luZS50ZW1wbGF0ZUV4aXN0cyggdmlld05hbWUodmlld05hbWUpICk7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9sZGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmlldyA9IDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9KYWRlVGVtcGxhdGUgdGVtcGxhdGUgPSBwdWdFbmdpbmUuZ2V0VGVtcGxhdGUodmlldyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odmlldyk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHEpOwogICAgICAgIHJldHVybiBxOwogICAgICAgIC8vcmV0dXJuIHB1Z0VuZ2luZS50ZW1wbGF0ZUV4aXN0cyh2aWV3TmFtZSh2aWV3TmFtZSkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>resource</last-search>
+      <last-search>initializePug</last-search>
       <last-offset />
-      <last-pattern>resource</last-pattern>
+      <last-pattern>initializePug</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -129,10 +143,11 @@
         <entry>config</entry>
         <entry>System.</entry>
         <entry>resource</entry>
+        <entry>initializePug</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
