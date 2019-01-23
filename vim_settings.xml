@@ -9,12 +9,12 @@
         <mark key="." line="29" column="25" />
         <mark key="^" line="29" column="25" />
       </file>
-      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" timestamp="1548273450314">
-        <mark key="'" line="118" column="0" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="89" column="40" />
+      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" timestamp="1548284953740">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="89" column="8" />
+        <mark key="]" line="89" column="9" />
+        <mark key="." line="89" column="9" />
+        <mark key="^" line="89" column="9" />
       </file>
       <file name="P:/eval-kotlin/src/main/kotlin/example/micronaut/HelloController.kt" timestamp="1548273529208">
         <mark key="[" line="32" column="16" />
@@ -33,7 +33,6 @@
       <jump line="58" column="30" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="104" column="19" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="100" column="22" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="71" column="25" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="89" column="11" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="124" column="16" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="57" column="27" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
@@ -62,16 +61,17 @@
       <jump line="98" column="29" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="99" column="4" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
       <jump line="118" column="0" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
+      <jump line="71" column="0" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBHZXQoIi9wdWciKQogICAgQFZpZXcoInRlc3QucHVnIikKICAgIGZ1biB0ZXN0X3B1ZygpOiBNYXA8U3RyaW5nLEFueT4gewogICAgICAgIHJldHVybiBtYXBPZigidGVzdCIgdG8gMSkKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>templateExists</text>
       </register>
       <register name="-" type="4">
-        <text>view</text>
+        <text>templateExists</text>
       </register>
       <register name="/" type="4">
-        <text>System.</text>
+        <text>resource</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBHZXQoIi9wdWciKQogICAgQFZpZXcoInRlc3QucHVnIikKICAgIGZ1biB0ZXN0X3B1ZygpOiBNYXA8U3RyaW5nLEFueT4gewogICAgICAgIHJldHVybiBtYXBPZigidGVzdCIgdG8gMSkKICAgIH0K</text>
@@ -105,13 +105,13 @@
         <text encoding="base64">ICAgICAgICAgICAgLy9KYWRlVGVtcGxhdGUgdGVtcGxhdGUgPSBwdWdFbmdpbmUuZ2V0VGVtcGxhdGUodmlldyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>n</text>
       </register>
     </registers>
     <search>
-      <last-search>System.</last-search>
+      <last-search>resource</last-search>
       <last-offset />
-      <last-pattern>System.</last-pattern>
+      <last-pattern>resource</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -128,9 +128,11 @@
         <entry encoding="base64">dmlld1w+</entry>
         <entry>config</entry>
         <entry>System.</entry>
+        <entry>resource</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
