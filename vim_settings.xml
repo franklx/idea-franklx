@@ -26,12 +26,12 @@
         <mark key="." line="2" column="72" />
         <mark key="^" line="2" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/test-ts-bs/ts/prova.ts" timestamp="1551010669810">
-        <mark key="'" line="13" column="4" />
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
-        <mark key="^" line="3" column="34" />
+      <file name="$USER_HOME$/Projects/test-ts-bs/ts/prova.ts" timestamp="1551014342239">
+        <mark key="'" line="15" column="25" />
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="25" column="9" />
+        <mark key="." line="25" column="9" />
+        <mark key="^" line="25" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/select2/index.kt" timestamp="1551003986779">
         <mark key="[" line="2" column="28" />
@@ -100,10 +100,10 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/test-ts-bs/package.json" timestamp="1551010125094">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Projects/test-ts-bs/package.json" timestamp="1551013467694">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
       </file>
       <file name="P:/eval-kotlin/src/main/kotlin/example/micronaut/HelloController.kt" timestamp="1548316776830">
         <mark key="[" line="27" column="0" />
@@ -172,55 +172,57 @@
       <jump line="11" column="22" filename="$USER_HOME$/Projects/kjs-test/src/test.kt" />
       <jump line="2" column="36" filename="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/timesheet.ts" />
       <jump line="7" column="4" filename="$USER_HOME$/Projects/test-ts-bs/ts/prova.ts" />
+      <jump line="15" column="25" filename="$USER_HOME$/Projects/test-ts-bs/ts/prova.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.html()</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.html()</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>dlg</text>
+        <text>act_dlg</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGpzLmV4dGVybmFscy5ib290c3RyYXAuKgppbXBvcnQganMuZXh0ZXJuYWxzLmJvb3RzdHJhcC5nbG9iYWxzLioK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ID0gdGhpcy4kdGJsLmZpbmQoInRib2R5LmJvZHkiKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRkbGcubW9kYWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRkbGcubW9kYQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib290c3RyYXAuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJqcXllcnkiOiAibGF0ZXN0IiwK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFjdF9kbGcgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMganF1ZXJ5IGZyb20gImpxeWVyeSIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgc2VsZWN0MiBmcm9tICJzZWxlY3QyIgppbXBvcnQgKiBhcyBleHByZXNzIGZyb20gImV4cHJlc3MiCg==</text>
+        <text encoding="base64">ICAgIHJlZl9kYXk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICJqcXVlcnkiCmltcG9ydCAic2VsZWN0MiIK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiR0YmwgPSAkKHRibCkKICAgICAgICB0aGlzLiR0YmxfYmR5ID0gdGhpcy4kdGJsLmZpbmQoInRib2R5LmJvZHkiKQogICAgICAgIHRoaXMudGJsX3RtcGwgPSB0aGlzLiR0YmwuZmluZCgidGJvZHkuX190cGxfXyIpLnJlbW92ZSgpLmh0bWwoKQogICAgICAgIHRoaXMudGJsX3RtcGxfZW1wdHkgPSB0aGlzLiR0YmwuZmluZCgidGJvZHkuX190cGxfZW1wdHlfXyIpLnJlbW92ZSgpLmh0bWwoKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+      <register name="8" type="4">
+        <text>: htmlString
+    tbl_tmpl_empty:</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICdib290c3RyYXAnCmltcG9ydCAnanF1ZXJ5Jwo=</text>
+        <text encoding="base64">ICAgICAgICBtdXN0YWNoZS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dlg</last-search>
+      <last-search>act_dlg</last-search>
       <last-offset />
-      <last-pattern>dlg</last-pattern>
+      <last-pattern>act_dlg</last-pattern>
       <last-replace>tbl</last-replace>
       <last-substitute>dlg</last-substitute>
       <last-dir>1</last-dir>
@@ -244,6 +246,7 @@
         <entry>ArgumentUtils</entry>
         <entry>jdbi</entry>
         <entry>dlg</entry>
+        <entry>act_dlg</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
