@@ -14,12 +14,12 @@
         <mark key="]" line="37" column="41" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/kjs-test/src/test.kt" timestamp="1550968288525">
+      <file name="$USER_HOME$/Projects/kjs-test/src/test.kt" timestamp="1550998463267">
         <mark key="'" line="13" column="22" />
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="3" column="1" />
-        <mark key="." line="3" column="1" />
-        <mark key="^" line="3" column="5" />
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="29" />
       </file>
       <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRendererConfigurationProperties.java" timestamp="1547850080830">
         <mark key="[" line="29" column="20" />
@@ -120,10 +120,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>file:</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>file:</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>jdbi</text>
