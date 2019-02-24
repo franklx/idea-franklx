@@ -14,12 +14,12 @@
         <mark key="]" line="37" column="41" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/kjs-test/src/test.kt" timestamp="1550998463267">
+      <file name="$USER_HOME$/Projects/kjs-test/src/test.kt" timestamp="1550999365397">
         <mark key="'" line="13" column="22" />
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="27" />
-        <mark key="^" line="3" column="29" />
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+        <mark key="^" line="3" column="28" />
       </file>
       <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRendererConfigurationProperties.java" timestamp="1547850080830">
         <mark key="[" line="29" column="20" />
@@ -120,10 +120,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>global.bootstrap</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>global.bootstrap</text>
       </register>
       <register name="/" type="4">
         <text>jdbi</text>
@@ -132,31 +132,31 @@
         <text encoding="base64">aW1wb3J0IGpzLmV4dGVybmFscy5qcXVlcnkuYCRgCmltcG9ydCBqcy5leHRlcm5hbHMuanF1ZXJ5LmpRdWVyeQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdCb290c3RyYXAnIGZyb20gJ2Jvb3RzdHJhcCc7Cg==</text>
+        <text encoding="base64">QEpzTW9kdWxlKCJib290c3RyYXAuZ2xvYmFsIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGJvb3RzdHJhcC5ib290c3RyYXAK</text>
+        <text encoding="base64">aW1wb3J0ICdCb290c3RyYXAnIGZyb20gJ2Jvb3RzdHJhcCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGJvb3RzdHJhcAo=</text>
+        <text encoding="base64">aW1wb3J0IGJvb3RzdHJhcC5ib290c3RyYXAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGluY2x1ZGUuago=</text>
+        <text encoding="base64">aW1wb3J0IGJvb3RzdHJhcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGpxdWVyeS5KUXVlcnkK</text>
+        <text encoding="base64">aW1wb3J0IGluY2x1ZGUuago=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpxdWVyeQo=</text>
+        <text encoding="base64">aW1wb3J0IGpxdWVyeS5KUXVlcnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpxdWVyeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGpxdWVyeS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNlbGVjdDIK</text>
+        <text encoding="base64">aW1wb3J0IGpxdWVyeS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
