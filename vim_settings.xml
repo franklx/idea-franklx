@@ -26,6 +26,13 @@
         <mark key="." line="2" column="72" />
         <mark key="^" line="2" column="80" />
       </file>
+      <file name="$USER_HOME$/Projects/test-ts-bs/ts/prova.ts" timestamp="1551010669810">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+        <mark key="^" line="3" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/select2/index.kt" timestamp="1551003986779">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="3" column="32" />
@@ -93,6 +100,11 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="19" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/test-ts-bs/package.json" timestamp="1551010125094">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="P:/eval-kotlin/src/main/kotlin/example/micronaut/HelloController.kt" timestamp="1548316776830">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -159,55 +171,58 @@
       <jump line="32" column="37" filename="$USER_HOME$/Projects/eval-kotlin-jooby/build.gradle.kts" />
       <jump line="11" column="22" filename="$USER_HOME$/Projects/kjs-test/src/test.kt" />
       <jump line="2" column="36" filename="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/timesheet.ts" />
+      <jump line="7" column="4" filename="$USER_HOME$/Projects/test-ts-bs/ts/prova.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICRkbGc6IAo=</text>
+      <register name="&quot;" type="4">
+        <text>.html()</text>
       </register>
       <register name="-" type="4">
-        <text>J</text>
+        <text>.html()</text>
       </register>
       <register name="/" type="4">
-        <text>jdbi</text>
+        <text>dlg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGpzLmV4dGVybmFscy5ib290c3RyYXAuKgppbXBvcnQganMuZXh0ZXJuYWxzLmJvb3RzdHJhcC5nbG9iYWxzLioK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRkbGc6IAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRkbGcubW9kYWwoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SFRNTE1vCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRkbGcubW9kYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICR0YmwgPSAK</text>
+        <text encoding="base64">ICAgICAgICBib290c3RyYXAuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkbGcuCg==</text>
+        <text encoding="base64">ICAgICJqcXllcnkiOiAibGF0ZXN0IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGpzLmV4dGVybmFscy5ib290c3RyYXAuZ2xvYmFsCg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMganF1ZXJ5IGZyb20gImpxeWVyeSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmdWNrLm1vZAo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgc2VsZWN0MiBmcm9tICJzZWxlY3QyIgppbXBvcnQgKiBhcyBleHByZXNzIGZyb20gImV4cHJlc3MiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmdWNrLnNlbGVjdDIK</text>
+        <text encoding="base64">aW1wb3J0ICJqcXVlcnkiCmltcG9ydCAic2VsZWN0MiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW50ZXJmYWNlICB7CiAgICAKfQo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuIEFueS5mKCk6IFVuaXQgewogICAgCn0K</text>
+        <text encoding="base64">aW1wb3J0ICdib290c3RyYXAnCmltcG9ydCAnanF1ZXJ5Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jdbi</last-search>
+      <last-search>dlg</last-search>
       <last-offset />
-      <last-pattern>jdbi</last-pattern>
+      <last-pattern>dlg</last-pattern>
+      <last-replace>tbl</last-replace>
+      <last-substitute>dlg</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -228,9 +243,11 @@
         <entry>initializePug</entry>
         <entry>ArgumentUtils</entry>
         <entry>jdbi</entry>
+        <entry>dlg</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
+        <entry encoding="base64">JzwsJz5zOmRsZzp0Ymw6Zw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
