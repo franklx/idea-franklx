@@ -9,17 +9,46 @@
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/kjs-test/src/test.kt" timestamp="1551004080983">
+        <mark key="'" line="15" column="22" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/conf/application.conf" timestamp="1549058068965">
+        <mark key="[" line="2" column="72" />
+        <mark key="]" line="2" column="72" />
+        <mark key="." line="2" column="72" />
+        <mark key="^" line="2" column="80" />
+      </file>
+      <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/select2/index.kt" timestamp="1551003986779">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+      </file>
+      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.kt" timestamp="1548288304202">
+        <mark key="[" line="71" column="20" />
+        <mark key="]" line="71" column="20" />
+        <mark key="." line="71" column="20" />
+        <mark key="^" line="71" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/select2/index.global.kt" timestamp="1551002909898">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/eval-kotlin-jooby/build.gradle.kts" timestamp="1549091454791">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="41" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/kjs-test/src/test.kt" timestamp="1550999365397">
-        <mark key="'" line="13" column="22" />
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
-        <mark key="^" line="3" column="28" />
+      <file name="$USER_HOME$/Projects/kjs-test/types/bootstrap/index.global.kt" timestamp="1551002142488">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
       </file>
       <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRendererConfigurationProperties.java" timestamp="1547850080830">
         <mark key="[" line="29" column="20" />
@@ -34,23 +63,23 @@
         <mark key="^" line="81" column="15" />
         <mark key="." line="81" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/conf/application.conf" timestamp="1549058068965">
-        <mark key="[" line="2" column="72" />
-        <mark key="]" line="2" column="72" />
-        <mark key="." line="2" column="72" />
-        <mark key="^" line="2" column="80" />
-      </file>
       <file name="$USER_HOME$/Projects/ktw/src/jsMain/kotlin/sample/SampleJs.kt" timestamp="1550958488039">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="39" />
         <mark key="." line="3" column="39" />
         <mark key="^" line="3" column="39" />
       </file>
-      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.kt" timestamp="1548288304202">
-        <mark key="[" line="71" column="20" />
-        <mark key="]" line="71" column="20" />
-        <mark key="." line="71" column="20" />
-        <mark key="^" line="71" column="23" />
+      <file name="$USER_HOME$/Projects/kjs-test/types/bootstrap/index.kt" timestamp="1551002130053">
+        <mark key="[" line="0" column="192" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/bootstrap/index.global.kt" timestamp="1551004028418">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="19" column="32" />
       </file>
       <file name="P:/eval-kotlin/src/main/kotlin/example/micronaut/HelloController.kt" timestamp="1548316776830">
         <mark key="[" line="27" column="0" />
@@ -119,44 +148,44 @@
       <jump line="11" column="22" filename="$USER_HOME$/Projects/kjs-test/src/test.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>global.bootstrap</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkbGcuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>global.bootstrap</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>jdbi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGpzLmV4dGVybmFscy5qcXVlcnkuYCRgCmltcG9ydCBqcy5leHRlcm5hbHMuanF1ZXJ5LmpRdWVyeQo=</text>
+        <text encoding="base64">aW1wb3J0IGpzLmV4dGVybmFscy5ib290c3RyYXAuKgppbXBvcnQganMuZXh0ZXJuYWxzLmJvb3RzdHJhcC5nbG9iYWxzLioK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEpzTW9kdWxlKCJib290c3RyYXAuZ2xvYmFsIikK</text>
+        <text encoding="base64">ICAgICAgICBkbGcuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdCb290c3RyYXAnIGZyb20gJ2Jvb3RzdHJhcCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpzLmV4dGVybmFscy5ib290c3RyYXAuZ2xvYmFsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGJvb3RzdHJhcC5ib290c3RyYXAK</text>
+        <text encoding="base64">ICAgICAgICBmdWNrLm1vZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGJvb3RzdHJhcAo=</text>
+        <text encoding="base64">ICAgICAgICBmdWNrLnNlbGVjdDIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGluY2x1ZGUuago=</text>
+        <text encoding="base64">aW50ZXJmYWNlICB7CiAgICAKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpxdWVyeS5KUXVlcnkK</text>
+        <text encoding="base64">ZnVuIEFueS5mKCk6IFVuaXQgewogICAgCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGpxdWVyeQo=</text>
+        <text encoding="base64">ICAgICAgICBkbGcubQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpxdWVyeS5KUXVlcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpxdWVyeS4K</text>
+        <text encoding="base64">ICAgICAgICBkbGcubW9kYQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
