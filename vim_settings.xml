@@ -32,10 +32,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/eval-ktjs/src/prova.kt" timestamp="1551020880047">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/eval-ktjs/src/prova.kt" timestamp="1551022229606">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="49" />
+        <mark key="." line="14" column="49" />
+        <mark key="^" line="14" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/select2/index.kt" timestamp="1551003986779">
         <mark key="[" line="2" column="28" />
@@ -179,44 +180,44 @@
       <jump line="15" column="25" filename="$USER_HOME$/Projects/test-ts-bs/ts/prova.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5icm93c2VyLgo=</text>
+      <register name="&quot;" type="4">
+        <text>, options=null</text>
       </register>
       <register name="-" type="4">
-        <text>khronos.</text>
+        <text>, options=null</text>
       </register>
       <register name="/" type="4">
         <text>act_dlg</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ID0gdGhpcy4kdGJsLmZpbmQoInRib2R5LmJvZHkiKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCB0YmxfdG1wbCA9IHRibC5xdWVyeVNlbGVjdG9yKCJib2R5Ll9fdHBsX18iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5icm93c2VyLgo=</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmV0Y2guCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5kb20uCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy53M2MuZG9tLioKaW1wb3J0IG9yZy53M2MuZmV0Y2guKgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LnF5Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5U2VsZWN0b3IK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRibC5xdWVyeQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoIiIpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi5icm93c2VyLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZmV0Y2guCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
