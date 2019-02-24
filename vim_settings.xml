@@ -9,6 +9,11 @@
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/test-ts-bs/js/prova.ts" timestamp="1551005540756">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/kjs-test/src/test.kt" timestamp="1551004080983">
         <mark key="'" line="15" column="22" />
         <mark key="[" line="16" column="0" />
@@ -38,6 +43,13 @@
         <mark key="]" line="2" column="28" />
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/timesheet.ts" timestamp="1551005340994">
+        <mark key="'" line="4" column="36" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/eval-kotlin-jooby/build.gradle.kts" timestamp="1549091454791">
         <mark key="[" line="37" column="0" />
@@ -146,13 +158,14 @@
       <jump line="27" column="1" filename="P:/eval-kotlin/src/main/kotlin/io/micronaut/views/pug/PugViewsRenderer.kt" />
       <jump line="32" column="37" filename="$USER_HOME$/Projects/eval-kotlin-jooby/build.gradle.kts" />
       <jump line="11" column="22" filename="$USER_HOME$/Projects/kjs-test/src/test.kt" />
+      <jump line="2" column="36" filename="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/timesheet.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkbGcuCg==</text>
+        <text encoding="base64">ICAgICRkbGc6IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>J</text>
       </register>
       <register name="/" type="4">
         <text>jdbi</text>
@@ -161,31 +174,31 @@
         <text encoding="base64">aW1wb3J0IGpzLmV4dGVybmFscy5ib290c3RyYXAuKgppbXBvcnQganMuZXh0ZXJuYWxzLmJvb3RzdHJhcC5nbG9iYWxzLioK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkbGcuCg==</text>
+        <text encoding="base64">ICAgICRkbGc6IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGpzLmV4dGVybmFscy5ib290c3RyYXAuZ2xvYmFsCg==</text>
+        <text encoding="base64">SFRNTE1vCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdWNrLm1vZAo=</text>
+        <text encoding="base64">ICAgICR0YmwgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmdWNrLnNlbGVjdDIK</text>
+        <text encoding="base64">ICAgICAgICBkbGcuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW50ZXJmYWNlICB7CiAgICAKfQo=</text>
+        <text encoding="base64">aW1wb3J0IGpzLmV4dGVybmFscy5ib290c3RyYXAuZ2xvYmFsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuIEFueS5mKCk6IFVuaXQgewogICAgCn0K</text>
+        <text encoding="base64">ICAgICAgICBmdWNrLm1vZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkbGcubQo=</text>
+        <text encoding="base64">ICAgICAgICBmdWNrLnNlbGVjdDIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGpxdWVyeS5KUXVlcnkK</text>
+        <text encoding="base64">aW50ZXJmYWNlICB7CiAgICAKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkbGcubW9kYQo=</text>
+        <text encoding="base64">ZnVuIEFueS5mKCk6IFVuaXQgewogICAgCn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
