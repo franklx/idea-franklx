@@ -26,12 +26,11 @@
         <mark key="." line="2" column="72" />
         <mark key="^" line="2" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/test-ts-bs/ts/prova.ts" timestamp="1551014342239">
+      <file name="$USER_HOME$/Projects/test-ts-bs/ts/prova.ts" timestamp="1551020463172">
         <mark key="'" line="15" column="25" />
-        <mark key="[" line="25" column="9" />
-        <mark key="]" line="25" column="9" />
-        <mark key="." line="25" column="9" />
-        <mark key="^" line="25" column="9" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/select2/index.kt" timestamp="1551003986779">
         <mark key="[" line="2" column="28" />
@@ -175,8 +174,8 @@
       <jump line="15" column="25" filename="$USER_HOME$/Projects/test-ts-bs/ts/prova.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -188,32 +187,31 @@
         <text encoding="base64">ID0gdGhpcy4kdGJsLmZpbmQoInRib2R5LmJvZHkiKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFjdF9kbGcgPSAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlZl9kYXk6Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFjdF9kbGcgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiR0YmwgPSAkKHRibCkKICAgICAgICB0aGlzLiR0YmxfYmR5ID0gdGhpcy4kdGJsLmZpbmQoInRib2R5LmJvZHkiKQogICAgICAgIHRoaXMudGJsX3RtcGwgPSB0aGlzLiR0YmwuZmluZCgidGJvZHkuX190cGxfXyIpLnJlbW92ZSgpLmh0bWwoKQogICAgICAgIHRoaXMudGJsX3RtcGxfZW1wdHkgPSB0aGlzLiR0YmwuZmluZCgidGJvZHkuX190cGxfZW1wdHlfXyIpLnJlbW92ZSgpLmh0bWwoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>: htmlString
-    tbl_tmpl_empty:</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJlZl9kYXk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtdXN0YWNoZS4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiR0YmwgPSAkKHRibCkKICAgICAgICB0aGlzLiR0YmxfYmR5ID0gdGhpcy4kdGJsLmZpbmQoInRib2R5LmJvZHkiKQogICAgICAgIHRoaXMudGJsX3RtcGwgPSB0aGlzLiR0YmwuZmluZCgidGJvZHkuX190cGxfXyIpLnJlbW92ZSgpLmh0bWwoKQogICAgICAgIHRoaXMudGJsX3RtcGxfZW1wdHkgPSB0aGlzLiR0YmwuZmluZCgidGJvZHkuX190cGxfZW1wdHlfXyIpLnJlbW92ZSgpLmh0bWwoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
