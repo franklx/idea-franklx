@@ -1,8 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <option name="SHOW_INFERRED_ANNOTATIONS_INLINE" value="true" />
-  </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="replaceVarWithInferredType" value="true" />
-  </component>
-</application>
