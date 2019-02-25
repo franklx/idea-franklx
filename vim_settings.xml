@@ -14,12 +14,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-jquery.ts" timestamp="1551120332246">
+      <file name="P:/eval-web/test-ts-bs/ts/prova-jquery.ts" timestamp="1551122577067">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-        <mark key="^" line="2" column="23" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/eval-ktjs/src/prova.kt" timestamp="1551028229933">
         <mark key="[" line="20" column="8" />
@@ -44,11 +43,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551122368132">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551123138724">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/timesheet.ts" timestamp="1551005340994">
         <mark key="'" line="4" column="36" />
@@ -152,6 +151,9 @@
         <mark key="^" line="64" column="13" />
         <mark key="." line="64" column="13" />
       </file>
+      <file name="/fragment.java" timestamp="1551122676726">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="28" column="35" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
@@ -207,43 +209,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHkuCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5xdWVyeVNlbGVjdG9yKCIjZGF5X3RzLW5leHQtYnRuIikub25kZAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">YWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCBldiA9PiB7</text>
       </register>
       <register name="/" type="4">
         <text>act_dlg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICQgZnJvbSAiSlF1ZXJ5Igo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5xdWVyeVNlbGVjdG9yKCIjZGF5X3RzLW5leHQtYnRuIikuYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCBldiA9PiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHkuCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5xdWVyeVNlbGVjdG9yKCIjZGF5X3RzLW5leHQtYnRuIikub25kZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBldi5maWx0ZXIoIjNwcm92YSIsIGV2dCA9PiApCg==</text>
+        <text encoding="base64">ICAgICAgICByZWFkb25seSAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBldi5maWx0ZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBldi5vbih0YmwsICkK</text>
+        <text encoding="base64">ICAgICAgICBldi5vbigK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9uCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5vbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2Lm9kZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaC4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5hZGRFdmVudExpc3RlbmVyKCJ0ZXN0IixldnQgPT4ge2RkfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBldi5maWx0ZXIoInByb3ZhIiwgZXZ0ID0+IHt9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5vbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBldi5maWx0ZXIoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
