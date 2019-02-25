@@ -43,12 +43,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551136418127">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="18" column="45" />
-        <mark key="." line="18" column="45" />
-        <mark key="^" line="18" column="45" />
+      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551138948663">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/timesheet.ts" timestamp="1551005340994">
         <mark key="'" line="4" column="36" />
@@ -86,6 +85,11 @@
         <mark key="]" line="32" column="9" />
         <mark key="." line="32" column="9" />
         <mark key="^" line="32" column="9" />
+      </file>
+      <file name="P:/eval-web/test-ts-bs/package.json" timestamp="1551138781023">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/kjs-test/src/test.kt" timestamp="1551004080983">
         <mark key="'" line="15" column="22" />
@@ -210,11 +214,11 @@
       <jump line="34" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>v</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQi4kMSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>act_dlg</text>
@@ -223,31 +227,31 @@
         <text encoding="base64">aW1wb3J0IEUgPSByZXF1aXJlKCJkb20taGVscGVycy9ldmVudHMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtsaXN0ZW5lckNvdW50fSBmcm9tICJjbHVzdGVyIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQi4kMSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaC5kZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5vbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaC5ldgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNoKCJhIikub25kZAo=</text>
+        <text encoding="base64">ICAgICJjYXNoLWRvbSI6ICJeMy4wLjAtYmV0YS4zIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE0LjEyMSIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5xdWVyeVNlbGVjdG9yKCIjZGF5X3RzLW5leHQtYnRuIikub25kZAo=</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvanF1ZXJ5IjogIl4zLjMuMjkiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkb25seSAoKQo=</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvZG9tLWhlbHBlcnMiOiAiXjMuNC4xIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvbgo=</text>
+        <text encoding="base64">ICAgICJkb20taGVscGVycyI6ICJsYXRlc3QiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBldi5vbigK</text>
+        <text encoding="base64">ICAgICJzZWxlY3QyIjogImxhdGVzdCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
