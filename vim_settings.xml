@@ -39,7 +39,12 @@
         <mark key="." line="71" column="20" />
         <mark key="^" line="71" column="23" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551120921084">
+      <file name="P:/eval-web/eval-ktjs/src/prova.kt" timestamp="1551122418139">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551122368132">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -202,10 +207,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHkuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>on()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>act_dlg</text>
@@ -214,31 +219,31 @@
         <text encoding="base64">aW1wb3J0ICQgZnJvbSAiSlF1ZXJ5Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHkuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5vbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBldi5maWx0ZXIoIjNwcm92YSIsIGV2dCA9PiApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaC4K</text>
+        <text encoding="base64">ICAgICAgICBldi5maWx0ZXIoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBldi5vbih0YmwsICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5vbigpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaC5vbigpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRoLm9uCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnRibC5vbigpCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkaC4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaC5vbgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5vbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
