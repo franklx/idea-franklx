@@ -43,12 +43,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551144114124">
+      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551171866562">
         <mark key="'" line="17" column="5" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="3" column="14" />
+        <mark key="[" line="57" column="39" />
+        <mark key="]" line="58" column="40" />
+        <mark key="^" line="58" column="40" />
+        <mark key="." line="58" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/timesheet.ts" timestamp="1551005340994">
         <mark key="'" line="4" column="36" />
@@ -86,6 +86,9 @@
         <mark key="]" line="32" column="9" />
         <mark key="." line="32" column="9" />
         <mark key="^" line="32" column="9" />
+      </file>
+      <file name="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" timestamp="1551171681704">
+        <mark key="'" line="217" column="78" />
       </file>
       <file name="P:/eval-web/test-ts-bs/package.json" timestamp="1551138781023">
         <mark key="[" line="22" column="32" />
@@ -127,6 +130,9 @@
         <mark key="]" line="29" column="25" />
         <mark key="." line="29" column="25" />
         <mark key="^" line="29" column="25" />
+      </file>
+      <file name="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" timestamp="1551171687507">
+        <mark key="'" line="20" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/ktw/src/jsMain/kotlin/sample/SampleJs.kt" timestamp="1550958488039">
         <mark key="[" line="3" column="33" />
@@ -223,55 +229,72 @@
       <jump line="36" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
       <jump line="13" column="16" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
       <jump line="17" column="5" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="611" column="46" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="470" column="36" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="272" column="42" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="566" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="567" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="568" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="639" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="669" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="160" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="8" column="26" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
+      <jump line="17" column="33" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
+      <jump line="81" column="22" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
+      <jump line="105" column="34" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
+      <jump line="106" column="37" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
+      <jump line="121" column="21" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
+      <jump line="217" column="78" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
+      <jump line="20" column="26" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@</text>
+        <text encoding="base64">IC8vdGhpcy50YmwucXVlcnlTZWxlY3RvcigidGJvZHkuX190cGxfZW1wdHlfXyIpLmV4dHJhY3RIVE1MKCk=</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text encoding="base64">IC8vdGhpcy50YmwucXVlcnlTZWxlY3RvcigidGJvZHkuX190cGxfZW1wdHlfXyIpLmV4dHJhY3RIVE1MKCk=</text>
       </register>
       <register name="/" type="4">
-        <text>Selector</text>
+        <text>addEve</text>
       </register>
       <register name="0" type="4">
         <text>&quot;tbody.__tpl_empty__&quot;).extractHTML()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvbihldmVudDogc3RyaW5nLCAgbGlzdGVuZXI6IEV2ZW50TGlzdGVuZXIpOiB2b2lkCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5xdWVyeVNlbGVjdG9yKCIjZGF5X3RzLW5leHQtYnRuIikuYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCBldiA9PiB7CiAgICAgICAgICAgIGxldCBxID0gJCgiQSIpCiAgICAgICAgICAgIGxldCBlID0gJCgicHJvdmEiKQogICAgICAgICAgICBsZXQgZWwgPSBldi50YXJnZXQgYXMgRWxlbWVudAogICAgICAgICAgICBpZiAoIGVsLm1hdGNoZXMoIi5idXR0b24iKSB8fCBlbC5jbG9zZXN0KCIuZnVjayIpICkgewogICAgICAgICAgICB9CiAgICAgICAgICAgIHRoaXMuY2xlYXIoKS5yZWZyZXNoKCkubG9hZCgpCiAgICAgICAgfSkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5fLnMK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHRoaXM=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkLgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHRoaXM=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbW9kZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVkZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5fLmRlbGVnYXRlKCJjbGljayIsIi4iKQo=</text>
+        <text encoding="base64">ICAgICAgICBvbihldmVudDogc3RyaW5nLCAgbGlzdGVuZXI6IEV2ZW50TGlzdGVuZXIpOiB2b2lkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RWxlbWVudC5wcm90b3R5cGUub24gPSBmdW5jdGlvbihldmVudDpzdHJpbmcsIGxpc3RlbmVyOiBFdmVudExpc3RlbmVyKTogdm9pZCB7CiAgICBFLm9uKHRoaXMsIGV2ZW50LCBsaXN0ZW5lcikKfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5fLnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4ZGQK</text>
+        <text encoding="base64">ICAgICAgICAkLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Selector</last-search>
+      <last-search>addEve</last-search>
       <last-offset />
-      <last-pattern>Selector</last-pattern>
+      <last-pattern>addEve</last-pattern>
       <last-replace>tbl</last-replace>
       <last-substitute>dlg</last-substitute>
       <last-dir>1</last-dir>
@@ -279,10 +302,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pugEngine</entry>
-        <entry>initializeP</entry>
-        <entry>folder</entry>
-        <entry>normalizeFolder</entry>
         <entry>viewName</entry>
         <entry>view</entry>
         <entry encoding="base64">dmlld1w+</entry>
@@ -299,6 +318,10 @@
         <entry>mus</entry>
         <entry>ustac</entry>
         <entry>Selector</entry>
+        <entry>html</entry>
+        <entry>remove</entry>
+        <entry>protot</entry>
+        <entry>addEve</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
@@ -326,6 +349,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
