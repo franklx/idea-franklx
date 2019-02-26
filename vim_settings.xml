@@ -43,11 +43,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551138948663">
+      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551139433600">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="44" column="13" />
+        <mark key="]" line="44" column="13" />
+        <mark key="." line="44" column="13" />
+        <mark key="^" line="44" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/timesheet.ts" timestamp="1551005340994">
         <mark key="'" line="4" column="36" />
@@ -87,9 +88,9 @@
         <mark key="^" line="32" column="9" />
       </file>
       <file name="P:/eval-web/test-ts-bs/package.json" timestamp="1551138781023">
-        <mark key="[" line="21" column="32" />
-        <mark key="]" line="21" column="32" />
-        <mark key="." line="21" column="32" />
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/kjs-test/src/test.kt" timestamp="1551004080983">
         <mark key="'" line="15" column="22" />
@@ -214,11 +215,11 @@
       <jump line="34" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQi4kMSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>._bind</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>._bind</text>
       </register>
       <register name="/" type="4">
         <text>act_dlg</text>
