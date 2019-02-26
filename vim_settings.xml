@@ -43,12 +43,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551140251537">
-        <mark key="'" line="0" column="11" />
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-        <mark key="^" line="0" column="24" />
+      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551144114124">
+        <mark key="'" line="17" column="5" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/timesheet.ts" timestamp="1551005340994">
         <mark key="'" line="4" column="36" />
@@ -219,55 +219,59 @@
       <jump line="0" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
       <jump line="29" column="24" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
       <jump line="4" column="11" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="30" column="21" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="36" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="13" column="16" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="17" column="5" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>@</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
-        <text>ustac</text>
+        <text>Selector</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEUgPSByZXF1aXJlKCJkb20taGVscGVycy9ldmVudHMiKQo=</text>
+      <register name="0" type="4">
+        <text>&quot;tbody.__tpl_empty__&quot;).extractHTML()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtdXN0YWNoZS5wYXJzZSgiYSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBvbihldmVudDogc3RyaW5nLCAgbGlzdGVuZXI6IEV2ZW50TGlzdGVuZXIpOiB2b2lkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE11c3RhY2hlLmRkCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5fLnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoKaW1wb3J0IEggPSByZXF1aXJlKCJkb20taGVscGVycyIpCmltcG9ydCBFID0gcmVxdWlyZSgiZG9tLWhlbHBlcnMvZXZlbnRzIikKaW1wb3J0IGUgPSByZXF1aXJlKCJkb20taGVscGVycy9xdWVyeSIpCiovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcS5hZGRFdmVudExpc3RlbmVyKCkK</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmxpc3MuJCgiYSIpLm9uCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5fLmRlbGVnYXRlKCJjbGljayIsIi4iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkJCgiYSIpLnJldmVyc2UK</text>
+        <text encoding="base64">RWxlbWVudC5wcm90b3R5cGUub24gPSBmdW5jdGlvbihldmVudDpzdHJpbmcsIGxpc3RlbmVyOiBFdmVudExpc3RlbmVyKTogdm9pZCB7CiAgICBFLm9uKHRoaXMsIGV2ZW50LCBsaXN0ZW5lcikKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkKCJhIikuCg==</text>
+        <text encoding="base64">ICAgICAgICB4ZGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ustac</last-search>
+      <last-search>Selector</last-search>
       <last-offset />
-      <last-pattern>ustac</last-pattern>
+      <last-pattern>Selector</last-pattern>
       <last-replace>tbl</last-replace>
       <last-substitute>dlg</last-substitute>
       <last-dir>1</last-dir>
@@ -275,7 +279,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pugEngline</entry>
         <entry>pugEngine</entry>
         <entry>initializeP</entry>
         <entry>folder</entry>
@@ -295,6 +298,7 @@
         <entry>moment</entry>
         <entry>mus</entry>
         <entry>ustac</entry>
+        <entry>Selector</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
@@ -316,6 +320,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
