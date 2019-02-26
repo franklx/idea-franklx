@@ -43,12 +43,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551177803095">
+      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551207246282">
         <mark key="'" line="17" column="5" />
-        <mark key="[" line="46" column="46" />
-        <mark key="]" line="47" column="45" />
-        <mark key="^" line="47" column="45" />
-        <mark key="." line="47" column="45" />
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="50" />
+        <mark key="." line="22" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/timesheet.ts" timestamp="1551005340994">
         <mark key="'" line="4" column="36" />
@@ -113,6 +113,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="P:/fwtsheet/templates/timesheet.ls" timestamp="1551217538366" />
       <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/select2/index.global.kt" timestamp="1551002909898">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="28" />
@@ -248,11 +249,11 @@
       <jump line="20" column="26" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgclswXQo=</text>
+      <register name="&quot;" type="4">
+        <text>:w</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>:w</text>
       </register>
       <register name="/" type="4">
         <text>addEve</text>
