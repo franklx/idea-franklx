@@ -14,11 +14,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-jquery.ts" timestamp="1551136129248">
+      <file name="P:/eval-web/test-ts-bs/ts/prova-jquery.ts" timestamp="1551139740367">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/eval-ktjs/src/prova.kt" timestamp="1551028229933">
         <mark key="[" line="20" column="8" />
@@ -43,12 +43,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551139433600">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="44" column="13" />
-        <mark key="]" line="44" column="13" />
-        <mark key="." line="44" column="13" />
-        <mark key="^" line="44" column="13" />
+      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551140251537">
+        <mark key="'" line="4" column="11" />
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/timesheet.ts" timestamp="1551005340994">
         <mark key="'" line="4" column="36" />
@@ -213,55 +213,61 @@
       <jump line="5" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-jquery.ts" />
       <jump line="46" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
       <jump line="34" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="11" column="4" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="18" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="1" column="10" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="0" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="29" column="24" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="4" column="11" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>._bind</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>._bind</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>act_dlg</text>
+        <text>ustac</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEUgPSByZXF1aXJlKCJkb20taGVscGVycy9ldmVudHMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQi4kMSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBtdXN0YWNoZS5wYXJzZSgiYSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5vbgo=</text>
+        <text encoding="base64">ICAgIE11c3RhY2hlLmRkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJjYXNoLWRvbSI6ICJeMy4wLjAtYmV0YS4zIgo=</text>
+        <text encoding="base64">LyoKaW1wb3J0IEggPSByZXF1aXJlKCJkb20taGVscGVycyIpCmltcG9ydCBFID0gcmVxdWlyZSgiZG9tLWhlbHBlcnMvZXZlbnRzIikKaW1wb3J0IGUgPSByZXF1aXJlKCJkb20taGVscGVycy9xdWVyeSIpCiovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE0LjEyMSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcS5hZGRFdmVudExpc3RlbmVyKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvanF1ZXJ5IjogIl4zLjMuMjkiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvZG9tLWhlbHBlcnMiOiAiXjMuNC4xIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmxpc3MuJCgiYSIpLm9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJkb20taGVscGVycyI6ICJsYXRlc3QiLAo=</text>
+        <text encoding="base64">ICAgICAgICAkJCgiYSIpLnJldmVyc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJzZWxlY3QyIjogImxhdGVzdCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAkKCJhIikuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>act_dlg</last-search>
+      <last-search>ustac</last-search>
       <last-offset />
-      <last-pattern>act_dlg</last-pattern>
+      <last-pattern>ustac</last-pattern>
       <last-replace>tbl</last-replace>
       <last-substitute>dlg</last-substitute>
       <last-dir>1</last-dir>
@@ -269,7 +275,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Exception</entry>
         <entry>pugEngline</entry>
         <entry>pugEngine</entry>
         <entry>initializeP</entry>
@@ -286,6 +291,10 @@
         <entry>jdbi</entry>
         <entry>dlg</entry>
         <entry>act_dlg</entry>
+        <entry>mustac</entry>
+        <entry>moment</entry>
+        <entry>mus</entry>
+        <entry>ustac</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
