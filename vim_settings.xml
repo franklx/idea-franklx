@@ -57,6 +57,12 @@
         <mark key="^" line="31" column="14" />
         <mark key="." line="31" column="14" />
       </file>
+      <file name="P:/eval-web/eval-ts/demo.html" timestamp="1551292766432">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+      </file>
       <file name="P:/eval-web/test-ts-bs/ts/prova.ts" timestamp="1551054979474">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -283,17 +289,17 @@
       <jump line="44" column="8" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCA9IHJlcXVpcmUoIm1vbWVudCIpOyAvL2ltcG9ydCBkZWZhdWx0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>main</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text>mustache</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJsaWIiOiBbImVzMjAxNiJdLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLyogU3BlY2lmeSBsaWJyYXJ5IGZpbGVzIHRvIGJlIGluY2x1ZGVkIGluIHRoZSBjb21waWxhdGlvbi4gKi8K</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJkaXN0L21haW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG1vbWVudCA9IHJlcXVpcmUoIm1vbWVudCIpOyAvL2ltcG9ydCBkZWZhdWx0Cg==</text>
