@@ -44,12 +44,12 @@
         <mark key="." line="23" column="49" />
         <mark key="^" line="23" column="49" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551272209727">
-        <mark key="'" line="2" column="44" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="0" />
+      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551274291837">
+        <mark key="'" line="50" column="26" />
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="8" />
       </file>
       <file name="P:/eval-kotlin/jooby/src/main/kotlin/example/jooby/App.kt" timestamp="1551226454667">
         <mark key="[" line="30" column="15" />
@@ -182,12 +182,12 @@
       <file name="/fragment.java" timestamp="1551122676726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/tsconfig.json" timestamp="1551270634013">
-        <mark key="'" line="57" column="25" />
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
-        <mark key="^" line="4" column="18" />
+      <file name="P:/eval-web/test-ts-bs/tsconfig.json" timestamp="1551274144820">
+        <mark key="'" line="13" column="5" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+        <mark key="^" line="9" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -278,63 +278,66 @@
       <jump line="57" column="25" filename="P:/eval-web/test-ts-bs/tsconfig.json" />
       <jump line="36" column="18" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
       <jump line="4" column="44" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="2" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="13" column="5" filename="P:/eval-web/test-ts-bs/tsconfig.json" />
+      <jump line="3" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="49" column="26" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgImJsaXNzIiAvLyBsb2FkIGluIGdsb2JhbCBuYW1lc3BhY2UgKG5vdCBhIG1vZHVsZSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>mustache</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgdHlwZXM9ImJsaXNzZnVsanMiLz4K</text>
+        <text encoding="base64">aW1wb3J0IG11c3RhY2hlID0gcmVxdWlyZSgibXVzdGFjaGUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgImJsaXNzIiAvLyBsb2FkIGluIGdsb2JhbCBuYW1lc3BhY2UgKG5vdCBhIG1vZHVsZSkK</text>
+        <text encoding="base64">aW1wb3J0IHdyZXRjaCA9IHJlcXVpcmUoIndyZXRjaCIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9kc2Qvc2QvYS8vLyA8cmVmZXJlbmNlIHR5cGVzPSJibGlzc2Z1bGpzIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICB3cmV0Y2guZGVmYXVsdCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgImJsaXNzIiAvLyBsb2FkIGluIGdsb2JhbCBuYW1lc3BhY2UgKG5vdCBhIG1vZHVsZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9kc2Qvc2QvYS8vLyA8cmVmZXJlbmNlIHR5cGVzPSJibGlzc2Z1bGpzIi8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgbW9tZW50ID0gcmVxdWlyZSgibW9tZW50Iik7Cgo=</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgdHlwZXM9ImJsaXNzZnVsanMiLz4KCi8vaW1wb3J0IG1vbWVudCA9IHJlcXVpcmUoIm1vbWVudCIpOwoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly9pbXBvcnQgbW9tZW50ID0gcmVxdWlyZSgibW9tZW50Iik7Cgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgeyBNb21lbnQgfSBmcm9tICIuLi9ub2RlX21vZHVsZXMvbW9tZW50L21vbWVudCI7Cg==</text>
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgdHlwZXM9ImJsaXNzZnVsanMiLz4KCi8vaW1wb3J0IG1vbWVudCA9IHJlcXVpcmUoIm1vbWVudCIpOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCA9IHJlcXVpcmUoIm1vbWVudCIpOwppbXBvcnQge01vbWVudH0gZnJvbSAibW9tZW50IjsgLy8gaW1wb3J0IGRlZmF1bHQgZXhwb3J0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>mustache</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
-      <last-replace>tbl</last-replace>
-      <last-substitute>dlg</last-substitute>
+      <last-pattern>mustache</last-pattern>
+      <last-replace>wretch</last-replace>
+      <last-substitute>mustache</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>config</entry>
         <entry>System.</entry>
         <entry>resource</entry>
         <entry>initializePug</entry>
@@ -343,7 +346,6 @@
         <entry>dlg</entry>
         <entry>act_dlg</entry>
         <entry>mustac</entry>
-        <entry>moment</entry>
         <entry>mus</entry>
         <entry>ustac</entry>
         <entry>Selector</entry>
@@ -354,10 +356,14 @@
         <entry>refere</entry>
         <entry>momen</entry>
         <entry>data</entry>
+        <entry>moment</entry>
+        <entry>mustache</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
         <entry encoding="base64">JzwsJz5zOmRsZzp0Ymw6Zw==</entry>
+        <entry encoding="base64">JzwsJz5zOm1vbWVudDptdXN0YWNoZTpn</entry>
+        <entry encoding="base64">JzwsJz5zOm11c3RhY2hlOndyZXRjaDpn</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
