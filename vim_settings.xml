@@ -44,11 +44,12 @@
         <mark key="." line="23" column="49" />
         <mark key="^" line="23" column="49" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551274742696">
-        <mark key="'" line="49" column="26" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551276794084">
+        <mark key="'" line="44" column="8" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="44" column="23" />
       </file>
       <file name="P:/eval-kotlin/jooby/src/main/kotlin/example/jooby/App.kt" timestamp="1551226454667">
         <mark key="[" line="30" column="15" />
@@ -96,9 +97,9 @@
       <file name="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" timestamp="1551171681704">
         <mark key="'" line="217" column="78" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/package.json" timestamp="1551274526204">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
+      <file name="P:/eval-web/test-ts-bs/package.json" timestamp="1551276870611">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="54" />
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/kjs-test/src/test.kt" timestamp="1551004080983">
@@ -181,6 +182,12 @@
       <file name="/fragment.java" timestamp="1551122676726">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="P:/eval-web/test-ts-bs/tsconfig.json" timestamp="1551276421898">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="28" column="35" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
@@ -261,7 +268,6 @@
       <jump line="20" column="26" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
       <jump line="38" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
       <jump line="41" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="44" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
       <jump line="0" column="0" filename="P:/eval-web/eval-ktjs/out/production/eval-ktjs/eval-ktjs.js" />
       <jump line="22" column="19" filename="P:/eval-web/eval-ktjs/out/production/eval-ktjs/eval-ktjs.js" />
       <jump line="7" column="51" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
@@ -274,13 +280,14 @@
       <jump line="13" column="5" filename="P:/eval-web/test-ts-bs/tsconfig.json" />
       <jump line="3" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
       <jump line="49" column="26" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="44" column="8" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJsaWIiOiBbImVzMjAxNiJdLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLyogU3BlY2lmeSBsaWJyYXJ5IGZpbGVzIHRvIGJlIGluY2x1ZGVkIGluIHRoZSBjb21waWxhdGlvbi4gKi8K</text>
+        <text encoding="base64">CQkJCQkJCQkiYm9vdHN0cmFwIjogImxhdGVzdCIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>mustache</text>
@@ -289,31 +296,31 @@
         <text encoding="base64">ICAgICJsaWIiOiBbImVzMjAxNiJdLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLyogU3BlY2lmeSBsaWJyYXJ5IGZpbGVzIHRvIGJlIGluY2x1ZGVkIGluIHRoZSBjb21waWxhdGlvbi4gKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgd3JldGNoIGZyb20gIndyZXRjaCIK</text>
+        <text encoding="base64">CQkJCQkJCQkiYm9vdHN0cmFwIjogImxhdGVzdCIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQkiQGJhYmVsL3BvbHlmaWxsIjogIl43LjIuNSIsCg==</text>
+        <text encoding="base64">CQkJCQkJCQkiYm9vdHN0cmFwIjogImxhdGVzdCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgd3JldGNoIGZyb20gIndyZXRjaCIK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CQkJCQkJCQkiQGJhYmVsL2NsaSI6ICJeNy4yLjMiLAoJCQkJCQkJCSJAYmFiZWwvY29yZSI6ICJeNy4zLjQiLAoJCQkJCQkJCSJAYmFiZWwvcHJlc2V0LWVudiI6ICJeNy4zLjQiLAoJCQkJCQkJCSJAYmFiZWwvcHJlc2V0LXR5cGVzY3JpcHQiOiAiXjcuMy4zIiw=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkJCQkiQGJhYmVsL3BvbHlmaWxsIjogIl43LjIuNSIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHdyZXRjaCA9IHJlcXVpcmUoIndyZXRjaCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3cmV0Y2guZGVmYXVsdCgpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CQkJCQkJCQkiQGJhYmVsL2NsaSI6ICJeNy4yLjMiLAoJCQkJCQkJCSJAYmFiZWwvY29yZSI6ICJeNy4zLjQiLAoJCQkJCQkJCSJAYmFiZWwvcHJlc2V0LWVudiI6ICJeNy4zLjQiLAoJCQkJCQkJCSJAYmFiZWwvcHJlc2V0LXR5cGVzY3JpcHQiOiAiXjcuMy4zIiw=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgImJsaXNzIiAvLyBsb2FkIGluIGdsb2JhbCBuYW1lc3BhY2UgKG5vdCBhIG1vZHVsZSkK</text>
+        <text encoding="base64">aW1wb3J0IHdyZXRjaCA9IHJlcXVpcmUoIndyZXRjaCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9kc2Qvc2QvYS8vLyA8cmVmZXJlbmNlIHR5cGVzPSJibGlzc2Z1bGpzIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICB3cmV0Y2guZGVmYXVsdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgImJsaXNzIiAvLyBsb2FkIGluIGdsb2JhbCBuYW1lc3BhY2UgKG5vdCBhIG1vZHVsZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
