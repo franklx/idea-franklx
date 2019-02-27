@@ -50,6 +50,12 @@
         <mark key="^" line="22" column="50" />
         <mark key="." line="22" column="23" />
       </file>
+      <file name="P:/eval-kotlin/jooby/src/main/kotlin/example/jooby/App.kt" timestamp="1551226454667">
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="31" column="14" />
+        <mark key="^" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/timesheet.ts" timestamp="1551005340994">
         <mark key="'" line="4" column="36" />
         <mark key="[" line="2" column="13" />
@@ -103,6 +109,12 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="P:/eval-kotlin/jooby/build.gradle.kts" timestamp="1551226689212">
+        <mark key="[" line="49" column="30" />
+        <mark key="]" line="49" column="40" />
+        <mark key="." line="49" column="40" />
+        <mark key="^" line="49" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/conf/application.conf" timestamp="1549058068965">
         <mark key="[" line="2" column="72" />
@@ -252,16 +264,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:w</text>
+        <text>gson</text>
       </register>
       <register name="-" type="4">
-        <text>:w</text>
+        <text>gson</text>
       </register>
       <register name="/" type="4">
         <text>addEve</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;tbody.__tpl_empty__&quot;).extractHTML()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5qb29ieTpqb29ieS1nc29uOisiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgclswXQo=</text>
