@@ -38,6 +38,11 @@
         <mark key="." line="71" column="20" />
         <mark key="^" line="71" column="23" />
       </file>
+      <file name="P:/eval-web/eval-ktjs/src/prova.kt" timestamp="1551228326419">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551114733670">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="2" column="7" />
@@ -201,8 +206,8 @@
       <jump line="46" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmZXRkZGNoCg==</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -214,31 +219,31 @@
         <text encoding="base64">aW1wb3J0ICQgZnJvbSAiSlF1ZXJ5Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICBmZXRkZGNoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgXyBmcm9tICJkb20taGVscGVycyIK</text>
+        <text encoding="base64">ICAgICAgICBmZXRjaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Xy5vbigpCg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RWxlbWVudC5vbgo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgXyBmcm9tICJkb20taGVscGVycyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Xy5vbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Xy5pc1Byb3RvdHlwZU9mKCkK</text>
+        <text encoding="base64">RWxlbWVudC5vbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGh0bWxTdHJpbmcgPSBKUXVlcnkuaHRtbFN0cmluZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGh0bWxTdHJpbmcgPSBKUXVlcnkuaHRtbFN0cmluZzsK</text>
+        <text encoding="base64">Xy5pc1Byb3RvdHlwZU9mKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JCgiYSIpLm9uKCkK</text>
+        <text encoding="base64">aW1wb3J0IGh0bWxTdHJpbmcgPSBKUXVlcnkuaHRtbFN0cmluZzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
