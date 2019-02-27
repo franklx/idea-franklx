@@ -14,11 +14,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-jquery.ts" timestamp="1551139740367">
+      <file name="P:/eval-web/test-ts-bs/ts/prova-jquery.ts" timestamp="1551259691041">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/eval-ktjs/src/prova.kt" timestamp="1551028229933">
         <mark key="[" line="20" column="8" />
@@ -43,25 +43,17 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551207246282">
-        <mark key="'" line="17" column="5" />
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="23" />
-        <mark key="^" line="22" column="50" />
-        <mark key="." line="22" column="23" />
+      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551261179767">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="49" column="49" />
       </file>
       <file name="P:/eval-kotlin/jooby/src/main/kotlin/example/jooby/App.kt" timestamp="1551226454667">
         <mark key="[" line="30" column="15" />
         <mark key="]" line="31" column="14" />
         <mark key="^" line="31" column="14" />
         <mark key="." line="31" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/timesheet.ts" timestamp="1551005340994">
-        <mark key="'" line="4" column="36" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="^" line="3" column="11" />
       </file>
       <file name="P:/eval-web/test-ts-bs/ts/prova.ts" timestamp="1551054979474">
         <mark key="[" line="0" column="0" />
@@ -74,12 +66,8 @@
         <mark key="]" line="37" column="41" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" timestamp="1548288621250">
-        <mark key="'" line="74" column="25" />
-        <mark key="[" line="81" column="8" />
-        <mark key="]" line="81" column="15" />
-        <mark key="^" line="81" column="15" />
-        <mark key="." line="81" column="15" />
+      <file name="P:/eval-web/test-ts-bs/node_modules/moment/moment.d.ts" timestamp="1551259188935">
+        <mark key="'" line="39" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/bootstrap/index.global.kt" timestamp="1551004028418">
         <mark key="[" line="2" column="37" />
@@ -95,6 +83,12 @@
         <mark key="]" line="32" column="9" />
         <mark key="." line="32" column="9" />
         <mark key="^" line="32" column="9" />
+      </file>
+      <file name="P:/eval-web/test-ts-bs/ts/prova.html" timestamp="1551260057278">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
       </file>
       <file name="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" timestamp="1551171681704">
         <mark key="'" line="217" column="78" />
@@ -127,6 +121,9 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="P:/eval-web/test-ts-bs/node_modules/@types/mustache/index.d.ts" timestamp="1551259223818">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/select2/index.global.kt" timestamp="1551002909898">
         <mark key="[" line="2" column="8" />
@@ -180,6 +177,13 @@
       </file>
       <file name="/fragment.java" timestamp="1551122676726">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="P:/eval-web/test-ts-bs/tsconfig.json" timestamp="1551261885092">
+        <mark key="'" line="25" column="63" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -261,55 +265,70 @@
       <jump line="121" column="21" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
       <jump line="217" column="78" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
       <jump line="20" column="26" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="45" column="31" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="735" column="12" filename="P:/eval-web/test-ts-bs/node_modules/moment/moment.d.ts" />
+      <jump line="0" column="119" filename="P:/eval-web/test-ts-bs/node_modules/moment/moment.d.ts" />
+      <jump line="1" column="138" filename="P:/eval-web/test-ts-bs/node_modules/moment/moment.d.ts" />
+      <jump line="9" column="50" filename="P:/eval-web/test-ts-bs/node_modules/moment/moment.d.ts" />
+      <jump line="23" column="14" filename="P:/eval-web/test-ts-bs/node_modules/moment/moment.d.ts" />
+      <jump line="25" column="19" filename="P:/eval-web/test-ts-bs/node_modules/moment/moment.d.ts" />
+      <jump line="30" column="12" filename="P:/eval-web/test-ts-bs/node_modules/moment/moment.d.ts" />
+      <jump line="35" column="16" filename="P:/eval-web/test-ts-bs/node_modules/moment/moment.d.ts" />
+      <jump line="37" column="19" filename="P:/eval-web/test-ts-bs/node_modules/moment/moment.d.ts" />
+      <jump line="39" column="21" filename="P:/eval-web/test-ts-bs/node_modules/moment/moment.d.ts" />
+      <jump line="233" column="19" filename="P:/eval-web/test-ts-bs/node_modules/@types/mustache/index.d.ts" />
+      <jump line="0" column="0" filename="P:/eval-web/test-ts-bs/node_modules/@types/mustache/index.d.ts" />
+      <jump line="4" column="50" filename="P:/eval-web/test-ts-bs/tsconfig.json" />
+      <jump line="25" column="63" filename="P:/eval-web/test-ts-bs/tsconfig.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>babel</text>
+        <text>umd</text>
       </register>
       <register name="-" type="4">
-        <text>babel</text>
+        <text>umd</text>
       </register>
       <register name="/" type="4">
-        <text>addEve</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5qb29ieTpqb29ieS1hc3NldHMtYmFiZWw6KyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoe3RpbWVzaGVldF9pZDogdHNfaWQsIGRheTogdGhpcy5yZWZfZGF5LnRvSVNPU3RyaW5nKHRydWUpfSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgclswXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmZXRjaChVUkxfVFNIRUVUX0xTVCwgewogICAgICAgICAgICAgICAgICAgICAgICBtZXRob2Q6ICJHRVQiLAogICAgICAgICAgICAgICAgICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSgpLAogICAgICAgICAgICAgICAgICAgIH0pLnRoZW4ocnNwID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgbGV0IHIgPSByc3AuanNvbigpCiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuYWN0X2RsZy5zZXQoclswXSkKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5hY3RfZGxnLnNob3codHJ1ZSkKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5xdWVyeVNlbGVjdG9yKCIjZGF5X3RzLW5leHQtYnRuIikuYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCBldiA9PiB7CiAgICAgICAgICAgIGxldCBxID0gJCgiQSIpCiAgICAgICAgICAgIGxldCBlID0gJCgicHJvdmEiKQogICAgICAgICAgICBsZXQgZWwgPSBldi50YXJnZXQgYXMgRWxlbWVudAogICAgICAgICAgICBpZiAoIGVsLm1hdGNoZXMoIi5idXR0b24iKSB8fCBlbC5jbG9zZXN0KCIuZnVjayIpICkgewogICAgICAgICAgICB9CiAgICAgICAgICAgIHRoaXMuY2xlYXIoKS5yZWZyZXNoKCkubG9hZCgpCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoe3RpbWVzaGVldF9pZDogdHNfaWQsIGRheTogdGhpcy5yZWZfZGF5LnRvSVNPU3RyaW5nKHRydWUpfSksCiAgICAgICAgICAgICAgICAgICAgfSkuanNvbigpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHRoaXM=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGIK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHRoaXM=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWV0aG9kOiAiR0VUIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbW9kZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYm9keToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoe3RpbWVzaGVldF9pZDogdHNfaWQsIGRheTogdGhpcy5yZWZfZGF5LnRvSVNPU3RyaW5nKHRydWUpfSksCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvbihldmVudDogc3RyaW5nLCAgbGlzdGVuZXI6IEV2ZW50TGlzdGVuZXIpOiB2b2lkCg==</text>
+        <text encoding="base64">ICAgIG1lOiBtb21lbnQuTW9tZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5fLnMK</text>
+        <text encoding="base64">bW9tZW50Lk1vbQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>addEve</last-search>
+      <last-search>null</last-search>
       <last-offset />
-      <last-pattern>addEve</last-pattern>
+      <last-pattern>null</last-pattern>
       <last-replace>tbl</last-replace>
       <last-substitute>dlg</last-substitute>
       <last-dir>1</last-dir>
@@ -317,8 +336,6 @@
     </search>
     <history>
       <history-search>
-        <entry>viewName</entry>
-        <entry>view</entry>
         <entry encoding="base64">dmlld1w+</entry>
         <entry>config</entry>
         <entry>System.</entry>
@@ -337,10 +354,13 @@
         <entry>remove</entry>
         <entry>protot</entry>
         <entry>addEve</entry>
+        <entry>Moment</entry>
+        <entry>null</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
         <entry encoding="base64">JzwsJz5zOmRsZzp0Ymw6Zw==</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
