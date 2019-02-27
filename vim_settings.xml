@@ -43,12 +43,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551207246282">
-        <mark key="'" line="17" column="5" />
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="23" />
-        <mark key="^" line="22" column="50" />
-        <mark key="." line="22" column="23" />
+      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551267689854">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="P:/eval-kotlin/jooby/src/main/kotlin/example/jooby/App.kt" timestamp="1551226454667">
         <mark key="[" line="30" column="15" />
@@ -95,6 +94,12 @@
         <mark key="]" line="32" column="9" />
         <mark key="." line="32" column="9" />
         <mark key="^" line="32" column="9" />
+      </file>
+      <file name="P:/eval-web/test-ts-bs/ts/prova.html" timestamp="1551267164549">
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="5" column="63" />
+        <mark key="^" line="5" column="63" />
+        <mark key="." line="5" column="63" />
       </file>
       <file name="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" timestamp="1551171681704">
         <mark key="'" line="217" column="78" />
@@ -181,6 +186,12 @@
       <file name="/fragment.java" timestamp="1551122676726">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="P:/eval-web/test-ts-bs/tsconfig.json" timestamp="1551267466485">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="28" column="35" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
@@ -261,55 +272,56 @@
       <jump line="121" column="21" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
       <jump line="217" column="78" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
       <jump line="20" column="26" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="38" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>babel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtb21lbnQuTW9tZW50Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>babel</text>
+        <text>blissfuljs</text>
       </register>
       <register name="/" type="4">
-        <text>addEve</text>
+        <text>refere</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5qb29ieTpqb29ieS1hc3NldHMtYmFiZWw6KyIpCg==</text>
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgdHlwZXM9ImJsaXNzZnVsanMiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgclswXQo=</text>
+        <text encoding="base64">ICAgICAgICBtb21lbnQuTW9tZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5xdWVyeVNlbGVjdG9yKCIjZGF5X3RzLW5leHQtYnRuIikuYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCBldiA9PiB7CiAgICAgICAgICAgIGxldCBxID0gJCgiQSIpCiAgICAgICAgICAgIGxldCBlID0gJCgicHJvdmEiKQogICAgICAgICAgICBsZXQgZWwgPSBldi50YXJnZXQgYXMgRWxlbWVudAogICAgICAgICAgICBpZiAoIGVsLm1hdGNoZXMoIi5idXR0b24iKSB8fCBlbC5jbG9zZXN0KCIuZnVjayIpICkgewogICAgICAgICAgICB9CiAgICAgICAgICAgIHRoaXMuY2xlYXIoKS5yZWZyZXNoKCkubG9hZCgpCiAgICAgICAgfSkK</text>
+        <text encoding="base64">LyoK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHRoaXM=</text>
+      <register name="3" type="2">
+        <text encoding="base64">LyoK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHRoaXM=</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0ICJtb21lbnQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbW9kZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgclswXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVkZAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5xdWVyeVNlbGVjdG9yKCIjZGF5X3RzLW5leHQtYnRuIikuYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCBldiA9PiB7CiAgICAgICAgICAgIGxldCBxID0gJCgiQSIpCiAgICAgICAgICAgIGxldCBlID0gJCgicHJvdmEiKQogICAgICAgICAgICBsZXQgZWwgPSBldi50YXJnZXQgYXMgRWxlbWVudAogICAgICAgICAgICBpZiAoIGVsLm1hdGNoZXMoIi5idXR0b24iKSB8fCBlbC5jbG9zZXN0KCIuZnVjayIpICkgewogICAgICAgICAgICB9CiAgICAgICAgICAgIHRoaXMuY2xlYXIoKS5yZWZyZXNoKCkubG9hZCgpCiAgICAgICAgfSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHRoaXM=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvbihldmVudDogc3RyaW5nLCAgbGlzdGVuZXI6IEV2ZW50TGlzdGVuZXIpOiB2b2lkCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHRoaXM=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5fLnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbW9kZToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>addEve</last-search>
+      <last-search>refere</last-search>
       <last-offset />
-      <last-pattern>addEve</last-pattern>
+      <last-pattern>refere</last-pattern>
       <last-replace>tbl</last-replace>
       <last-substitute>dlg</last-substitute>
       <last-dir>1</last-dir>
@@ -317,7 +329,6 @@
     </search>
     <history>
       <history-search>
-        <entry>viewName</entry>
         <entry>view</entry>
         <entry encoding="base64">dmlld1w+</entry>
         <entry>config</entry>
@@ -337,6 +348,7 @@
         <entry>remove</entry>
         <entry>protot</entry>
         <entry>addEve</entry>
+        <entry>refere</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
