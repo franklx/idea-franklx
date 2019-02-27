@@ -1,5 +1,7 @@
 <application>
   <component name="UISettings">
-    <option name="MAX_LOOKUP_WIDTH2" value="1009" />
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>

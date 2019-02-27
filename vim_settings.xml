@@ -14,11 +14,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-jquery.ts" timestamp="1551114685609">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="P:/eval-web/test-ts-bs/ts/prova-jquery.ts" timestamp="1551139740367">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/eval-ktjs/src/prova.kt" timestamp="1551028229933">
         <mark key="[" line="20" column="8" />
@@ -38,17 +38,23 @@
         <mark key="." line="71" column="20" />
         <mark key="^" line="71" column="23" />
       </file>
-      <file name="P:/eval-web/eval-ktjs/src/prova.kt" timestamp="1551228326419">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="P:/eval-web/eval-ktjs/src/prova.kt" timestamp="1551122418139">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551114733670">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-        <mark key="^" line="2" column="7" />
+      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551207246282">
+        <mark key="'" line="17" column="5" />
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="50" />
+        <mark key="." line="22" column="23" />
+      </file>
+      <file name="P:/eval-kotlin/jooby/src/main/kotlin/example/jooby/App.kt" timestamp="1551226454667">
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="31" column="14" />
+        <mark key="^" line="31" column="14" />
+        <mark key="." line="31" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/timesheet.ts" timestamp="1551005340994">
         <mark key="'" line="4" column="36" />
@@ -81,17 +87,34 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="19" column="32" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1551221657226">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/App.kt" timestamp="1549092486465">
         <mark key="[" line="35" column="8" />
         <mark key="]" line="32" column="9" />
         <mark key="." line="32" column="9" />
         <mark key="^" line="32" column="9" />
       </file>
+      <file name="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" timestamp="1551171681704">
+        <mark key="'" line="217" column="78" />
+      </file>
+      <file name="P:/eval-web/test-ts-bs/package.json" timestamp="1551138781023">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/kjs-test/src/test.kt" timestamp="1551004080983">
         <mark key="'" line="15" column="22" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="P:/eval-kotlin/jooby/build.gradle.kts" timestamp="1551227247157">
+        <mark key="[" line="50" column="36" />
+        <mark key="]" line="50" column="39" />
+        <mark key="." line="50" column="39" />
+        <mark key="^" line="50" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/conf/application.conf" timestamp="1549058068965">
         <mark key="[" line="2" column="72" />
@@ -123,6 +146,9 @@
         <mark key="." line="29" column="25" />
         <mark key="^" line="29" column="25" />
       </file>
+      <file name="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" timestamp="1551171687507">
+        <mark key="'" line="20" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/ktw/src/jsMain/kotlin/sample/SampleJs.kt" timestamp="1550958488039">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="39" />
@@ -151,6 +177,9 @@
         <mark key="]" line="64" column="13" />
         <mark key="^" line="64" column="13" />
         <mark key="." line="64" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1551122676726">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -204,55 +233,83 @@
       <jump line="15" column="25" filename="$USER_HOME$/Projects/test-ts-bs/ts/prova.ts" />
       <jump line="5" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-jquery.ts" />
       <jump line="46" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="34" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="11" column="4" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="18" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="1" column="10" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="0" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="29" column="24" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="4" column="11" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="30" column="21" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="36" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="13" column="16" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="17" column="5" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="611" column="46" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="470" column="36" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="272" column="42" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="566" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="567" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="568" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="639" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="669" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="160" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
+      <jump line="8" column="26" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
+      <jump line="17" column="33" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
+      <jump line="81" column="22" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
+      <jump line="105" column="34" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
+      <jump line="106" column="37" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
+      <jump line="121" column="21" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
+      <jump line="217" column="78" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
+      <jump line="20" column="26" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRkZGNoCg==</text>
+      <register name="&quot;" type="4">
+        <text>babel</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>babel</text>
       </register>
       <register name="/" type="4">
-        <text>act_dlg</text>
+        <text>addEve</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICQgZnJvbSAiSlF1ZXJ5Igo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5qb29ieTpqb29ieS1hc3NldHMtYmFiZWw6KyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRkZGNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgclswXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5xdWVyeVNlbGVjdG9yKCIjZGF5X3RzLW5leHQtYnRuIikuYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCBldiA9PiB7CiAgICAgICAgICAgIGxldCBxID0gJCgiQSIpCiAgICAgICAgICAgIGxldCBlID0gJCgicHJvdmEiKQogICAgICAgICAgICBsZXQgZWwgPSBldi50YXJnZXQgYXMgRWxlbWVudAogICAgICAgICAgICBpZiAoIGVsLm1hdGNoZXMoIi5idXR0b24iKSB8fCBlbC5jbG9zZXN0KCIuZnVjayIpICkgewogICAgICAgICAgICB9CiAgICAgICAgICAgIHRoaXMuY2xlYXIoKS5yZWZyZXNoKCkubG9hZCgpCiAgICAgICAgfSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHRoaXM=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgXyBmcm9tICJkb20taGVscGVycyIK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHRoaXM=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Xy5vbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbW9kZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RWxlbWVudC5vbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVkZAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Xy5pc1Byb3RvdHlwZU9mKCkK</text>
+        <text encoding="base64">ICAgICAgICBvbihldmVudDogc3RyaW5nLCAgbGlzdGVuZXI6IEV2ZW50TGlzdGVuZXIpOiB2b2lkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGh0bWxTdHJpbmcgPSBKUXVlcnkuaHRtbFN0cmluZzsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRibC5fLnMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>act_dlg</last-search>
+      <last-search>addEve</last-search>
       <last-offset />
-      <last-pattern>act_dlg</last-pattern>
+      <last-pattern>addEve</last-pattern>
       <last-replace>tbl</last-replace>
       <last-substitute>dlg</last-substitute>
       <last-dir>1</last-dir>
@@ -260,12 +317,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Exception</entry>
-        <entry>pugEngline</entry>
-        <entry>pugEngine</entry>
-        <entry>initializeP</entry>
-        <entry>folder</entry>
-        <entry>normalizeFolder</entry>
         <entry>viewName</entry>
         <entry>view</entry>
         <entry encoding="base64">dmlld1w+</entry>
@@ -277,6 +328,15 @@
         <entry>jdbi</entry>
         <entry>dlg</entry>
         <entry>act_dlg</entry>
+        <entry>mustac</entry>
+        <entry>moment</entry>
+        <entry>mus</entry>
+        <entry>ustac</entry>
+        <entry>Selector</entry>
+        <entry>html</entry>
+        <entry>remove</entry>
+        <entry>protot</entry>
+        <entry>addEve</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
@@ -287,17 +347,29 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
