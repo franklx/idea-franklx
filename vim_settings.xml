@@ -44,8 +44,8 @@
         <mark key="." line="23" column="49" />
         <mark key="^" line="23" column="49" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551269186493">
-        <mark key="'" line="43" column="0" />
+      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551270127332">
+        <mark key="'" line="23" column="8" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -186,11 +186,12 @@
       <file name="/fragment.java" timestamp="1551122676726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/tsconfig.json" timestamp="1551268561501">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="22" />
+      <file name="P:/eval-web/test-ts-bs/tsconfig.json" timestamp="1551270634013">
+        <mark key="'" line="57" column="25" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -277,16 +278,20 @@
       <jump line="44" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
       <jump line="0" column="0" filename="P:/eval-web/eval-ktjs/out/production/eval-ktjs/eval-ktjs.js" />
       <jump line="22" column="19" filename="P:/eval-web/eval-ktjs/out/production/eval-ktjs/eval-ktjs.js" />
+      <jump line="7" column="51" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="23" column="8" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="4" column="22" filename="P:/eval-web/test-ts-bs/tsconfig.json" />
+      <jump line="57" column="25" filename="P:/eval-web/test-ts-bs/tsconfig.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>commonjs</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>commonjs</text>
       </register>
       <register name="/" type="4">
-        <text>momen</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIuLi9ub2RlX21vZHVsZXMvYmxpc3NmdWxqcy9ibGlzcy5qcyI+PC9zY3JpcHQ+Cg==</text>
@@ -323,9 +328,9 @@
       </register>
     </registers>
     <search>
-      <last-search>momen</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>momen</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>tbl</last-replace>
       <last-substitute>dlg</last-substitute>
       <last-dir>1</last-dir>
@@ -333,7 +338,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">dmlld1w+</entry>
         <entry>config</entry>
         <entry>System.</entry>
         <entry>resource</entry>
@@ -353,6 +357,7 @@
         <entry>addEve</entry>
         <entry>refere</entry>
         <entry>momen</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
