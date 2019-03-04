@@ -3,45 +3,103 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dropbox/Documents/COBI/lamps/lamp.html" timestamp="1551704534266">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="23" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/EVAL/vue-test/.editorconfig" timestamp="1551702487231">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/EVAL/vue-test/src/App.vue" timestamp="1551702498984">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
+      <file name="$USER_HOME$/Projects/EVAL/vue-test/src/App.vue" timestamp="1551704634035">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/EVAL/vue-test/src/components/HelloWorld.vue" timestamp="1551702516809" />
+      <file name="$USER_HOME$/Projects/EVAL/vue-test/src/components/Lamp.vue" timestamp="1551704621104">
+        <mark key="'" line="7" column="4" />
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="15" />
+        <mark key="^" line="22" column="15" />
+        <mark key="." line="16" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/EVAL/vue-test/package.json" timestamp="1551705433024">
+        <mark key="'" line="28" column="23" />
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="20" column="43" />
+        <mark key="." line="20" column="43" />
+        <mark key="^" line="17" column="50" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="7" column="4" filename="$USER_HOME$/Projects/EVAL/vue-test/src/components/Lamp.vue" />
+      <jump line="12" column="21" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
+      <jump line="32" column="29" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
+      <jump line="26" column="23" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
+      <jump line="28" column="23" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICBkaXYodi1iaW5kPQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAuYnVsYiwgLmxldmVsIHsKICAgICAgICAgICAgZmlsbDogI2YwZjBmMDsKICAgICAgICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgICAgIH0KICAgICAgICAuYnVsYiB7CiAgICAgICAgICAgIGZpbGw6ICNlOGU4ZTg7CiAgICAgICAgICAgIHN0cm9rZTogI2UwZTBlMDsKICAgICAgICAgICAgc3Ryb2tlLXdpZHRoOiAwLjRwdDsKICAgICAgICB9CiAgICAgICAgLyoKICAgICAgICAubGV2ZWw6aG92ZXIgewogICAgICAgICAgICBmaWxsOiAjZmZmNDkxOwogICAgICAgIH0KICAgICAgICAuYnVsYjpob3ZlciB7CiAgICAgICAgICAgIHN0cm9rZTogI2VkY2Y4MzsKICAgICAgICAgICAgZmlsbDogI2ZkZGY5MzsKICAgICAgICB9CiAgICAgICAgKi8KICAgICAgICBzdmcubGFtcCB7CiAgICAgICAgICAgIHdpZHRoOiAxMjBweDsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkaXYodi1iaW5kPQo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAic2Fzcy1sb2FkZXIiOiAibGF0ZXN0IiwKICAgICAgICAibm9kZS1zYXNzIjogImxhdGVzdCIsCiAgICAgICAgInR5cGVzY3JpcHQiOiAibGF0ZXN0IiwKICAgICAgICAidHMtbG9hZGVyIjogImxhdGVzdCIsCiAgICAgICAgInB1ZyI6ICJsYXRlc3QiLAogICAgICAgICJwdWctcGxhaW4tbG9hZGVyIjogImxhdGVzdCIsCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAiQGJhYmVsL2NvcmUiOiAibGF0ZXN0IiwKICAgICAgICAiYmFiZWwtbG9hZGVyIjogImxhdGVzdCIsCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkaXYodi1iaW5kPQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBkaXYodi10ZXh0PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>^</text>
+      </register>
+      <register name="/" type="4">
+        <text>loader</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>loader</last-search>
+      <last-offset />
+      <last-pattern>loader</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry encoding="base64">JmxhdA==</entry>
+        <entry>\^lat</entry>
+        <entry>loader</entry>
+      </history-search>
       <history-cmd>
+        <entry>r</entry>
+        <entry encoding="base64">ciA=</entry>
+        <entry>e</entry>
+        <entry>r C:\Users\franco\Dropbox\Documents\COBI\lamps\lamp-web.svg</entry>
+        <entry>r C:/Users/franco/Dropbox/Documents/COBI/lamps/lamp-web.svg</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
