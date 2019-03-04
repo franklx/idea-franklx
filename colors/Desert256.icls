@@ -4,7 +4,7 @@
     <property name="created">2018-12-31T14:07:25</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2019-02-26T22:47:59</property>
+    <property name="modified">2019-03-04T12:21:22</property>
     <property name="originalScheme">Desert256</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -547,6 +547,8 @@
         <option name="FOREGROUND" value="82f985" />
       </value>
     </option>
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
