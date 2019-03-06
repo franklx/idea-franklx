@@ -85,6 +85,11 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="19" column="32" />
       </file>
+      <file name="P:/EVAL/web/js-vue/src/components/Lamp-orig.vue" timestamp="1551869311220">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1551221657226">
         <mark key="[" line="0" column="0" />
       </file>
@@ -131,6 +136,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="P:/EVAL/web/js-vue/src/components/Lamp.vue" timestamp="1551870478474">
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="42" column="26" />
+        <mark key="^" line="42" column="26" />
+        <mark key="." line="42" column="26" />
       </file>
       <file name="P:/EVAL/web/js-vue/src/App.vue" timestamp="1551865493756">
         <mark key="[" line="6" column="29" />
@@ -292,56 +303,56 @@
       <jump line="3" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
       <jump line="49" column="26" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
       <jump line="44" column="8" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
+      <jump line="41" column="4" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">c3ZnIA==</text>
       </register>
       <register name="/" type="4">
-        <text>mustache</text>
+        <text>bulb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJkaXN0L21haW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICBzdHJva2U6ICNlZGNmODM7CiAgICAgICAgZmlsbDogI2ZkZGY5MzsK</text>
       </register>
-      <register name="1" type="4">
-        <text>files(
-            //files</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZsYXREaXIgewogICAgICAgIGRpcnMoImxpYiIpCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCA9IHJlcXVpcmUoIm1vbWVudCIpOyAvL2ltcG9ydCBkZWZhdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdmcubGFtcAogICAgICAgICAgICB3aWR0aDogNjBweAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG11c3RhY2hlID0gcmVxdWlyZSgibXVzdGFjaGUiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgbW9tZW50IGZyb20gIm1vbWVudCIgLy8gaW1wb3J0IGRlZmF1bHQKLy9pbXBvcnQgKiBhcyBtdXN0YWNoZSBmcm9tICJtdXN0YWNoZSIgLy8gaW1wb3J0IGFsbCBleHBvcnRzIGFzIG5hbWUK</text>
+        <text encoding="base64">ICAgIC8qCiAgICAuYnVsYjpob3ZlciB7CiAgICAgICAgc3Ryb2tlOiAjZWRjZjgzOwogICAgICAgIGZpbGw6ICNmZGRmOTM7Cn0KICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgd3JldGNoID0gcmVxdWlyZSgid3JldGNoIikKLy9pbXBvcnQgIm1vbWVudCIK</text>
+        <text encoding="base64">ICAgICAgICBmaWxsOiAjZmZmNDkxOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkiYm9vdHN0cmFwIjogImxhdGVzdCIsCg==</text>
+        <text encoding="base64">ICAgIC5idWxiLCAubGV2ZWwgewogICAgICAgIGZpbGw6ICNmMGYwZjA7CiAgICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQkiYm9vdHN0cmFwIjogImxhdGVzdCIsCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxsOiAjZmZmNDkxOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgd3JldGNoIGZyb20gIndyZXRjaCIK</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBzaWx2ZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mustache</last-search>
+      <last-search>bulb</last-search>
       <last-offset />
-      <last-pattern>mustache</last-pattern>
+      <last-pattern>bulb</last-pattern>
       <last-replace>wretch</last-replace>
       <last-substitute>mustache</last-substitute>
       <last-dir>1</last-dir>
@@ -349,7 +360,6 @@
     </search>
     <history>
       <history-search>
-        <entry>System.</entry>
         <entry>resource</entry>
         <entry>initializePug</entry>
         <entry>ArgumentUtils</entry>
@@ -369,6 +379,7 @@
         <entry>data</entry>
         <entry>moment</entry>
         <entry>mustache</entry>
+        <entry>bulb</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
