@@ -114,6 +114,9 @@
       <file name="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" timestamp="1551171681704">
         <mark key="'" line="217" column="78" />
       </file>
+      <file name="/Dummy.txt" timestamp="1551891991393">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="P:/eval-web/test-ts-bs/package.json" timestamp="1551276870611">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="54" />
@@ -143,16 +146,19 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="P:/EVAL/web/js-vue/src/components/Lamp.vue" timestamp="1551890011667">
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="21" column="39" />
-        <mark key="." line="21" column="39" />
-        <mark key="^" line="21" column="39" />
+      <file name="P:/EVAL/web/js-vue/src/components/Lamp.vue" timestamp="1551891862619">
+        <mark key="'" line="87" column="23" />
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="2" column="9" />
       </file>
-      <file name="P:/EVAL/web/js-vue/src/App.vue" timestamp="1551865493756">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="6" column="29" />
+      <file name="P:/EVAL/web/js-vue/src/App.vue" timestamp="1551891733891">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="22" />
+        <mark key="." line="19" column="22" />
+        <mark key="^" line="19" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/select2/index.global.kt" timestamp="1551002909898">
         <mark key="[" line="2" column="8" />
@@ -312,58 +318,61 @@
       <jump line="41" column="4" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
       <jump line="11" column="109" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
       <jump line="3" column="0" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
+      <jump line="1" column="11" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
+      <jump line="13" column="52" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
+      <jump line="32" column="12" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
+      <jump line="2" column="16" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
+      <jump line="88" column="23" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
+      <jump line="8" column="0" filename="P:/EVAL/web/js-vue/src/App.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>span</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>span</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Lz4=</text>
+        <text>title</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IDpjbGFzcz0ie2FjdGl2ZTogbGV2ZWw+PTc1fSI=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogYmxvY2sK</text>
       </register>
-      <register name="1" type="8">
-        <text>data-value=&quot;25&quot;
-data-value=&quot;50&quot;
-data-value=&quot;75&quot;
-data-value=&quot;100</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBib3JkZXI6IDFwdCBkYXNoZWQgc2lsdmVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgIGRpdgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhrKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRleHQuZGVzY3JpcHRpb24oeD0iMCIsIHk9IjUiKSB7e2Rlc2NyaXB0aW9ufX0KICAgICAgICAgICAgICAgIC8vIHRleHQud2F0dCh4PSIwIix5PSIzMCIpIHt7cG93ZXJ9fSBXCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAK</text>
+        <text encoding="base64">CiAgICAgICAgdGV4dC53YXR0CiAgICAgICAgICAgIGZvbnQtc2l6ZTogNHB0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVkKCkgewogICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEwMCUKICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldEVsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRleHQuZGVzY3JpcHRpb24oeD0iMCIsIHk9IjUiKSB7e2Rlc2NyaXB0aW9ufX0KICAgICAgICAgICAgICAgIC8vIHRleHQud2F0dCh4PSIwIix5PSIzMCIpIHt7cG93ZXJ9fSBXCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzcGFuLmRlc2NyaXB0aW9uIHt7ZGVzY3JpcHRpb259fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cm9rZTogIzkwOTA5MAo=</text>
+        <text encoding="base64">ICAgICAgICBiCiAgICAgICAgICAgIGZvbnQtc2l6ZTogMTJwdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Lz4=</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Lz4=</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-replace>)</last-replace>
       <last-substitute encoding="base64">Lz4=</last-substitute>
       <last-dir>1</last-dir>
@@ -371,9 +380,6 @@ data-value=&quot;100</text>
     </search>
     <history>
       <history-search>
-        <entry>initializePug</entry>
-        <entry>ArgumentUtils</entry>
-        <entry>jdbi</entry>
         <entry>dlg</entry>
         <entry>act_dlg</entry>
         <entry>mustac</entry>
@@ -391,6 +397,9 @@ data-value=&quot;100</text>
         <entry>mustache</entry>
         <entry>bulb</entry>
         <entry encoding="base64">Lz4=</entry>
+        <entry>descr</entry>
+        <entry>description</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
@@ -404,7 +413,7 @@ data-value=&quot;100</text>
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -427,6 +436,48 @@ data-value=&quot;100</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
