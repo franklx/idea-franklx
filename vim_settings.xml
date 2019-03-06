@@ -132,6 +132,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="P:/EVAL/web/js-vue/src/App.vue" timestamp="1551865493756">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/select2/index.global.kt" timestamp="1551002909898">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="28" />
@@ -290,10 +295,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tools.impl.postgresql.</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>tools.impl.postgresql.</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>mustache</text>
