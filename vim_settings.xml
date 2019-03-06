@@ -143,11 +143,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="P:/EVAL/web/js-vue/src/components/Lamp.vue" timestamp="1551876988550">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="20" />
-        <mark key="." line="62" column="20" />
-        <mark key="^" line="50" column="18" />
+      <file name="P:/EVAL/web/js-vue/src/components/Lamp.vue" timestamp="1551884713535">
+        <mark key="[" line="3" column="60" />
+        <mark key="]" line="3" column="69" />
+        <mark key="." line="3" column="69" />
+        <mark key="^" line="3" column="69" />
       </file>
       <file name="P:/EVAL/web/js-vue/src/App.vue" timestamp="1551865493756">
         <mark key="[" line="6" column="29" />
@@ -315,40 +315,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a0a0a0</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>a0a0a0</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Lz4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cm9rZTogIzQwNjA4MAo=</text>
+      <register name="0" type="4">
+        <text>@click=&quot;level=50&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cm9rZTogIzkwOTA5MAo=</text>
+      <register name="1" type="8">
+        <text>data-value=&quot;25&quot;
+data-value=&quot;50&quot;
+data-value=&quot;75&quot;
+data-value=&quot;100</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cm9rZTogIzUwNTA1MAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cm9rZS13aWR0aDogMC4ycHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cm9rZS13aWR0aDogMC4xcHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhrKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJveC1zaGFkb3c6IDAgMCAxMHB4ICNmZGRmOTMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGw6ICNlNGU0ZTQK</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVkKCkgewogICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzKQogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICY6aG92ZXIKICAgICAgICAgICAgICAgICAgICBmaWxsOiAjZmZjYzAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldEVsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cm9rZTogI2EwYTBhMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cm9rZTogIzkwOTA5MAo=</text>
