@@ -146,19 +146,19 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="P:/EVAL/web/js-vue/src/components/Lamp.vue" timestamp="1551891862619">
+      <file name="P:/EVAL/web/js-vue/src/components/Lamp.vue" timestamp="1551893815267">
         <mark key="'" line="87" column="23" />
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="2" column="9" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="20" />
+        <mark key="." line="43" column="19" />
+        <mark key="^" line="43" column="19" />
       </file>
-      <file name="P:/EVAL/web/js-vue/src/App.vue" timestamp="1551891733891">
+      <file name="P:/EVAL/web/js-vue/src/App.vue" timestamp="1551894503707">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="22" />
-        <mark key="." line="19" column="22" />
-        <mark key="^" line="19" column="22" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="^" line="19" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/select2/index.global.kt" timestamp="1551002909898">
         <mark key="[" line="2" column="8" />
@@ -327,16 +327,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>span</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>span</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogYmxvY2sK</text>
+        <text encoding="base64">PHN0eWxlIGxhbmc9InNhc3MiPjoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBib3JkZXI6IDFwdCBkYXNoZWQgc2lsdmVyCg==</text>
