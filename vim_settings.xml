@@ -143,11 +143,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="P:/EVAL/web/js-vue/src/components/Lamp.vue" timestamp="1551884713535">
-        <mark key="[" line="3" column="60" />
-        <mark key="]" line="3" column="69" />
-        <mark key="." line="3" column="69" />
-        <mark key="^" line="3" column="69" />
+      <file name="P:/EVAL/web/js-vue/src/components/Lamp.vue" timestamp="1551890011667">
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+        <mark key="^" line="21" column="39" />
       </file>
       <file name="P:/EVAL/web/js-vue/src/App.vue" timestamp="1551865493756">
         <mark key="[" line="6" column="29" />
@@ -315,16 +315,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Lz4=</text>
       </register>
       <register name="0" type="4">
-        <text>@click=&quot;level=50&quot;</text>
+        <text encoding="base64">IDpjbGFzcz0ie2FjdGl2ZTogbGV2ZWw+PTc1fSI=</text>
       </register>
       <register name="1" type="8">
         <text>data-value=&quot;25&quot;
