@@ -146,12 +146,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="P:/EVAL/web/js-vue/src/components/Lamp.vue" timestamp="1551909041115">
+      <file name="P:/EVAL/web/js-vue/src/components/Lamp.vue" timestamp="1551910156902">
         <mark key="'" line="87" column="23" />
-        <mark key="[" line="68" column="37" />
-        <mark key="]" line="68" column="37" />
-        <mark key="." line="68" column="37" />
-        <mark key="^" line="68" column="36" />
+        <mark key="[" line="69" column="33" />
+        <mark key="]" line="69" column="37" />
+        <mark key="." line="69" column="37" />
+        <mark key="^" line="69" column="37" />
       </file>
       <file name="P:/EVAL/web/js-vue/src/App.vue" timestamp="1551894503707">
         <mark key="'" line="8" column="0" />
@@ -327,16 +327,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGU4Yzg3Nw==</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGU4Yzg3Nw==</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
       </register>
       <register name="0" type="4">
-        <text>d8d8e7</text>
+        <text>FFD42A</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBib3JkZXI6IDFwdCBkYXNoZWQgc2lsdmVyCg==</text>
