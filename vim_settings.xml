@@ -2,130 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="P:/EVAL/web/js-vue/public/index.html" timestamp="1551986113681" />
-      <file name="$USER_HOME$/Dropbox/Documents/COBI/lamps/lamp.html" timestamp="1551704534266">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="23" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/vue-test/.editorconfig" timestamp="1551702487231">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/vue-test/src/App.vue" timestamp="1551712287156">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="4" column="42" />
-        <mark key="^" line="4" column="47" />
-        <mark key="." line="4" column="42" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/vue-test/src/components/Lamp.vue" timestamp="1551712229643">
-        <mark key="'" line="9" column="4" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
-        <mark key="^" line="16" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/vue-test/package.json" timestamp="1551708964390">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/vue-test/webpack.config.js" timestamp="1551708755877">
-        <mark key="'" line="9" column="3" />
-        <mark key="]" line="18" column="5" />
-        <mark key="^" line="18" column="5" />
-        <mark key="." line="18" column="5" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="7" column="4" filename="$USER_HOME$/Projects/EVAL/vue-test/src/components/Lamp.vue" />
-      <jump line="12" column="21" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
-      <jump line="32" column="29" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
-      <jump line="26" column="23" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
-      <jump line="28" column="23" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
-      <jump line="9" column="3" filename="$USER_HOME$/Projects/EVAL/vue-test/webpack.config.js" />
-      <jump line="33" column="5" filename="$USER_HOME$/Projects/EVAL/vue-test/src/App.vue" />
-      <jump line="58" column="0" filename="$USER_HOME$/Projects/EVAL/vue-test/src/App.vue" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLgo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>100</text>
-      </register>
-      <register name="/" type="4">
-        <text>loader</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24uYnV0dG9uKEBjbGljaz0icG93ZXJzWzNdID0gNjY2IikgSW5jcmVtZW50Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24uYnV0dG9uKEBjbGljaz0id2luZG93LmFsZXJ0KHBvd2VycykiKSBBbGVydAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcoc3JjPSIuL2Fzc2V0cy9sb2dvLnBuZyIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxoMz57e25hbWV9fTwvaDM+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aDE+e3sgbXNnIH19PC9oMT4KICAgICAgICA8aDI+RXNzZW50aWFsIExpbmtzPC9oMj4KICAgICAgICA8dWw+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3Z1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiPkNvcmUgRG9jczwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9mb3J1bS52dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIj5Gb3J1bTwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9jaGF0LnZ1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiPkNvbW11bml0eSBDaGF0PC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL3Z1ZWpzIiB0YXJnZXQ9Il9ibGFuayI+VHdpdHRlcjwvYT48L2xpPgogICAgICAgIDwvdWw+CiAgICAgICAgPGgyPkVjb3N5c3RlbTwvaDI+CiAgICAgICAgPHVsPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cDovL3JvdXRlci52dWVqcy5vcmcvIiB0YXJnZXQ9Il9ibGFuayI+dnVlLXJvdXRlcjwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cDovL3Z1ZXgudnVlanMub3JnLyIgdGFyZ2V0PSJfYmxhbmsiPnZ1ZXg8L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Imh0dHA6Ly92dWUtbG9hZGVyLnZ1ZWpzLm9yZy8iIHRhcmdldD0iX2JsYW5rIj52dWUtbG9hZGVyPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vdnVlanMvYXdlc29tZS12dWUiIHRhcmdldD0iX2JsYW5rIj5hd2Vzb21lLXZ1ZTwvYT48L2xpPgogICAgICAgIDwvdWw+CiAgICAgICAgPExhbXA+PC9MYW1wPgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxMYW1wPjwvTGFtcD4K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICJAYmFiZWwvY29yZSI6ICJeNy4zLjQiLAo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
-      <last-search>loader</last-search>
-      <last-offset />
-      <last-pattern>loader</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry encoding="base64">JmxhdA==</entry>
-        <entry>\^lat</entry>
-        <entry>loader</entry>
-      </history-search>
-      <history-cmd>
-        <entry>r</entry>
-        <entry encoding="base64">ciA=</entry>
-        <entry>e</entry>
-        <entry>r C:\Users\franco\Dropbox\Documents\COBI\lamps\lamp-web.svg</entry>
-        <entry>r C:/Users/franco/Dropbox/Documents/COBI/lamps/lamp-web.svg</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
