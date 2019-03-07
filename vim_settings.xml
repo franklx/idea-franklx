@@ -3,410 +3,122 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/ktw/build.gradle" timestamp="1550937311124">
-        <mark key="[" line="58" column="16" />
-        <mark key="]" line="58" column="29" />
-        <mark key="^" line="58" column="29" />
-        <mark key="." line="58" column="29" />
+      <file name="P:/EVAL/web/js-vue/src/App.vue" timestamp="1551865218750">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/test-ts-bs/js/prova.ts" timestamp="1551005540756">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-jquery.ts" timestamp="1551139740367">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/eval-ktjs/src/prova.kt" timestamp="1551028229933">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/select2/index.kt" timestamp="1551003986779">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="3" column="32" />
-        <mark key="^" line="3" column="32" />
-        <mark key="." line="3" column="32" />
-      </file>
-      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.kt" timestamp="1548288304202">
-        <mark key="[" line="71" column="20" />
-        <mark key="]" line="71" column="20" />
-        <mark key="." line="71" column="20" />
-        <mark key="^" line="71" column="23" />
-      </file>
-      <file name="P:/eval-web/eval-ktjs/src/prova.kt" timestamp="1551270073364">
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="23" column="49" />
-        <mark key="." line="23" column="49" />
-        <mark key="^" line="23" column="49" />
-      </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova-native.ts" timestamp="1551277114044">
-        <mark key="'" line="40" column="8" />
+      <file name="$USER_HOME$/Dropbox/Documents/COBI/lamps/lamp.html" timestamp="1551704534266">
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="37" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="40" column="23" />
+        <mark key="]" line="23" column="9" />
       </file>
-      <file name="P:/eval-kotlin/jooby/src/main/kotlin/example/jooby/App.kt" timestamp="1551313800580">
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="21" column="19" />
-        <mark key="^" line="21" column="40" />
-        <mark key="." line="21" column="19" />
+      <file name="$USER_HOME$/Projects/EVAL/vue-test/.editorconfig" timestamp="1551702487231">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
       </file>
-      <file name="P:/eval-web/eval-ts/demo.html" timestamp="1551292766432">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="27" />
+      <file name="$USER_HOME$/Projects/EVAL/vue-test/src/App.vue" timestamp="1551712287156">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="4" column="42" />
+        <mark key="]" line="4" column="42" />
+        <mark key="^" line="4" column="47" />
+        <mark key="." line="4" column="42" />
       </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova.ts" timestamp="1551054979474">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/EVAL/vue-test/src/components/Lamp.vue" timestamp="1551712229643">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="8" />
+        <mark key="." line="15" column="8" />
+        <mark key="^" line="16" column="7" />
       </file>
-      <file name="P:/eval-web/eval-ktjs/src/moment.moment.kt" timestamp="1551269723566">
-        <mark key="[" line="351" column="4" />
-        <mark key="]" line="351" column="4" />
-        <mark key="." line="351" column="4" />
+      <file name="$USER_HOME$/Projects/EVAL/vue-test/package.json" timestamp="1551708964390">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/eval-kotlin-jooby/build.gradle.kts" timestamp="1549091454791">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="41" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/bootstrap/index.global.kt" timestamp="1551004028418">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="2" column="37" />
-        <mark key="." line="2" column="37" />
-        <mark key="^" line="19" column="32" />
-      </file>
-      <file name="P:/EVAL/web/js-vue/src/components/Lamp-orig.vue" timestamp="1551869311220">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1551221657226">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/App.kt" timestamp="1549092486465">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="32" column="9" />
-        <mark key="." line="32" column="9" />
-        <mark key="^" line="32" column="9" />
-      </file>
-      <file name="P:/eval-web/test-ts-bs/ts/prova.html" timestamp="1551269220588">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="48" />
-        <mark key="^" line="7" column="48" />
-        <mark key="." line="7" column="48" />
-      </file>
-      <file name="P:/EVAL/web/js-vue/src/components/Lamp2.vue" timestamp="1551874960010">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="13" column="47" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" timestamp="1551171681704">
-        <mark key="'" line="217" column="78" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1551891991393">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="P:/eval-web/test-ts-bs/package.json" timestamp="1551276870611">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="54" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/kjs-test/src/test.kt" timestamp="1551004080983">
-        <mark key="'" line="15" column="22" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="P:/eval-kotlin/jooby/build.gradle.kts" timestamp="1551313599388">
-        <mark key="[" line="52" column="12" />
-        <mark key="]" line="52" column="48" />
-        <mark key="." line="52" column="48" />
-        <mark key="^" line="52" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/conf/application.conf" timestamp="1549058068965">
-        <mark key="[" line="2" column="72" />
-        <mark key="]" line="2" column="72" />
-        <mark key="." line="2" column="72" />
-        <mark key="^" line="2" column="80" />
-      </file>
-      <file name="$USER_HOME$/Projects/test-ts-bs/ts/prova.ts" timestamp="1551020463172">
-        <mark key="'" line="15" column="25" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="P:/EVAL/web/js-vue/src/components/Lamp.vue" timestamp="1551910156902">
-        <mark key="'" line="87" column="23" />
-        <mark key="[" line="69" column="33" />
-        <mark key="]" line="69" column="37" />
-        <mark key="." line="69" column="37" />
-        <mark key="^" line="69" column="37" />
-      </file>
-      <file name="P:/EVAL/web/js-vue/src/App.vue" timestamp="1551894503707">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="23" />
-        <mark key="." line="19" column="23" />
-        <mark key="^" line="19" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/kjs-test/src/js/externals/select2/index.global.kt" timestamp="1551002909898">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="28" />
-        <mark key="^" line="2" column="28" />
-        <mark key="." line="2" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/kjs-test/types/bootstrap/index.global.kt" timestamp="1551002142488">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="37" />
-        <mark key="." line="2" column="37" />
-        <mark key="^" line="2" column="37" />
-      </file>
-      <file name="P:/eval-web/test-ts-bs/ts/app.ts" timestamp="1551286225338">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-      </file>
-      <file name="P:/eval-web/eval-ktjs/out/production/eval-ktjs/eval-ktjs.js" timestamp="1551269909383">
-        <mark key="'" line="22" column="19" />
-      </file>
-      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRendererConfigurationProperties.java" timestamp="1547850080830">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="25" />
-        <mark key="." line="29" column="25" />
-        <mark key="^" line="29" column="25" />
-      </file>
-      <file name="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" timestamp="1551171687507">
-        <mark key="'" line="20" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/ktw/src/jsMain/kotlin/sample/SampleJs.kt" timestamp="1550958488039">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="39" />
-        <mark key="." line="3" column="39" />
-        <mark key="^" line="3" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/kjs-test/types/bootstrap/index.kt" timestamp="1551002130053">
-        <mark key="[" line="0" column="192" />
-        <mark key="]" line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-        <mark key="." line="2" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/test-ts-bs/package.json" timestamp="1551013467694">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="11" />
-        <mark key="." line="14" column="11" />
-      </file>
-      <file name="P:/eval-kotlin/src/main/kotlin/example/micronaut/HelloController.kt" timestamp="1548316776830">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="33" column="37" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRendererConfigurationProperties.kt" timestamp="1548287422729">
-        <mark key="[" line="64" column="8" />
-        <mark key="]" line="64" column="13" />
-        <mark key="^" line="64" column="13" />
-        <mark key="." line="64" column="13" />
-      </file>
-      <file name="/fragment.java" timestamp="1551122676726">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/EVAL/vue-test/webpack.config.js" timestamp="1551708755877">
+        <mark key="'" line="9" column="3" />
+        <mark key="]" line="18" column="5" />
+        <mark key="^" line="18" column="5" />
+        <mark key="." line="18" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="35" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="32" column="48" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="33" column="42" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="34" column="48" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="83" column="16" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="93" column="12" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="58" column="30" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="104" column="19" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="100" column="22" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="89" column="11" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="124" column="16" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="57" column="27" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="117" column="12" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="68" column="22" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="126" column="5" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="75" column="19" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="77" column="58" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="81" column="80" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="119" column="0" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="78" column="64" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="91" column="27" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="94" column="51" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="120" column="19" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="76" column="12" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="0" column="0" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="16" column="21" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="29" column="20" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="30" column="20" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="31" column="20" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="55" column="39" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="60" column="14" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="63" column="40" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="65" column="34" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="72" column="52" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="99" column="4" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="118" column="0" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="71" column="0" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="96" column="0" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="73" column="25" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="98" column="30" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="74" column="25" filename="P:/eval-kotlin/src/main/java/io/micronaut/views/pug/PugViewsRenderer.java" />
-      <jump line="70" column="10" filename="P:/eval-kotlin/src/main/kotlin/io/micronaut/views/pug/PugViewsRenderer.kt" />
-      <jump line="27" column="1" filename="P:/eval-kotlin/src/main/kotlin/io/micronaut/views/pug/PugViewsRenderer.kt" />
-      <jump line="32" column="37" filename="$USER_HOME$/Projects/eval-kotlin-jooby/build.gradle.kts" />
-      <jump line="11" column="22" filename="$USER_HOME$/Projects/kjs-test/src/test.kt" />
-      <jump line="2" column="36" filename="$USER_HOME$/Projects/eval-kotlin-jooby/src/main/kotlin/example/jooby/timesheet.ts" />
-      <jump line="7" column="4" filename="$USER_HOME$/Projects/test-ts-bs/ts/prova.ts" />
-      <jump line="15" column="25" filename="$USER_HOME$/Projects/test-ts-bs/ts/prova.ts" />
-      <jump line="5" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-jquery.ts" />
-      <jump line="46" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="34" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="11" column="4" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="18" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="1" column="10" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="0" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="29" column="24" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="30" column="21" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="13" column="16" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="17" column="5" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="611" column="46" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
-      <jump line="470" column="36" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
-      <jump line="272" column="42" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
-      <jump line="566" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
-      <jump line="567" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
-      <jump line="568" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
-      <jump line="639" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
-      <jump line="669" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
-      <jump line="160" column="8" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
-      <jump line="8" column="26" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
-      <jump line="17" column="33" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
-      <jump line="81" column="22" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
-      <jump line="105" column="34" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
-      <jump line="106" column="37" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
-      <jump line="121" column="21" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
-      <jump line="217" column="78" filename="P:/eval-web/test-ts-bs/node_modules/blissfuljs/bliss.js" />
-      <jump line="20" column="26" filename="P:/eval-web/test-ts-bs/node_modules/@types/blissfuljs/index.d.ts" />
-      <jump line="38" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="41" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="0" column="0" filename="P:/eval-web/eval-ktjs/out/production/eval-ktjs/eval-ktjs.js" />
-      <jump line="22" column="19" filename="P:/eval-web/eval-ktjs/out/production/eval-ktjs/eval-ktjs.js" />
-      <jump line="7" column="51" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="23" column="8" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="4" column="22" filename="P:/eval-web/test-ts-bs/tsconfig.json" />
-      <jump line="57" column="25" filename="P:/eval-web/test-ts-bs/tsconfig.json" />
-      <jump line="36" column="18" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="4" column="44" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="2" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="13" column="5" filename="P:/eval-web/test-ts-bs/tsconfig.json" />
-      <jump line="3" column="0" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="49" column="26" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="44" column="8" filename="P:/eval-web/test-ts-bs/ts/prova-native.ts" />
-      <jump line="41" column="4" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
-      <jump line="11" column="109" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
-      <jump line="3" column="0" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
-      <jump line="1" column="11" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
-      <jump line="13" column="52" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
-      <jump line="32" column="12" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
-      <jump line="2" column="16" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
-      <jump line="88" column="23" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
-      <jump line="8" column="0" filename="P:/EVAL/web/js-vue/src/App.vue" />
+      <jump line="7" column="4" filename="$USER_HOME$/Projects/EVAL/vue-test/src/components/Lamp.vue" />
+      <jump line="12" column="21" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
+      <jump line="32" column="29" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
+      <jump line="26" column="23" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
+      <jump line="28" column="23" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
+      <jump line="9" column="3" filename="$USER_HOME$/Projects/EVAL/vue-test/webpack.config.js" />
+      <jump line="33" column="5" filename="$USER_HOME$/Projects/EVAL/vue-test/src/App.vue" />
+      <jump line="58" column="0" filename="$USER_HOME$/Projects/EVAL/vue-test/src/App.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>100</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBidXR0b24uYnV0dG9uKEBjbGljaz0id2luZG93LmFsZXJ0KHBvd2VycykiKSBBbGVydAo=</text>
       </register>
       <register name="-" type="4">
         <text>100</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text>loader</text>
       </register>
-      <register name="0" type="4">
-        <text>FFD42A</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBidXR0b24uYnV0dG9uKEBjbGljaz0icG93ZXJzWzNdID0gNjY2IikgSW5jcmVtZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXI6IDFwdCBkYXNoZWQgc2lsdmVyCg==</text>
+        <text encoding="base64">ICAgICAgICBidXR0b24uYnV0dG9uKEBjbGljaz0id2luZG93LmFsZXJ0KHBvd2VycykiKSBBbGVydAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbWcoc3JjPSIuL2Fzc2V0cy9sb2dvLnBuZyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpdgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRleHQuZGVzY3JpcHRpb24oeD0iMCIsIHk9IjUiKSB7e2Rlc2NyaXB0aW9ufX0KICAgICAgICAgICAgICAgIC8vIHRleHQud2F0dCh4PSIwIix5PSIzMCIpIHt7cG93ZXJ9fSBXCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgdGV4dC53YXR0CiAgICAgICAgICAgIGZvbnQtc2l6ZTogNHB0Cg==</text>
+        <text encoding="base64">ICAgIDxoMz57e25hbWV9fTwvaDM+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEwMCUKICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyCg==</text>
+        <text encoding="base64">ICAgICAgICA8aDE+e3sgbXNnIH19PC9oMT4KICAgICAgICA8aDI+RXNzZW50aWFsIExpbmtzPC9oMj4KICAgICAgICA8dWw+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3Z1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiPkNvcmUgRG9jczwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9mb3J1bS52dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIj5Gb3J1bTwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9jaGF0LnZ1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiPkNvbW11bml0eSBDaGF0PC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL3Z1ZWpzIiB0YXJnZXQ9Il9ibGFuayI+VHdpdHRlcjwvYT48L2xpPgogICAgICAgIDwvdWw+CiAgICAgICAgPGgyPkVjb3N5c3RlbTwvaDI+CiAgICAgICAgPHVsPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cDovL3JvdXRlci52dWVqcy5vcmcvIiB0YXJnZXQ9Il9ibGFuayI+dnVlLXJvdXRlcjwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cDovL3Z1ZXgudnVlanMub3JnLyIgdGFyZ2V0PSJfYmxhbmsiPnZ1ZXg8L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Imh0dHA6Ly92dWUtbG9hZGVyLnZ1ZWpzLm9yZy8iIHRhcmdldD0iX2JsYW5rIj52dWUtbG9hZGVyPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vdnVlanMvYXdlc29tZS12dWUiIHRhcmdldD0iX2JsYW5rIj5hd2Vzb21lLXZ1ZTwvYT48L2xpPgogICAgICAgIDwvdWw+CiAgICAgICAgPExhbXA+PC9MYW1wPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRleHQuZGVzY3JpcHRpb24oeD0iMCIsIHk9IjUiKSB7e2Rlc2NyaXB0aW9ufX0KICAgICAgICAgICAgICAgIC8vIHRleHQud2F0dCh4PSIwIix5PSIzMCIpIHt7cG93ZXJ9fSBXCg==</text>
+        <text encoding="base64">ICAgIDxMYW1wPjwvTGFtcD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzcGFuLmRlc2NyaXB0aW9uIHt7ZGVzY3JpcHRpb259fQo=</text>
+        <text encoding="base64">ICAgICJAYmFiZWwvY29yZSI6ICJeNy4zLjQiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiCiAgICAgICAgICAgIGZvbnQtc2l6ZTogMTJwdAo=</text>
+        <text encoding="base64">ICAgICAgICAic2Fzcy1sb2FkZXIiOiAibGF0ZXN0IiwKICAgICAgICAibm9kZS1zYXNzIjogImxhdGVzdCIsCiAgICAgICAgInR5cGVzY3JpcHQiOiAibGF0ZXN0IiwKICAgICAgICAidHMtbG9hZGVyIjogImxhdGVzdCIsCiAgICAgICAgInB1ZyI6ICJsYXRlc3QiLAogICAgICAgICJwdWctcGxhaW4tbG9hZGVyIjogImxhdGVzdCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search>loader</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
-      <last-replace>)</last-replace>
-      <last-substitute encoding="base64">Lz4=</last-substitute>
+      <last-pattern>loader</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dlg</entry>
-        <entry>act_dlg</entry>
-        <entry>mustac</entry>
-        <entry>mus</entry>
-        <entry>ustac</entry>
-        <entry>Selector</entry>
-        <entry>html</entry>
-        <entry>remove</entry>
-        <entry>protot</entry>
-        <entry>addEve</entry>
-        <entry>refere</entry>
-        <entry>momen</entry>
-        <entry>data</entry>
-        <entry>moment</entry>
-        <entry>mustache</entry>
-        <entry>bulb</entry>
-        <entry encoding="base64">Lz4=</entry>
-        <entry>descr</entry>
-        <entry>description</entry>
-        <entry>title</entry>
+        <entry encoding="base64">JmxhdA==</entry>
+        <entry>\^lat</entry>
+        <entry>loader</entry>
       </history-search>
       <history-cmd>
-        <entry>n</entry>
-        <entry encoding="base64">JzwsJz5zOmRsZzp0Ymw6Zw==</entry>
-        <entry encoding="base64">JzwsJz5zOm1vbWVudDptdXN0YWNoZTpn</entry>
-        <entry encoding="base64">JzwsJz5zOm11c3RhY2hlOndyZXRjaDpn</entry>
-        <entry encoding="base64">JzwsJz5zOi8+Oik6</entry>
+        <entry>r</entry>
+        <entry encoding="base64">ciA=</entry>
+        <entry>e</entry>
+        <entry>r C:\Users\franco\Dropbox\Documents\COBI\lamps\lamp-web.svg</entry>
+        <entry>r C:/Users/franco/Dropbox/Documents/COBI/lamps/lamp-web.svg</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -414,70 +126,10 @@
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed Y</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed I</text>
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
