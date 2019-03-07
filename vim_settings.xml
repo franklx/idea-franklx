@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="P:/EVAL/web/js-vue/public/index.html" timestamp="1551986113681" />
       <file name="$USER_HOME$/Dropbox/Documents/COBI/lamps/lamp.html" timestamp="1551704534266">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="23" column="9" />
@@ -18,11 +19,6 @@
         <mark key="]" line="4" column="42" />
         <mark key="^" line="4" column="47" />
         <mark key="." line="4" column="42" />
-      </file>
-      <file name="P:/EVAL/web/js-vue/src/components/Lamp.vue" timestamp="1551919376026">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/EVAL/vue-test/src/components/Lamp.vue" timestamp="1551712229643">
         <mark key="'" line="9" column="4" />
