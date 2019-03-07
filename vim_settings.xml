@@ -3,167 +3,37 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="P:/EVAL/web/js-vue/src/App.vue" timestamp="1551978550998">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-        <mark key="^" line="2" column="16" />
-      </file>
-      <file name="P:/EVAL/web/js-vue/public/index.html" timestamp="1551978507329">
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="11" />
-        <mark key="^" line="13" column="11" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Documents/COBI/lamps/lamp.html" timestamp="1551704534266">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="23" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/vue-test/.editorconfig" timestamp="1551702487231">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/vue-test/src/App.vue" timestamp="1551712287156">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="4" column="42" />
-        <mark key="^" line="4" column="47" />
-        <mark key="." line="4" column="42" />
-      </file>
-      <file name="P:/EVAL/web/js-vue/src/components/Lamp.vue" timestamp="1551982795173">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/vue-test/src/components/Lamp.vue" timestamp="1551712229643">
-        <mark key="'" line="9" column="4" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
-        <mark key="^" line="16" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/vue-test/package.json" timestamp="1551708964390">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/vue-test/webpack.config.js" timestamp="1551708755877">
-        <mark key="'" line="9" column="3" />
-        <mark key="]" line="18" column="5" />
-        <mark key="^" line="18" column="5" />
-        <mark key="." line="18" column="5" />
+      <file name="P:/COBI/ktorch/build.gradle.kts" timestamp="1551984826346">
+        <mark key="'" line="10" column="51" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="66" column="19" />
+        <mark key="^" line="66" column="19" />
+        <mark key="." line="66" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="4" filename="$USER_HOME$/Projects/EVAL/vue-test/src/components/Lamp.vue" />
-      <jump line="12" column="21" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
-      <jump line="32" column="29" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
-      <jump line="26" column="23" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
-      <jump line="28" column="23" filename="$USER_HOME$/Projects/EVAL/vue-test/package.json" />
-      <jump line="9" column="3" filename="$USER_HOME$/Projects/EVAL/vue-test/webpack.config.js" />
-      <jump line="33" column="5" filename="$USER_HOME$/Projects/EVAL/vue-test/src/App.vue" />
-      <jump line="58" column="0" filename="$USER_HOME$/Projects/EVAL/vue-test/src/App.vue" />
-      <jump line="8" column="29" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
-      <jump line="63" column="18" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
-      <jump line="67" column="22" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
-      <jump line="7" column="23" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
-      <jump line="42" column="0" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
-      <jump line="76" column="20" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
-      <jump line="73" column="20" filename="P:/EVAL/web/js-vue/src/components/Lamp.vue" />
+      <jump line="10" column="51" filename="P:/COBI/ktorch/build.gradle.kts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>g</text>
-      </register>
-      <register name="/" type="4">
-        <text>l75</text>
-      </register>
-      <register name="0" type="4">
-        <text>.mtl-lt</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cm9rZS13aWR0aDogMC4yCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cm9rZS13aWR0aDogMC4yCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmLmFjdGl2ZQogICAgICAgICAgICAgICAgICAgICAgICBmaWxsOiAjZmZkNDJhCiAgICAgICAgICAgICAgICAgICAgICAgIHN0cm9rZTogI2RmYjQwYQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmLmFjdGl2ZQogICAgICAgICAgICAgICAgICAgICAgICBmaWxsOiAjZmZkYzU0CiAgICAgICAgICAgICAgICAgICAgICAgIHN0cm9rZTogI2RmYmMzNAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmLmFjdGl2ZQogICAgICAgICAgICAgICAgICAgICAgICBmaWxsOiAjZmZlNTdmCiAgICAgICAgICAgICAgICAgICAgICAgIHN0cm9rZTogI2RmYzU1Zgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmLmZ1bGwK</text>
+      <register name="&quot;" type="4">
+        <text>com.moowork.node</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
+      <register name="-" type="4">
+        <text>com.moowork.node</text>
+      </register>
     </registers>
     <search>
-      <last-search>l75</last-search>
-      <last-offset />
-      <last-pattern>l75</last-pattern>
-      <last-replace>lv75</last-replace>
-      <last-substitute>l75</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry encoding="base64">JmxhdA==</entry>
-        <entry>\^lat</entry>
-        <entry>loader</entry>
-        <entry>l100</entry>
-        <entry>l25</entry>
-        <entry>l50</entry>
-        <entry>l75</entry>
-      </history-search>
       <history-cmd>
-        <entry>r</entry>
-        <entry encoding="base64">ciA=</entry>
-        <entry>e</entry>
-        <entry>r C:\Users\franco\Dropbox\Documents\COBI\lamps\lamp-web.svg</entry>
-        <entry>r C:/Users/franco/Dropbox/Documents/COBI/lamps/lamp-web.svg</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>%sl100:full:g</entry>
-        <entry>%s:l100:full:g</entry>
-        <entry>%s:l25:lv25:g</entry>
-        <entry>%s:l50:lv50:g</entry>
-        <entry>%s:l75:lv75:g</entry>
         <entry>w</entry>
       </history-cmd>
-      <history-expr />
-      <history-input />
     </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <shortcut-conflicts />
   </component>
 </application>
