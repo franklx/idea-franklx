@@ -2,14 +2,48 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Frontend.java" timestamp="1552009461628">
+        <mark key="'" line="468" column="9" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Npm.java" timestamp="1552009440188">
+        <mark key="'" line="380" column="24" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="346" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Npm.java" />
+      <jump line="353" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Npm.java" />
+      <jump line="356" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Npm.java" />
+      <jump line="357" column="10" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Npm.java" />
+      <jump line="364" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Npm.java" />
+      <jump line="366" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Npm.java" />
+      <jump line="367" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Npm.java" />
+      <jump line="376" column="38" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Npm.java" />
+      <jump line="380" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Npm.java" />
+      <jump line="345" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Frontend.java" />
+      <jump line="468" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Frontend.java" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text>setNodeV</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>setNodeV</last-search>
+      <last-offset />
+      <last-pattern>setNodeV</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>nodeVersion</entry>
+        <entry>setNodeV</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
