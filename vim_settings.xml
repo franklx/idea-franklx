@@ -45,6 +45,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="P:/COBI/ktorch/src/main/vue/App.vue" timestamp="1552047775732">
+        <mark key="[" line="7" column="77" />
+        <mark key="]" line="7" column="77" />
+        <mark key="^" line="7" column="80" />
+        <mark key="." line="7" column="77" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="10" column="51" filename="P:/COBI/ktorch/build.gradle.kts" />
@@ -64,11 +70,11 @@
       <jump line="8" column="30" filename="P:/COBI/ktorch/build.gradle.kts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5yZXN0c3FsLgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>8.10.0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>frontend</text>
