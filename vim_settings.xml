@@ -3,17 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552035211580">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="4" />
-        <mark key="." line="21" column="4" />
-        <mark key="^" line="7" column="1" />
+      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552036724733">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
-      <file name="P:/COBI/ktorch/build.gradle.kts" timestamp="1552035198703">
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="37" column="4" />
-        <mark key="^" line="37" column="5" />
-        <mark key="." line="37" column="4" />
+      <file name="P:/COBI/ktorch/build.gradle.kts" timestamp="1552036710334">
+        <mark key="'" line="8" column="30" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Frontend.java" timestamp="1552036330783">
+        <mark key="'" line="465" column="15" />
       </file>
       <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/Web.kt" timestamp="1552007970426">
         <mark key="[" line="24" column="16" />
@@ -21,11 +23,14 @@
         <mark key="." line="24" column="16" />
         <mark key="^" line="24" column="18" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.eirslett/frontend-plugin-core/1.6/81b216597e07cdddbc23aed4e39eecf34104894c/frontend-plugin-core-1.6-sources.jar!/com/github/eirslett/maven/plugins/frontend/lib/NodeInstaller.java" timestamp="1552036509982" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.eirslett/frontend-plugin-core/1.6/81b216597e07cdddbc23aed4e39eecf34104894c/frontend-plugin-core-1.6-sources.jar!/com/github/eirslett/maven/plugins/frontend/lib/FrontendPluginFactory.java" timestamp="1552035789626" />
       <file name="P:/EVAL/kotlin/jooby/src/main/kotlin/example/jooby/App.kt" timestamp="1552008127460">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="87" column="1" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Npm.java" timestamp="1552035776264" />
     </filemarks>
     <jumps>
       <jump line="10" column="51" filename="P:/COBI/ktorch/build.gradle.kts" />
@@ -39,61 +44,63 @@
       <jump line="14" column="17" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Web.kt" />
       <jump line="7" column="23" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Web.kt" />
       <jump line="9" column="17" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Web.kt" />
+      <jump line="443" column="91" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Frontend.java" />
+      <jump line="422" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Frontend.java" />
+      <jump line="465" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby-frontend/1.5.1/82c62f2b9e6fd8896b05b6b1e8cd4e398ac80416/jooby-frontend-1.5.1-sources.jar!/org/jooby/frontend/Frontend.java" />
+      <jump line="8" column="30" filename="P:/COBI/ktorch/build.gradle.kts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>//
-//
-//</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9uKCJkZXYiKSB7IC0+CiAgICAgICAgdXNlKE5wbSgidjguMTAuMCIpKQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>8.10.0</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>frontend</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qZGJpLnYzLmNvcmUuSmRiaQppbXBvcnQgb3JnLmpkYmkudjMuY29yZS5rb3RsaW4uS290bGluUGx1Z2luCmltcG9ydCBvcmcuamRiaS52My5wb3N0Z3Jlcy5Qb3N0Z3Jlc1BsdWdpbgppbXBvcnQgb3JnLmpkYmkudjMuc3Fsb2JqZWN0LlNxbE9iamVjdFBsdWdpbgppbXBvcnQgb3JnLmpkYmkudjMuc3Fsb2JqZWN0LmtvdGxpbi5Lb3RsaW5TcWxPYmplY3RQbHVnaW4KaW1wb3J0IG9yZy5qb29ieS5Kb29ieS5ydW4KaW1wb3J0IG9yZy5qb29ieS5Lb29ieQppbXBvcnQgb3JnLmpvb2J5LlJlc3VsdHMKaW1wb3J0IG9yZy5qb29ieS5qYWRlLkphZGUKaW1wb3J0IG9yZy5qb29ieS5qZGJjLkpkYmMKaW1wb3J0IG9yZy5qb29ieS5wZWJibGUuUGViYmxlCmltcG9ydCBvcmcuam9vYnkuamRiaS5KZGJpMwppbXBvcnQgb3JnLmpvb2J5Lmpzb24uR3pvbgppbXBvcnQgb3JnLmpvb2J5Lm12Yy5HRVQKaW1wb3J0IG9yZy5qb29ieS5tdmMuUGF0aAovL2ltcG9ydCBvcmcuam9vYnkucmVxdWVyeS5SZXF1ZXJ5CmltcG9ydCBvcmcuam9vYnkucmVxdWlyZQppbXBvcnQgb3JnLnNsZjRqLkxvZ2dlckZhY3RvcnkKaW1wb3J0IGphdmF4LmluamVjdC5TaW5nbGV0b24KaW1wb3J0IG9yZy5yZXN0c3FsLgoKZGF0YSBjbGFzcyBQcm92YSh2YWwgbm9tZTogU3RyaW5nLCB2YWwgY29nbm9tZTogU3RyaW5nKQoKLyoqCiAqIEdyYWRsZSBLb3RsaW4gc3RhdGVyIHByb2plY3QuCiAqLwpjbGFzcyBBcHAgOiBLb29ieSh7CiAgICB1c2UoSmFkZSgiLnB1ZyIpKQogICAgdXNlKFBlYmJsZSgpKQogICAgdXNlKEpkYmMoKSkKICAgIC8vdXNlKEFzc2V0cygpKQogICAgdXNlKEpkYmkzKCkuZG9XaXRoIHsgamRiaSAtPgogICAgICAgIGpkYmkuaW5zdGFsbFBsdWdpbihTcWxPYmplY3RQbHVnaW4oKSkKICAgICAgICAvL2pkYmkuaW5zdGFsbFBsdWdpbihQb3N0Z3Jlc1BsdWdpbigpKQogICAgICAgIC8vamRiaS5pbnN0YWxsUGx1Z2luKEtvdGxpblBsdWdpbigpKQogICAgICAgIC8vamRiaS5pbnN0YWxsUGx1Z2luKEtvdGxpblNxbE9iamVjdFBsdWdpbigpKQogICAgICAgIC8vamRiaS5pbnN0YWxsUGx1Z2lucygpCiAgICB9KQogICAgLy91c2UoUmVxdWVyeShNb2RlbHMuREVGQVVMVCkpCiAgICB1c2UoR3pvbigpKQogICAgdXNlKE12Y1Rlc3Q6OmNsYXNzKQogICAgZ2V0IHsKICAgICAgICB2YWwgbmFtZSA9IHBhcmFtKCJuYW1lIikudmFsdWUoIktvdGxpbiIpCiAgICAgICAgIkhlbGxvICRuYW1lISIKICAgIH0KICAgIGdldCAoIi90ZXN0IikgewogICAgICAgIFJlc3VsdHMuaHRtbCgidGVzdCIpCiAgICB9CiAgICBnZXQgKCIvcHJvdmEyIil7CiAgICAgICAgInByb3ZhIDIiCiAgICB9CiAgICBnZXQoIi90ZXN0anNvbiIpIHsgUHJvdmEoIm5vbWUiLCAiY29nbm9tZSIpIH0KICAgIGdldCgiL3Rlc3RtYXAiKSB7IG1hcE9mKCJ0ZXN0IiB0byAxLCAicHJvdmEiIHRvIDIpfQogICAgZ2V0KCIvdGVzdGRiIikgewogICAgICAgIHJlcXVpcmUoSmRiaTo6Y2xhc3MpLndpdGhIYW5kbGU8TGlzdDxNYXA8U3RyaW5nLEFueT4+LEV4Y2VwdGlvbj4gewogICAgICAgICAgIGl0LmNyZWF0ZVF1ZXJ5KCJTRUxFQ1QgKiBGUk9NIGFydGljb2xpIikubWFwVG9NYXAoKS5saXN0KCkKICAgICAgICB9CiAgICB9Cn0pCgpAU2luZ2xldG9uCkBQYXRoKCIvbXZjIikKY2xhc3MgTXZjVGVzdCB7CiAgICB2YWwgbG9nID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoIm12YyIpCiAgICBAR0VUCiAgICBmdW4gaG9tZSgpIHsKICAgICAgICBsb2cuaW5mbygidGhpcyB3aWxsIGJlIGxvZ2dlZCIpCiAgICB9CiAgICBAR0VUCiAgICBmdW4gc2Vjb25kKCk6IFN0cmluZyB7CiAgICAgICAgcmV0dXJuICJhbmQgbmV4dCB0aGlzIHdpbGwgYmUgcmV0dXJuZWQiCiAgICB9CiAgICBAR0VUCiAgICBAUGF0aCgiL2lubXYiKQogICAgZnVuIGlubXYocTogU3RyaW5nKTogU3RyaW5nIHsKICAgICAgICByZXR1cm4gInByb3ZhICRxIgogICAgfQoKfQoKLyoqCiAqIFJ1biBhcHBsaWNhdGlvbjoKICovCmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgIHJ1big6OkFwcCwgYXJncykKfQo=</text>
       </register>
-      <register name="1" type="8">
-        <text>//
-//
-//</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG9uKCJkZXYiKSB7IC0+CiAgICAgICAgdXNlKE5wbSgidjguMTAuMCIpKQogICAgfQo=</text>
       </register>
-      <register name="2" type="8">
-        <text>//
-//
-//</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qb29ieS5mcm9udGVuZC5OcG0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vdXNlKEphZGUoIi5wdWciKSkKICAgIC8vdXNlKEFzc2V0cygpKQogICAgLy91c2UoUmVxdWVyeShNb2RlbHMuREVGQVVMVCkpCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5qb29ieTpqb29ieS1mcm9udGVuZDorIikK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZSgK</text>
+      <register name="4" type="8">
+        <text>//
+//
+//</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb29ieS5mcm9udGVuZAo=</text>
+      <register name="5" type="8">
+        <text>//
+//
+//</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb29ieS5qZGJpLkpkYmkzCg==</text>
+        <text encoding="base64">ICAgIC8vdXNlKEphZGUoIi5wdWciKSkKICAgIC8vdXNlKEFzc2V0cygpKQogICAgLy91c2UoUmVxdWVyeShNb2RlbHMuREVGQVVMVCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldCgiL3Rlc3RkYiIpIAo=</text>
+        <text encoding="base64">ICAgIHVzZSgK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ewogICAgICAgIHJlcXVpcmUoSmRiaTo6Y2xhc3MpLndpdGhIYW5kbGU8TGlzdDxNYXA8U3RyaW5nLEFueT4+LEV4Y2VwdGlvbj4gewogICAgICAgICAgICBpdC5jcmVhdGVRdWVyeSgiU0VMRUNUICogRlJPTSBhcnRpY29saSIpLm1hcFRvTWFwKCkubGlzdCgpCiAgICAgICAgfQogICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qb29ieS5mcm9udGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5yZXN0c3FsLgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb29ieS5qZGJpLkpkYmkzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>frontend</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>frontend</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -104,6 +111,8 @@
         <entry>dokka</entry>
         <entry>jdbi</entry>
         <entry>log</entry>
+        <entry>installNode</entry>
+        <entry>frontend</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -114,6 +123,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
