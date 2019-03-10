@@ -11,10 +11,11 @@
         <mark key="[" line="183" column="0" />
         <mark key="]" line="188" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552227224145">
-        <mark key="[" line="54" column="27" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552229431932">
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="24" />
+        <mark key="^" line="47" column="24" />
+        <mark key="." line="47" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zsmartsystems.zigbee/com.zsmartsystems.zigbee/1.1.10/f07afc875faf47e07b40d05778f85af14021c75/com.zsmartsystems.zigbee-1.1.10-sources.jar!/com/zsmartsystems/zigbee/zcl/clusters/levelcontrol/MoveToLevelWithOnOffCommand.java" timestamp="1552223396438" />
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/application.conf" timestamp="1552225813260">
@@ -67,11 +68,11 @@
       <jump line="45" column="8" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>networkManager</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZmdcPg==</text>
@@ -80,31 +81,31 @@
         <text encoding="base64">ICAgIGlmIChuZXR3b3JrTWFuYWdlci5zdGFydHVwKGZhbHNlKSAhPSBaaWdCZWVTdGF0dXMuU1VDQ0VTUykgewogICAgICAgIHByaW50bG4oIlppZ0JlZSBjb25zb2xlIHN0YXJ0aW5nIHVwIC4uLiBbRkFJTF0iKQogICAgICAgIHJldHVybgogICAgfSBlbHNlIHsKICAgICAgICBwcmludGxuKCJaaWdCZWUgY29uc29sZSBzdGFydGluZyB1cCAuLi4gW09LXSIpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2ZnID0gcmVxdWlyZShDb25maWc6OmNsYXNzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBcHAuCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBjZmc6IENvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBjZmc6IENvbmZpZyA9IHJlcXVpcmUoQ29uZmlnLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgIGluaXQgewogICAgICAgIHZhbCBjZmcgPSByZXF1aXJlKENvbmZpZzo6Y2xhc3MpCiAgICAgICAgdmFsIHNlcmlhbFBvcnQgPSBaaWdCZWVTZXJpYWxQb3J0KGNmZy5nZXRTdHJpbmcoInNlcmlhbC5wb3J0IiksIDExNTIwMCwgWmlnQmVlUG9ydC5GbG93Q29udHJvbC5GTE9XQ09OVFJPTF9PVVRfTk9ORSkKICAgICAgICB2YWwgZG9uZ2xlID0gWmlnQmVlRG9uZ2xlVGlDYzI1MzEoc2VyaWFsUG9ydCkKICAgICAgICBud2tNZ3IgPSBaaWdCZWVOZXR3b3JrTWFuYWdlcihkb25nbGUpCiAgICAgICAgbndrTWdyLnNldE5ldHdvcmtTdGF0ZVNlcmlhbGl6ZXIoIFppZ0JlZU5ldHdvcmtTdGF0ZVNlcmlhbGl6ZXJJbXBsKCJDQzI1MzEiKSApCiAgICAgICAgbndrTWdyLnNldFNlcmlhbGl6ZXIoRGVmYXVsdFNlcmlhbGl6ZXI6OmNsYXNzLmphdmEsIERlZmF1bHREZXNlcmlhbGl6ZXI6OmNsYXNzLmphdmEpCiAgICAgICAgbndrTWdyLmluaXRpYWxpemUoKQogICAgICAgIHRoaXMuY29uCgogICAgICAgIGlmIChud2tNZ3Iuc3RhcnR1cChmYWxzZSkgIT0gWmlnQmVlU3RhdHVzLlNVQ0NFU1MpIHsKICAgICAgICAgICAgcHJpbnRsbigiWmlnQmVlIGNvbnNvbGUgc3RhcnRpbmcgdXAgLi4uIFtGQUlMXSIpCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcHJpbnRsbigiWmlnQmVlIGNvbnNvbGUgc3RhcnRpbmcgdXAgLi4uIFtPS10iKQogICAgICAgIH0KCiAgICAgICAgemJBcGkgPSBaaWdCZWVBcGkobndrTWdyKQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBjZmc6IENvbmZpZwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB6YkFwaSA9IFppZ0JlZUFwaShud2tNZ3IpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBud2tNZ3I6IFppZ0JlZU5ldHdvcmtNYW5hZ2VyCiAgICB2YWwgemJBcGk6IFppZ0JlZUFwaQogICAgaW5pdCB7CiAgICAgICAgdmFsIGNmZyA9IHJlcXVpcmUoQ29uZmlnOjpjbGFzcykKICAgICAgICB2YWwgc2VyaWFsUG9ydCA9IFppZ0JlZVNlcmlhbFBvcnQoY2ZnLmdldFN0cmluZygic2VyaWFsLnBvcnQiKSwgMTE1MjAwLCBaaWdCZWVQb3J0LkZsb3dDb250cm9sLkZMT1dDT05UUk9MX09VVF9OT05FKQogICAgICAgIHZhbCBkb25nbGUgPSBaaWdCZWVEb25nbGVUaUNjMjUzMShzZXJpYWxQb3J0KQogICAgICAgIG53a01nciA9IFppZ0JlZU5ldHdvcmtNYW5hZ2VyKGRvbmdsZSkKICAgICAgICBud2tNZ3Iuc2V0TmV0d29ya1N0YXRlU2VyaWFsaXplciggWmlnQmVlTmV0d29ya1N0YXRlU2VyaWFsaXplckltcGwoIkNDMjUzMSIpICkKICAgICAgICBud2tNZ3Iuc2V0U2VyaWFsaXplcihEZWZhdWx0U2VyaWFsaXplcjo6Y2xhc3MuamF2YSwgRGVmYXVsdERlc2VyaWFsaXplcjo6Y2xhc3MuamF2YSkKICAgICAgICBud2tNZ3IuaW5pdGlhbGl6ZSgpCiAgICAgICAgdGhpcy5jb24KCiAgICAgICAgaWYgKG53a01nci5zdGFydHVwKGZhbHNlKSAhPSBaaWdCZWVTdGF0dXMuU1VDQ0VTUykgewogICAgICAgICAgICBwcmludGxuKCJaaWdCZWUgY29uc29sZSBzdGFydGluZyB1cCAuLi4gW0ZBSUxdIikKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBwcmludGxuKCJaaWdCZWUgY29uc29sZSBzdGFydGluZyB1cCAuLi4gW09LXSIpCiAgICAgICAgfQoKICAgICAgICB6YkFwaSA9IFppZ0JlZUFwaShud2tNZ3IpCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJbml0aWFsaXNlIHRoZSBuZXR3b3JrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -139,6 +140,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
