@@ -3,54 +3,107 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552296905134">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="4" />
-        <mark key="." line="57" column="4" />
+      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552301918353">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="P:/COBI/ktorch/src/main/conf/log4j2.xml" timestamp="1552299449328">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="16" column="0" filename="P:/COBI/ktorch/src/main/conf/log4j2.xml" />
+      <jump line="0" column="0" filename="P:/COBI/ktorch/src/main/conf/log4j2.xml" />
+      <jump line="27" column="15" filename="P:/COBI/ktorch/src/main/conf/log4j2.xml" />
+      <jump line="13" column="0" filename="P:/COBI/ktorch/src/main/conf/log4j2.xml" />
+      <jump line="58" column="100" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="88" column="43" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="60" column="0" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="39" column="0" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="52" column="17" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="11" column="17" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="43" column="100" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="48" column="31" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="63" column="14" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+    </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBud2tNZ3Iuc3QK</text>
+      </register>
+      <register name="-" type="4">
+        <text>/</text>
+      </register>
+      <register name="/" type="4">
+        <text>startup</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBud2tNZ3I6IFppZ0JlZU5ldHdvcmtNYW5hZ2VyCiAgICB2YWwgemJBcGk6IFppZ0JlZUFwaQogICAgaW5pdCB7CiAgICAgICAgcHJpbnRsbigiSW5pdGlhbGl6aW5nIENDMjUzMSBvbiBwb3J0ICIgKyBjb25mLmdldFN0cmluZygic2VyaWFsLnBvcnQiKSkKICAgICAgICB2YWwgc2VyaWFsUG9ydCA9IFppZ0JlZVNlcmlhbFBvcnQoY29uZi5nZXRTdHJpbmcoInNlcmlhbC5wb3J0IiksIDExNTIwMCwgWmlnQmVlUG9ydC5GbG93Q29udHJvbC5GTE9XQ09OVFJPTF9PVVRfTk9ORSkKICAgICAgICB2YWwgZG9uZ2xlID0gWmlnQmVlRG9uZ2xlVGlDYzI1MzEoc2VyaWFsUG9ydCkKICAgICAgICBud2tNZ3IgPSBaaWdCZWVOZXR3b3JrTWFuYWdlcihkb25nbGUpCiAgICAgICAgbndrTWdyLnNldE5ldHdvcmtTdGF0ZVNlcmlhbGl6ZXIoIFppZ0JlZU5ldHdvcmtTdGF0ZVNlcmlhbGl6ZXJJbXBsKCJDQzI1MzEiKSApCiAgICAgICAgbndrTWdyLnNldFNlcmlhbGl6ZXIoRGVmYXVsdFNlcmlhbGl6ZXI6OmNsYXNzLmphdmEsIERlZmF1bHREZXNlcmlhbGl6ZXI6OmNsYXNzLmphdmEpCiAgICAgICAgbndrTWdyLmluaXRpYWxpemUoKQoKICAgICAgICBpZiAobndrTWdyLnN0YXJ0dXAoZmFsc2UpICE9IFppZ0JlZVN0YXR1cy5TVUNDRVNTKSB7CiAgICAgICAgICAgIHByaW50bG4oIlppZ0JlZSBjb25zb2xlIHN0YXJ0aW5nIHVwIC4uLiBbRkFJTF0iKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHByaW50bG4oIlppZ0JlZSBjb25zb2xlIHN0YXJ0aW5nIHVwIC4uLiBbT0tdIikKICAgICAgICB9CgogICAgICAgIHpiQXBpID0gWmlnQmVlQXBpKG53a01ncikKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBlbnYuc2VydmljZUtleSgpLmdlbmVyYXRlKEtUb3JjaExpYjo6Y2xhc3MuamF2YSwgImt0b3JjaCIpIHtrIC0+IGJpbmRlci5iaW5kKGspLnRvSW5zdGFuY2UoIEtUb3JjaExpYihjb25mKSApfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBud2tNZ3Iuc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
+        <text encoding="base64">ICAgICAgICBud2tNZ3Iuc2V0TmV0d29ya1N0YXRlU2VyaWFsaXplciggWmlnQmVlTmV0d29ya1N0YXRlU2VyaWFsaXplckltcGwoIkNDMjUzMSIpICkKICAgICAgICBud2tNZ3Iuc2V0U2VyaWFsaXplcihEZWZhdWx0U2VyaWFsaXplcjo6Y2xhc3MuamF2YSwgRGVmYXVsdERlc2VyaWFsaXplcjo6Y2xhc3MuamF2YSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBud2tNZ3I6IFppZ0JlZU5ldHdvcmtNYW5hZ2VyCiAgICB2YWwgemJBcGk6IFppZ0JlZUFwaQogICAgaW5pdCB7CiAgICAgICAgcHJpbnRsbigiSW5pdGlhbGl6aW5nIENDMjUzMSBvbiBwb3J0ICIgKyBjb25mLmdldFN0cmluZygic2VyaWFsLnBvcnQiKSkKICAgICAgICB2YWwgc2VyaWFsUG9ydCA9IFppZ0JlZVNlcmlhbFBvcnQoY29uZi5nZXRTdHJpbmcoInNlcmlhbC5wb3J0IiksIDExNTIwMCwgWmlnQmVlUG9ydC5GbG93Q29udHJvbC5GTE9XQ09OVFJPTF9PVVRfTk9ORSkKICAgICAgICB2YWwgZG9uZ2xlID0gWmlnQmVlRG9uZ2xlVGlDYzI1MzEoc2VyaWFsUG9ydCkKICAgICAgICBud2tNZ3IgPSBaaWdCZWVOZXR3b3JrTWFuYWdlcihkb25nbGUpCiAgICAgICAgbndrTWdyLnNldE5ldHdvcmtTdGF0ZVNlcmlhbGl6ZXIoIFppZ0JlZU5ldHdvcmtTdGF0ZVNlcmlhbGl6ZXJJbXBsKCJDQzI1MzEiKSApCiAgICAgICAgbndrTWdyLnNldFNlcmlhbGl6ZXIoRGVmYXVsdFNlcmlhbGl6ZXI6OmNsYXNzLmphdmEsIERlZmF1bHREZXNlcmlhbGl6ZXI6OmNsYXNzLmphdmEpCiAgICAgICAgbndrTWdyLmluaXRpYWxpemUoKQoKICAgICAgICBpZiAobndrTWdyLnN0YXJ0dXAoZmFsc2UpICE9IFppZ0JlZVN0YXR1cy5TVUNDRVNTKSB7CiAgICAgICAgICAgIHByaW50bG4oIlppZ0JlZSBjb25zb2xlIHN0YXJ0aW5nIHVwIC4uLiBbRkFJTF0iKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHByaW50bG4oIlppZ0JlZSBjb25zb2xlIHN0YXJ0aW5nIHVwIC4uLiBbT0tdIikKICAgICAgICB9CgogICAgICAgIHpiQXBpID0gWmlnQmVlQXBpKG53a01ncikKICAgIH0K</text>
+      <register name="3" type="8">
+        <text>//
+//</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">Y29uc29sZSAKY29uc29sZSA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKG53a01nci5uZXR3b3JrU3RhdGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGNvbmYuZ2V0U3RyaW5nKCJzZXJpYWwucG9ydCIpKQo=</text>
+        <text encoding="base64">ICAgICAgICBud2tNZ3IuCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJTZXR0aW5nIHBvcnQgIiArIGNvbmYuZ2V0U3RyaW5nKCJzZXJpYWwucG9ydCIpKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvL2Vudi5zZXJ2aWNlS2V5KCkuZ2VuZXJhdGUoS1RvcmNoTGliOjpjbGFzcy5qYXZhLCAia3RvcmNoIikge2sgLT4gYmluZGVyLmJpbmQoaykudG9JbnN0YW5jZSggS1RvcmNoTGliKGNvbmYpICl9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>(conf: Config)</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>startup</last-search>
+      <last-offset />
+      <last-pattern>startup</last-pattern>
+      <last-replace>KTorchApi</last-replace>
+      <last-substitute>TestApi</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>TestApi</entry>
+        <entry>Settin</entry>
+        <entry>KTorchLib</entry>
+        <entry>conf</entry>
+        <entry>startup</entry>
+      </history-search>
       <history-cmd>
+        <entry>%s:TestApi:KTorchApi:g</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
