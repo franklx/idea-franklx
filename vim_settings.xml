@@ -6,11 +6,11 @@
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" timestamp="1552224457128">
         <mark key="'" line="275" column="53" />
       </file>
-      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552264462407">
-        <mark key="[" line="74" column="68" />
-        <mark key="]" line="75" column="21" />
-        <mark key="^" line="75" column="21" />
-        <mark key="." line="75" column="21" />
+      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552265103739">
+        <mark key="[" line="76" column="12" />
+        <mark key="]" line="76" column="18" />
+        <mark key="^" line="76" column="18" />
+        <mark key="." line="76" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" timestamp="1552226648427">
         <mark key="'" line="22" column="29" />
@@ -93,7 +93,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(conf: Config)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>NetworkManager</text>
@@ -105,28 +105,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBud2tNZ3IgPSBaaWdCZWVOZXR3b3JrTWFuYWdlcigiIikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBud2tNZ3I6IFppZ2JlZU5ldHdvcmtNYW5hZ2VyCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBjb25maWd1cmUoZW52OiBFbnYsIGNvbmY6IENvbmZpZywgYmluZGVyOiBCaW5kZXIpIHsKICAgICAgICBLVG9yY2hNb2QoY29uZikKICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNsYXNzIFppZ0pvb2J5OiBKb29ieS5Nb2R1bGUgewogICAgb3ZlcnJpZGUgZnVuIGNvbmZpZ3VyZShlbnY6IEVudiwgY29uZjogQ29uZmlnLCBiaW5kZXI6IEJpbmRlcikgewogICAgICAgIGVudi5zZXJ2aWNlS2V5KCkuZ2VuZXJhdGUoS1RvcmNoQ3RybDo6Y2xhc3MsICJ6aWdiZWUiLCB7IGJpbmRlci5iaW5kKGl0KS50b1Byb3ZpZGVyKEtUb3JjaEN0cmwoY29uZikpfSkKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBud2tNZ3IgPSBaaWdCZWVOZXR3b3JrTWFuYWdlcigiIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBud2tNZ3I6IFppZ2JlZU5ldHdvcmtNYW5hZ2VyCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2VyaWFsUG9ydCA9IFppZ0JlZVNlcmlhbFBvcnQoY29uZi5nZXRTdHJpbmcoInNlcmlhbC5wb3J0IiksIDExNTIwMCwgWmlnQmVlUG9ydC5GbG93Q29udHJvbC5GTE9XQ09OVFJPTF9PVVRfTk9ORSkKICAgICAgICB2YWwgZG9uZ2xlID0gWmlnQmVlRG9uZ2xlVGlDYzI1MzEoc2VyaWFsUG9ydCkKICAgICAgICBud2tNZ3IgPSBaaWdCZWVOZXR3b3JrTWFuYWdlcihkb25nbGUpCiAgICAgICAgbndrTWdyLnNldE5ldHdvcmtTdGF0ZVNlcmlhbGl6ZXIoIFppZ0JlZU5ldHdvcmtTdGF0ZVNlcmlhbGl6ZXJJbXBsKCJDQzI1MzEiKSApCiAgICAgICAgbndrTWdyLnNldFNlcmlhbGl6ZXIoRGVmYXVsdFNlcmlhbGl6ZXI6OmNsYXNzLmphdmEsIERlZmF1bHREZXNlcmlhbGl6ZXI6OmNsYXNzLmphdmEpCiAgICAgICAgbndrTWdyLmluaXRpYWxpemUoKQoKICAgICAgICBpZiAobndrTWdyLnN0YXJ0dXAoZmFsc2UpICE9IFppZ0JlZVN0YXR1cy5TVUNDRVNTKSB7CiAgICAgICAgICAgIHByaW50bG4oIlppZ0JlZSBjb25zb2xlIHN0YXJ0aW5nIHVwIC4uLiBbRkFJTF0iKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHByaW50bG4oIlppZ0JlZSBjb25zb2xlIHN0YXJ0aW5nIHVwIC4uLiBbT0tdIikKICAgICAgICB9CgogICAgICAgIHpiQXBpID0gWmlnQmVlQXBpKG53a01ncikK</text>
+        <text encoding="base64">CmNsYXNzIFppZ0pvb2J5OiBKb29ieS5Nb2R1bGUgewogICAgb3ZlcnJpZGUgZnVuIGNvbmZpZ3VyZShlbnY6IEVudiwgY29uZjogQ29uZmlnLCBiaW5kZXI6IEJpbmRlcikgewogICAgICAgIGVudi5zZXJ2aWNlS2V5KCkuZ2VuZXJhdGUoS1RvcmNoQ3RybDo6Y2xhc3MsICJ6aWdiZWUiLCB7IGJpbmRlci5iaW5kKGl0KS50b1Byb3ZpZGVyKEtUb3JjaEN0cmwoY29uZikpfSkKICAgIH0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
