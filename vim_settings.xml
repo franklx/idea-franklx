@@ -2,9 +2,41 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552344786083">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+      </file>
+      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" timestamp="1552344356337" />
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBHRVQgQFBhdGgoIi9ub2RlLzpub2RlL29uIikKICAgIGZ1biBjbWRfb24obm9kZTogU3RyaW5nKTogSW50PyA9IGt0Lm53a01nci5zZW5kKFppZ0JlZUVuZHBvaW50QWRkcmVzcyhub2RlLnRvSW50KDE2KSwgOCksIE9uQ29tbWFuZCgpKS5nZXQoKS5zdGF0dXNDb2RlCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBrdC5ud2tNZ3IuCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBrdC5ud2tNZ3IuCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBrdC5ud2tkZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBHRVQgQFBhdGgoIi9scWkiKQogICAgZnVuIGxxaSgpOiBTdHJpbmcgewogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBrCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IGt0Lm53a01nci5zZW5kKFppZ0JlZUVuZHBvaW50QWRkcmVzcyhub2RlLnRvSW50KDE2KSwgOCksIE1hbmFnZW1lbnRMcWlSZXF1ZXN0KCkpLmdldCgpLnN0YXR1c0NvZGU=</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
