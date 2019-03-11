@@ -3,10 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552301918353">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="P:/COBI/ktorch/src/main/conf/log4j.xml" timestamp="1552304746149">
+        <mark key="'" line="36" column="21" />
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="32" />
+        <mark key="^" line="32" column="32" />
+        <mark key="." line="32" column="32" />
+      </file>
+      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552305302310">
+        <mark key="[" line="95" column="16" />
+        <mark key="]" line="95" column="22" />
+        <mark key="." line="95" column="22" />
+        <mark key="^" line="95" column="22" />
+      </file>
+      <file name="P:/COBI/ktorch/build.gradle.kts" timestamp="1552305758417">
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="46" column="30" />
+        <mark key="." line="46" column="30" />
+        <mark key="^" line="46" column="30" />
       </file>
       <file name="P:/COBI/ktorch/src/main/conf/log4j2.xml" timestamp="1552299449328">
         <mark key="[" line="0" column="0" />
@@ -29,56 +43,56 @@
       <jump line="43" column="100" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
       <jump line="48" column="31" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
       <jump line="63" column="14" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="50" column="21" filename="P:/COBI/ktorch/src/main/conf/log4j.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBud2tNZ3Iuc3QK</text>
+      <register name="&quot;" type="4">
+        <text>App</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>App</text>
       </register>
       <register name="/" type="4">
-        <text>startup</text>
+        <text>App</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbnYuc2VydmljZUtleSgpLmdlbmVyYXRlKEtUb3JjaExpYjo6Y2xhc3MuamF2YSwgImt0b3JjaCIpIHtrIC0+IGJpbmRlci5iaW5kKGspLnRvSW5zdGFuY2UoIEtUb3JjaExpYihjb25mKSApfQo=</text>
+        <text encoding="base64">ICAgIG1haW5DbGFzc05hbWUgPSAia3RvcmNoLkFwcEt0Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBud2tNZ3Iuc3QK</text>
+        <text encoding="base64">ICAgIG0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBud2tNZ3Iuc2V0TmV0d29ya1N0YXRlU2VyaWFsaXplciggWmlnQmVlTmV0d29ya1N0YXRlU2VyaWFsaXplckltcGwoIkNDMjUzMSIpICkKICAgICAgICBud2tNZ3Iuc2V0U2VyaWFsaXplcihEZWZhdWx0U2VyaWFsaXplcjo6Y2xhc3MuamF2YSwgRGVmYXVsdERlc2VyaWFsaXplcjo6Y2xhc3MuamF2YSkK</text>
+        <text encoding="base64">ICAgICAgICAvL253a01nci5pbml0aWFsaXplKCkK</text>
       </register>
-      <register name="3" type="8">
-        <text>//
-//</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">Y29uc29sZSAKY29uc29sZSA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKG53a01nci5uZXR3b3JrU3RhdGUpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBud2tNZ3IuCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBud2tNZ3Iuc2V0TmV0d29ya1N0YXRlU2VyaWFsaXplciggWmlnQmVlTmV0d29ya1N0YXRlU2VyaWFsaXplckltcGwoIkNDMjUzMSIpICkKICAgICAgICBud2tNZ3Iuc2V0U2VyaWFsaXplcihEZWZhdWx0U2VyaWFsaXplcjo6Y2xhc3MuamF2YSwgRGVmYXVsdERlc2VyaWFsaXplcjo6Y2xhc3MuamF2YSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJTZXR0aW5nIHBvcnQgIiArIGNvbmYuZ2V0U3RyaW5nKCJzZXJpYWwucG9ydCIpKQo=</text>
+        <text encoding="base64">ICAgIDxhcHBlbmRlciBjbGFzcz0ib3JnLmFwYWNoZS5sb2c0ai5EYWlseVJvbGxpbmdGaWxlQXBwZW5kZXIiIG5hbWU9IkV6c3BGaWxlIj4KICAgICAgICA8cGFyYW0gbmFtZT0iRmlsZSIgdmFsdWU9ImxvZ3MvZXpzcC5sb2ciIC8+CiAgICAgICAgPHBhcmFtIG5hbWU9IkRhdGVQYXR0ZXJuIiB2YWx1ZT0iJy4neXl5eS1NTS1kZCIgLz4KICAgICAgICA8cGFyYW0gbmFtZT0iVGhyZXNob2xkIiB2YWx1ZT0iZGVidWciIC8+CiAgICAgICAgPGxheW91dCBjbGFzcz0ib3JnLmFwYWNoZS5sb2c0ai5QYXR0ZXJuTGF5b3V0Ij4KICAgICAgICAgICAgPHBhcmFtIG5hbWU9IkNvbnZlcnNpb25QYXR0ZXJuIiB2YWx1ZT0iJWR7SEg6bW06c3MuU1NTfSAgJS01cCAgJW0lbiIvPgogICAgICAgIDwvbGF5b3V0PgogICAgPC9hcHBlbmRlcj4KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL2Vudi5zZXJ2aWNlS2V5KCkuZ2VuZXJhdGUoS1RvcmNoTGliOjpjbGFzcy5qYXZhLCAia3RvcmNoIikge2sgLT4gYmluZGVyLmJpbmQoaykudG9JbnN0YW5jZSggS1RvcmNoTGliKGNvbmYpICl9Cg==</text>
+        <text encoding="base64">ICAgIDxsb2dnZXIgYWRkaXRpdml0eT0idHJ1ZSIgbmFtZT0iY29tLnpzbWFydHN5c3RlbXMuemlnYmVlLmRvbmdsZS5lbWJlci5hc2giPgogICAgICAgIDxsZXZlbCB2YWx1ZT0iZGVidWciLz4KICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iRXpzcEZpbGUiIC8+CiAgICA8L2xvZ2dlcj4KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>startup</last-search>
+      <last-search>App</last-search>
       <last-offset />
-      <last-pattern>startup</last-pattern>
+      <last-pattern>App</last-pattern>
       <last-replace>KTorchApi</last-replace>
       <last-substitute>TestApi</last-substitute>
       <last-dir>1</last-dir>
@@ -91,6 +105,7 @@
         <entry>KTorchLib</entry>
         <entry>conf</entry>
         <entry>startup</entry>
+        <entry>App</entry>
       </history-search>
       <history-cmd>
         <entry>%s:TestApi:KTorchApi:g</entry>
