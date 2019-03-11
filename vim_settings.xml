@@ -20,11 +20,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="158" column="29" />
       </file>
-      <file name="P:/COBI/ktorch/build.gradle.kts" timestamp="1552313081419">
-        <mark key="[" line="46" column="4" />
-        <mark key="]" line="46" column="5" />
-        <mark key="." line="46" column="5" />
-        <mark key="^" line="46" column="5" />
+      <file name="P:/COBI/ktorch/build.gradle.kts" timestamp="1552321857735">
+        <mark key="[" line="45" column="4" />
+        <mark key="]" line="45" column="5" />
+        <mark key="." line="45" column="5" />
+        <mark key="^" line="45" column="5" />
       </file>
       <file name="P:/COBI/ktorch/src/main/conf/application.conf" timestamp="1552309542317">
         <mark key="[" line="2" column="18" />
@@ -109,11 +109,11 @@
       <jump line="99" column="0" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCB6YkFwaTogWmlnQmVlQXBpCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>(level * 254).toInt()</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>zbApi</text>
@@ -203,6 +203,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
