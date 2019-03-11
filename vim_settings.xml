@@ -3,28 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="P:/COBI/ktorch/src/main/conf/log4j.xml" timestamp="1552306887907">
-        <mark key="'" line="36" column="21" />
-        <mark key="[" line="33" column="42" />
-        <mark key="]" line="33" column="42" />
-        <mark key="^" line="33" column="42" />
-        <mark key="." line="33" column="42" />
+      <file name="P:/COBI/ktorch/src/main/conf/log4j.xml" timestamp="1552333771199">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="37" />
+        <mark key="^" line="23" column="12" />
+        <mark key="." line="33" column="0" />
       </file>
-      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeApi.kt" timestamp="1552325279890">
+      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeApi.kt" timestamp="1552330466964">
         <mark key="'" line="80" column="8" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
-      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552320973445">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="158" column="29" />
+      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552332644300">
+        <mark key="'" line="19" column="25" />
+        <mark key="[" line="58" column="76" />
+        <mark key="]" line="58" column="81" />
+        <mark key="^" line="58" column="81" />
+        <mark key="." line="58" column="81" />
       </file>
-      <file name="P:/COBI/ktorch/build.gradle.kts" timestamp="1552321857735">
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="45" column="5" />
-        <mark key="." line="45" column="5" />
-        <mark key="^" line="45" column="5" />
+      <file name="P:/COBI/ktorch/build.gradle.kts" timestamp="1552333989885">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="45" column="34" />
+        <mark key="]" line="45" column="46" />
+        <mark key="^" line="45" column="46" />
+        <mark key="." line="45" column="46" />
       </file>
       <file name="P:/COBI/ktorch/src/main/conf/application.conf" timestamp="1552309542317">
         <mark key="[" line="2" column="18" />
@@ -33,6 +37,12 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zsmartsystems.zigbee/com.zsmartsystems.zigbee/1.1.10/f07afc875faf47e07b40d05778f85af14021c75/com.zsmartsystems.zigbee-1.1.10-sources.jar!/com/zsmartsystems/zigbee/ZigBeeCommand.java" timestamp="1552317823420" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zsmartsystems.zigbee/com.zsmartsystems.zigbee/1.1.10/f07afc875faf47e07b40d05778f85af14021c75/com.zsmartsystems.zigbee-1.1.10-sources.jar!/com/zsmartsystems/zigbee/zcl/clusters/levelcontrol/MoveToLevelWithOnOffCommand.java" timestamp="1552320365798" />
+      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" timestamp="1552334622176">
+        <mark key="'" line="16" column="59" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+      </file>
       <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" timestamp="1552325245378">
         <mark key="'" line="89" column="18" />
         <mark key="[" line="649" column="44" />
@@ -46,11 +56,12 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" timestamp="1552313374311">
-        <mark key="'" line="40" column="131" />
-        <mark key="[" line="63" column="60" />
-        <mark key="]" line="63" column="61" />
-        <mark key="." line="63" column="61" />
+      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" timestamp="1552332629175">
+        <mark key="'" line="98" column="29" />
+        <mark key="[" line="102" column="67" />
+        <mark key="]" line="102" column="72" />
+        <mark key="." line="102" column="72" />
+        <mark key="^" line="102" column="72" />
       </file>
     </filemarks>
     <jumps>
@@ -121,87 +132,117 @@
       <jump line="485" column="21" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
       <jump line="630" column="21" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
       <jump line="89" column="18" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="119" column="25" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="34" column="0" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="25" column="15" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="93" column="12" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="97" column="8" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="113" column="8" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="126" column="32" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="141" column="8" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="146" column="15" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="148" column="20" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="24" column="1" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="65" column="12" filename="P:/COBI/ktorch/build.gradle.kts" />
+      <jump line="63" column="0" filename="P:/COBI/ktorch/build.gradle.kts" />
+      <jump line="51" column="22" filename="P:/COBI/ktorch/src/main/conf/log4j.xml" />
+      <jump line="4" column="0" filename="P:/COBI/ktorch/src/main/conf/log4j.xml" />
+      <jump line="48" column="0" filename="P:/COBI/ktorch/src/main/conf/log4j.xml" />
+      <jump line="0" column="0" filename="P:/COBI/ktorch/src/main/conf/log4j.xml" />
+      <jump line="2" column="0" filename="P:/COBI/ktorch/src/main/conf/log4j.xml" />
+      <jump line="215" column="0" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" />
+      <jump line="9" column="62" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" />
+      <jump line="98" column="29" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" />
+      <jump line="19" column="25" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="30" column="1" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="46" column="0" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="91" column="36" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="10" column="0" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="11" column="41" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="106" column="5" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
+      <jump line="16" column="59" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeNetworkStateSerializerImpl.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RyZWFtLmZyb21YTUwocmVhZGVyLCkK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>J</text>
       </register>
       <register name="/" type="4">
-        <text>groupadd</text>
+        <text>Jettison</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvL2NtZC5sZXZlbCA9IChsZXZlbCAqIDI1NCkudG9JbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iU3RkT3V0IiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB6YkFwaTogWmlnQmVlQXBpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyZWFtLmZyb21YTUwocmVhZGVyLCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB6YkFwaSA9IFppZ0JlZUFwaShud2tNZ3IpCg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgb3JnLnNsZjRqLkxvZ2dlckZhY3RvcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2NtZC5sZXZlbCA9IChsZXZlbCAqIDI1NCkudG9JbnQoKQo=</text>
+        <text encoding="base64">ICAgIDxsb2dnZXIgYWRkaXRpdml0eT0idHJ1ZSIgbmFtZT0iY29tLnpzbWFydHN5c3RlbXMuemlnYmVlLmRvbmdsZS5lbWJlci5hc2giPgogICAgICAgIDxsZXZlbCB2YWx1ZT0iZGVidWciLz4KICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iRXpzcEZpbGUiIC8+CiAgICA8L2xvZ2dlcj4KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICB2YXIgbCA9IChsZXZlbCAqIDI1NCkudG9JbnQoKQogICAgICAgIGlmIChsID4gMjU0KSB7CiAgICAgICAgICAgIGwgPSAyNTQKICAgICAgICB9CiAgICAgICAgaWYgKGwgPCAwKSB7CiAgICAgICAgICAgIGwgPSAwCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDxhcHBlbmRlciBjbGFzcz0ib3JnLmFwYWNoZS5sb2c0ai5EYWlseVJvbGxpbmdGaWxlQXBwZW5kZXIiIG5hbWU9IkV6c3BGaWxlIj4KICAgICAgICA8cGFyYW0gbmFtZT0iRmlsZSIgdmFsdWU9ImxvZ3MvZXpzcC5sb2ciIC8+CiAgICAgICAgPHBhcmFtIG5hbWU9IkRhdGVQYXR0ZXJuIiB2YWx1ZT0iJy4neXl5eS1NTS1kZCIgLz4KICAgICAgICA8cGFyYW0gbmFtZT0iVGhyZXNob2xkIiB2YWx1ZT0iZGVidWciIC8+CiAgICAgICAgPGxheW91dCBjbGFzcz0ib3JnLmFwYWNoZS5sb2c0ai5QYXR0ZXJuTGF5b3V0Ij4KICAgICAgICAgICAgPHBhcmFtIG5hbWU9IkNvbnZlcnNpb25QYXR0ZXJuIiB2YWx1ZT0iJWR7SEg6bW06c3MuU1NTfSAgJS01cCAgJW0lbiIvPgogICAgICAgIDwvbGF5b3V0PgogICAgPC9hcHBlbmRlcj4KCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBjbWRfb2ZmKG5vZGU6IFN0cmluZyk6IEludCB7CiAgICAgICAgdmFsIGNtZCA9IE9mZkNvbW1hbmQoKQogICAgICAgIGNtZC5kZXN0aW5hdGlvbkFkZHJlc3MgPSBaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpCiAgICAgICAgcmV0dXJuIGt0Lm53a01nci5zZW5kQ29tbWFuZChjbWQpCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL3ZhbCBjbWQgPSBPbkNvbW1hbmQoKQogICAgICAgIC8vY21kLmRlc3RpbmF0aW9uQWRkcmVzcyA9IFppZ0JlZUVuZHBvaW50QWRkcmVzcyhub2RlLnRvSW50KDE2KSwgOCkKICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iuc2VuZENvbW1hbmQoY21kKQo=</text>
+        <text encoding="base64">Li9jb20uenNtYXJ0c3lzdGVtcy56aWdiZWUuY29uc29sZS9zcmMvdGVzdC9yZXNvdXJjZXMvbG9nNGoueG1sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iubm9kZXMudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIC8vZXhjbHVkZSgiY2gucW9zLmxvZ2JhY2siLCJsb2diYWNrLWNsYXNzaWMiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>groupadd</last-search>
+      <last-search>Jettison</last-search>
       <last-offset />
-      <last-pattern>groupadd</last-pattern>
-      <last-replace>nwkMgr</last-replace>
-      <last-substitute>networkManager</last-substitute>
+      <last-pattern>Jettison</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TestApi</entry>
-        <entry>Settin</entry>
-        <entry>KTorchLib</entry>
-        <entry>conf</entry>
-        <entry>startup</entry>
-        <entry>App</entry>
-        <entry>initi</entry>
-        <entry>oin</entry>
-        <entry>discoveryExtension</entry>
-        <entry>networkManager</entry>
-        <entry>Rediscover</entry>
-        <entry>discover</entry>
-        <entry>iscover</entry>
-        <entry>ZigBeeEnd</entry>
-        <entry>sendTra</entry>
         <entry>sendTran</entry>
         <entry>zbApi</entry>
         <entry>group</entry>
         <entry>grouplist</entry>
         <entry>groupadd</entry>
+        <entry>Inject</entry>
+        <entry>og</entry>
+        <entry>Log</entry>
+        <entry>Logg</entry>
+        <entry>logger</entry>
+        <entry>'</entry>
+        <entry>Ez</entry>
+        <entry>2351</entry>
+        <entry>2531</entry>
+        <entry>CC2531</entry>
+        <entry>Stax</entry>
+        <entry>Porett</entry>
+        <entry>Prett</entry>
+        <entry>Hettison</entry>
+        <entry>Jettison</entry>
       </history-search>
       <history-cmd>
         <entry>%s:TestApi:KTorchApi:g</entry>
         <entry encoding="base64">JzwsJz5zOmRpc2NvdmVyeUV4dGVuc2lvbjpkaXNjRXh0Omc=</entry>
         <entry encoding="base64">JzwsJz5zOm5ldHdvcmtNYW5hZ2VyOm53a01ncjpn</entry>
+        <entry encoding="base64">JzwsJz5zOic6Ijpn</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
@@ -223,6 +264,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
