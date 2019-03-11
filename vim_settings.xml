@@ -10,17 +10,17 @@
         <mark key="^" line="33" column="42" />
         <mark key="." line="33" column="42" />
       </file>
-      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552309283705">
-        <mark key="'" line="64" column="15" />
-        <mark key="[" line="44" column="105" />
-        <mark key="]" line="45" column="17" />
-        <mark key="." line="45" column="17" />
-        <mark key="^" line="45" column="17" />
+      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552314228901">
+        <mark key="'" line="92" column="41" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="93" column="28" />
       </file>
-      <file name="P:/COBI/ktorch/build.gradle.kts" timestamp="1552308161833">
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="45" column="4" />
-        <mark key="." line="45" column="4" />
+      <file name="P:/COBI/ktorch/build.gradle.kts" timestamp="1552313081419">
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="46" column="5" />
+        <mark key="." line="46" column="5" />
         <mark key="^" line="46" column="5" />
       </file>
       <file name="P:/COBI/ktorch/src/main/conf/application.conf" timestamp="1552309542317">
@@ -28,11 +28,20 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
+      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" timestamp="1552314395898">
+        <mark key="'" line="189" column="16" />
+      </file>
       <file name="P:/COBI/ktorch/src/main/conf/log4j2.xml" timestamp="1552299449328">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="13" column="15" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" timestamp="1552313374311">
+        <mark key="'" line="40" column="131" />
+        <mark key="[" line="63" column="60" />
+        <mark key="]" line="63" column="61" />
+        <mark key="." line="63" column="61" />
       </file>
     </filemarks>
     <jumps>
@@ -51,57 +60,87 @@
       <jump line="50" column="21" filename="P:/COBI/ktorch/src/main/conf/log4j.xml" />
       <jump line="61" column="0" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
       <jump line="63" column="15" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="198" column="7" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" />
+      <jump line="42" column="129" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" />
+      <jump line="152" column="26" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" />
+      <jump line="155" column="27" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" />
+      <jump line="163" column="26" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" />
+      <jump line="164" column="69" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" />
+      <jump line="167" column="26" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" />
+      <jump line="168" column="68" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" />
+      <jump line="182" column="28" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" />
+      <jump line="40" column="131" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/Cli.kt" />
+      <jump line="66" column="24" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="106" column="10" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="92" column="41" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="363" column="12" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="1111" column="73" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="1112" column="50" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="1637" column="24" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="1643" column="24" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="1656" column="30" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="1657" column="30" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="10" column="53" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="83" column="40" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="84" column="9" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="85" column="37" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="151" column="22" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="1630" column="7" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="1632" column="24" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="1669" column="21" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="121" column="33" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
+      <jump line="189" column="16" filename="P:/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QXJyYXk8WmlnQmVlTm9kZT4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgLyoKICAgICAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS5hZGRTaHV0ZG93bkhvb2soVGhyZWFkKFJ1bm5hYmxlIHsKICAgICAgICAgICAgc2h1dGRvd24gPSB0cnVlCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0uYGluYC5jbG9zZSgpCiAgICAgICAgICAgIH0gY2F0Y2ggKGU6IElPRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBtYWluVGhyZWFkISEuaW50ZXJydXB0KCkKICAgICAgICAgICAgICAgIG1haW5UaHJlYWQhIS5qb2luKCkKICAgICAgICAgICAgfSBjYXRjaCAoZTogSW50ZXJydXB0ZWRFeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgICAgICAgfQogICAgICAgIH0pKQogICAgICAgICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QXJyYXk8WmlnQmVlTm9kZT4=</text>
+        <text>require()</text>
       </register>
       <register name="/" type="4">
-        <text>initi</text>
+        <text>iscover</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1haW5DbGFzc05hbWUgPSAia3RvcmNoLkFwcEt0Igo=</text>
+        <text encoding="base64">ICAgICAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS5hZGRTaHV0ZG93bkhvb2soVGhyZWFkKFJ1bm5hYmxlIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBHRVQKICAgIEBQYXRoKCIvaW5pdCIpCiAgICBmdW4gaW5pdGlhbGl6ZSgpOiBTdHJpbmcgewogICAgICAgIHByaW50bG4oa3QpCiAgICAgICAga3QuaW5pdGlhbGl6ZSgpCiAgICAgICAgcmV0dXJuICJJbml0ZWQiCiAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLyoKICAgICAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS5hZGRTaHV0ZG93bkhvb2soVGhyZWFkKFJ1bm5hYmxlIHsKICAgICAgICAgICAgc2h1dGRvd24gPSB0cnVlCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0uYGluYC5jbG9zZSgpCiAgICAgICAgICAgIH0gY2F0Y2ggKGU6IElPRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBtYWluVGhyZWFkISEuaW50ZXJydXB0KCkKICAgICAgICAgICAgICAgIG1haW5UaHJlYWQhIS5qb2luKCkKICAgICAgICAgICAgfSBjYXRjaCAoZTogSW50ZXJydXB0ZWRFeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgICAgICAgfQogICAgICAgIH0pKQogICAgICAgICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1biBpbml0aWFsaXplKCkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJJbml0aWFsaXppbmcgQ0MyNTMxIikKICAgICAgICBud2tNZ3IuaW5pdGlhbGl6ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGt0Lm53a01nci5ub2RlcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ga3QubndrTWdyLm5vZGVzCg==</text>
+        <text encoding="base64">ICAgIGZ1biBjbG9zZSgpIHsKICAgICAgICBud2tNZ3Iuc2h1dGRvd24oKQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ga3QubndrTWdyLm5vZGVzLnRvVHlwZWRBcnJheSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBud2tNZ3Iuc2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG0K</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc2VycyA9IFppZ0JlZU5ldHdvcmtTdGF0ZVNlcmlhbGl6ZXJJbXBsKCJDQzI1MzEiKQogICAgICAgIHNlcnMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL253a01nci5pbml0aWFsaXplKCkK</text>
+        <text encoding="base64">ICAgICAgICBkb25nbGUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkb25nbGUuc2V0TGVkTW9kZSgwLHRydWUpCiAgICAgICAgZG9uZ2xlLnNldExlZE1vZGUoMSx0cnVlKQogICAgICAgIGRvbmdsZS5zZXRMZWRNb2RlKDIsdHJ1ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>initi</last-search>
+      <last-search>iscover</last-search>
       <last-offset />
-      <last-pattern>initi</last-pattern>
-      <last-replace>KTorchApi</last-replace>
-      <last-substitute>TestApi</last-substitute>
+      <last-pattern>iscover</last-pattern>
+      <last-replace>nwkMgr</last-replace>
+      <last-substitute>networkManager</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -114,9 +153,17 @@
         <entry>startup</entry>
         <entry>App</entry>
         <entry>initi</entry>
+        <entry>oin</entry>
+        <entry>discoveryExtension</entry>
+        <entry>networkManager</entry>
+        <entry>Rediscover</entry>
+        <entry>discover</entry>
+        <entry>iscover</entry>
       </history-search>
       <history-cmd>
         <entry>%s:TestApi:KTorchApi:g</entry>
+        <entry encoding="base64">JzwsJz5zOmRpc2NvdmVyeUV4dGVuc2lvbjpkaXNjRXh0Omc=</entry>
+        <entry encoding="base64">JzwsJz5zOm5ldHdvcmtNYW5hZ2VyOm53a01ncjpn</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
@@ -126,6 +173,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
