@@ -21,18 +21,18 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1552405550932">
-        <mark key="[" line="28" column="49" />
-        <mark key="]" line="28" column="60" />
-        <mark key="." line="28" column="60" />
-        <mark key="^" line="28" column="60" />
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1552406634261">
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="24" column="5" />
+        <mark key="." line="24" column="5" />
+        <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1552405714667">
-        <mark key="'" line="27" column="16" />
-        <mark key="[" line="28" column="54" />
-        <mark key="]" line="28" column="57" />
-        <mark key="." line="28" column="57" />
-        <mark key="^" line="28" column="57" />
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1552407083461">
+        <mark key="'" line="3" column="15" />
+        <mark key="[" line="33" column="95" />
+        <mark key="]" line="33" column="95" />
+        <mark key="." line="33" column="95" />
+        <mark key="^" line="33" column="95" />
       </file>
     </filemarks>
     <jumps>
@@ -45,13 +45,16 @@
       <jump line="157" column="0" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
       <jump line="27" column="16" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
       <jump line="154" column="31" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="2" column="10" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="92" column="0" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="3" column="15" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC8gMTAw</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8gMTAw</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
@@ -60,31 +63,31 @@
         <text encoding="base64">CiAgICBAR0VUIEBQYXRoKCIvbm9kZS86bm9kZS9sZXZlbC86bGV2ZWwiKQogICAgZnVuIGNtZF9sZXZlbChub2RlOiBTdHJpbmcsIGxldmVsOiBJbnQpOiBJbnQ/IHsKICAgICAgICB2YWwgY21kID0gTW92ZVRvTGV2ZWxXaXRoT25PZmZDb21tYW5kKCkKICAgICAgICBjbWQubGV2ZWwgPSBsZXZlbCAlIDI1NQogICAgICAgIGNtZC50cmFuc2l0aW9uVGltZSA9IDEKICAgICAgICByZXR1cm4ga3QubndrTWdyLnNlbmQoWmlnQmVlRW5kcG9pbnRBZGRyZXNzKG5vZGUudG9JbnQoMTYpLCA4KSwgY21kKS5nZXQoKS5zdGF0dXNDb2RlCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogYmxvY2sK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubm9kZXMuJHNldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiA5cHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG9fbGV2ZWwpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYXhpb3MuZ2V0KGAvemIvbm9kZS8ke3RoaXMubm9kZX0vcGVyYy8ke3RoaXMubGV2ZWx9YCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzZXQodGhpcy5ub2RlcywgaSwgbikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGVzW2ldCg==</text>
+        <text encoding="base64">ICAgIHdhdGNoOiB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vdGhpcy5ub2Rlc1tpXSA9IG4KICAgICAgICAgICAgICAgIC8vY29uc29sZS5sb2cobikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ga3QubndrTWdyLm5vZGVzLnRvU3RyaW5nKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubm9kZXMuJHNldCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
