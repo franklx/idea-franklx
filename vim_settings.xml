@@ -33,12 +33,12 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1552421137063">
-        <mark key="'" line="104" column="19" />
-        <mark key="[" line="34" column="80" />
-        <mark key="]" line="34" column="84" />
-        <mark key="." line="34" column="84" />
-        <mark key="^" line="34" column="84" />
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1552427635123">
+        <mark key="'" line="105" column="19" />
+        <mark key="[" line="35" column="39" />
+        <mark key="]" line="35" column="40" />
+        <mark key="." line="35" column="40" />
+        <mark key="^" line="35" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -57,17 +57,17 @@
       <jump line="103" column="19" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWF0aC5yCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICogMjIw</text>
       </register>
       <register name="-" type="4">
-        <text>round(</text>
+        <text encoding="base64">ICogMjIw</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBHRVQgQFBhdGgoIi9ub2RlLzpub2RlL3BlcmMvOnBlcmMiKQogICAgZnVuIGNtZF9wZXJjKG5vZGU6IFN0cmluZywgcGVyYzogSW50KTogSW50PyB7CiAgICAgICAgdmFsIGNtZCA9IE1vdmVUb0xldmVsV2l0aE9uT2ZmQ29tbWFuZCgpCiAgICAgICAgY21kLmxldmVsID0gaWYgKHBlcmM9PTApIDEgZWxzZSBwZXJjICogMjU0IC8gMTAwCiAgICAgICAgY21kLnRyYW5zaXRpb25UaW1lID0gMQogICAgICAgIHJldHVybiBrdC5ud2tNZ3Iuc2VuZChaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpLCBjbWQpLmdldCgpLnN0YXR1c0NvZGUKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wb3dlciA9IE1hdGgucm91bmQodiAqIDMzMDAvNDA5Ni8yNjQgKiAyMjAgKiAxMCkgLyAxMAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWF0aC5yCg==</text>
