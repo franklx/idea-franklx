@@ -8,18 +8,30 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeConsole.kt" timestamp="1552417891043" />
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552420221905">
-        <mark key="'" line="157" column="31" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
+      <file name="$USER_HOME$/Projects/COBI/ktorch/vue.config.js" timestamp="1552484814428">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/log4j.xml" timestamp="1552418012664">
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="33" column="36" />
-        <mark key="." line="33" column="36" />
-        <mark key="^" line="33" column="36" />
+      <file name="$USER_HOME$/Projects/COBI/ktorch/package.json" timestamp="1552484417653">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="6" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552485968428">
+        <mark key="'" line="186" column="0" />
+        <mark key="[" line="94" column="11" />
+        <mark key="]" line="95" column="9" />
+        <mark key="." line="95" column="9" />
+        <mark key="^" line="95" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/log4j.xml" timestamp="1552484974731">
+        <mark key="[" line="33" column="10" />
+        <mark key="]" line="33" column="11" />
+        <mark key="." line="33" column="11" />
+        <mark key="^" line="33" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/main.js" timestamp="1552402762804">
         <mark key="[" line="6" column="0" />
@@ -27,18 +39,24 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1552417238934">
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="3" column="45" />
-        <mark key="." line="3" column="45" />
-        <mark key="^" line="3" column="45" />
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1552483701944">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1552437510121">
-        <mark key="'" line="104" column="19" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="46" />
+      <file name="$USER_HOME$/Projects/COBI/ktorch/build.gradle.kts" timestamp="1552484840036">
+        <mark key="[" line="83" column="39" />
+        <mark key="]" line="83" column="39" />
+        <mark key="." line="83" column="39" />
+        <mark key="^" line="83" column="86" />
+      </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1552483683041">
+        <mark key="'" line="38" column="17" />
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="15" column="45" />
+        <mark key="." line="15" column="45" />
+        <mark key="^" line="15" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -55,57 +73,59 @@
       <jump line="92" column="0" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
       <jump line="3" column="15" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
       <jump line="103" column="19" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="38" column="17" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="182" column="0" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy90aGlzLnBvd2VyID0gTWF0aC5yb3VuZCh2ICogMzMwMC80MDk2LzI2NCAqIDIyMCAqIDEwKSAvIDEwCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>round</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>level</text>
+        <text>power</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wb3dlciA9IE1hdGgucm91bmQodiAqIDMzMDAvNDA5Ni8yNjQgKiAyMjAgKiAxMCkgLyAxMAo=</text>
+        <text encoding="base64">ICAgIGFzc2V0cygiLyoqIiwgIi9hc3NldHMvezB9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy90aGlzLnBvd2VyID0gTWF0aC5yb3VuZCh2ICogMzMwMC80MDk2LzI2NCAqIDIyMCAqIDEwKSAvIDEwCg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVkKCkgewogICAgICAgICAgaWYgKHRoaXMubm9kZSkgIAogICAgICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWF0aC5yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy90aGlzLnBvd2VyID0gTWF0aC5yb3VuZCh2ICogMzMwMC80MDk2LzI2NCAqIDIyMCAqIDEwKSAvIDEwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wb3dlciA9ICh2IC8gODE5MiAqIDEuNjUpIC8gMjY0ICogMTAwMCAqIDIyMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWF0aC5yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKHYgLyA4MTkyICogMS42NSkgLyAyNjQgKiAxXzAwMF8wMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wb3dlciA9ICh2IC8gODE5MiAqIDEuNjUpIC8gMjY0ICogMTAwMCAqIDIyMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29z2Ao=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKHYgLyA4MTkyICogMS42NSkgLyAyNjQgKiAxXzAwMF8wMDAK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29z2Ao=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAodiAvIDgxOTIgKiAxLjY1KSAvIDI2NCAqIDFfMDAwXzAwMAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgdmFsIHIgPSByZXM=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXMuCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbWQuCg==</text>
+        <text encoding="base64">ICAgICAgICByZXMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>level</last-search>
+      <last-search>power</last-search>
       <last-offset />
-      <last-pattern>level</last-pattern>
-      <last-replace>perc</last-replace>
-      <last-substitute>level</last-substitute>
+      <last-pattern>power</last-pattern>
+      <last-replace>lux</last-replace>
+      <last-substitute>power</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -114,9 +134,11 @@
         <entry>node</entry>
         <entry>list</entry>
         <entry>level</entry>
+        <entry>power</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zOmxldmVsOnBlcmM6Zw==</entry>
+        <entry encoding="base64">JzwsJz5zOnBvd2VyOmx1eDpn</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
