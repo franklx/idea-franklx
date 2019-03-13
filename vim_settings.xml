@@ -33,12 +33,12 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1552433780347">
-        <mark key="'" line="105" column="19" />
-        <mark key="[" line="35" column="50" />
-        <mark key="]" line="35" column="50" />
-        <mark key="." line="35" column="50" />
-        <mark key="^" line="35" column="50" />
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1552437510121">
+        <mark key="'" line="104" column="19" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -57,11 +57,11 @@
       <jump line="103" column="19" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICogMjIw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy90aGlzLnBvd2VyID0gTWF0aC5yb3VuZCh2ICogMzMwMC80MDk2LzI2NCAqIDIyMCAqIDEwKSAvIDEwCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICogMjIw</text>
+        <text>round</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
@@ -70,31 +70,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wb3dlciA9IE1hdGgucm91bmQodiAqIDMzMDAvNDA5Ni8yNjQgKiAyMjAgKiAxMCkgLyAxMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWF0aC5yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy90aGlzLnBvd2VyID0gTWF0aC5yb3VuZCh2ICogMzMwMC80MDk2LzI2NCAqIDIyMCAqIDEwKSAvIDEwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wb3dlciA9ICh2IC8gODE5MiAqIDEuNjUpIC8gMjY0ICogMTAwMCAqIDIyMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWF0aC5yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKHYgLyA4MTkyICogMS42NSkgLyAyNjQgKiAxXzAwMF8wMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wb3dlciA9ICh2IC8gODE5MiAqIDEuNjUpIC8gMjY0ICogMTAwMCAqIDIyMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29z2Ao=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKHYgLyA4MTkyICogMS42NSkgLyAyNjQgKiAxXzAwMF8wMDAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29z2Ao=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAodiAvIDgxOTIgKiAxLjY1KSAvIDI2NCAqIDFfMDAwXzAwMAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgdmFsIHIgPSByZXM=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXMuCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbWQuCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbWQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
