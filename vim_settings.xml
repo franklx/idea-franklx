@@ -20,12 +20,12 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552494188422">
-        <mark key="'" line="45" column="19" />
-        <mark key="[" line="59" column="19" />
-        <mark key="]" line="59" column="58" />
-        <mark key="." line="59" column="58" />
-        <mark key="^" line="59" column="58" />
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1552585432063">
+        <mark key="'" line="85" column="28" />
+        <mark key="[" line="83" column="8" />
+        <mark key="]" line="83" column="8" />
+        <mark key="." line="83" column="8" />
+        <mark key="^" line="83" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/log4j.xml" timestamp="1552484974731">
         <mark key="[" line="33" column="10" />
@@ -95,6 +95,9 @@
       <jump line="2" column="25" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
       <jump line="10" column="7" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" />
       <jump line="5" column="26" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" />
+      <jump line="82" column="12" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="83" column="8" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="84" column="28" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -104,7 +107,7 @@
         <text>()</text>
       </register>
       <register name="/" type="4">
-        <text>descri</text>
+        <text>discExt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oIm5vZGVBZGRlZCIpCiAgICAgICAgICAgICAgICBzc2Uuc2VuZChub2RlLnRvU3RyaW5nKCkpCg==</text>
@@ -150,9 +153,9 @@
       </register>
     </registers>
     <search>
-      <last-search>descri</last-search>
+      <last-search>discExt</last-search>
       <last-offset />
-      <last-pattern>descri</last-pattern>
+      <last-pattern>discExt</last-pattern>
       <last-replace>lux</last-replace>
       <last-substitute>power</last-substitute>
       <last-dir>1</last-dir>
@@ -167,6 +170,7 @@
         <entry>+ 1</entry>
         <entry>power</entry>
         <entry>descri</entry>
+        <entry>discExt</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zOmxldmVsOnBlcmM6Zw==</entry>
@@ -185,6 +189,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

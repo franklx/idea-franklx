@@ -4,11 +4,11 @@
     <property name="created">2018-12-31T14:07:25</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2019-03-13T17:27:43</property>
+    <property name="modified">2019-03-14T18:42:06</property>
     <property name="originalScheme">Desert256</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Iosevka Expanded" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
