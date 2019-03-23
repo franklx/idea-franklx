@@ -2,14 +2,92 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/main.ts" timestamp="1553354864866">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/package.json" timestamp="1553355978543">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1553355349258">
+        <mark key="'" line="26" column="22" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="34" column="22" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJ2dWUtc3NlIjogIl4xLjAuMiIsCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>:</text>
+      </register>
+      <register name="/" type="4">
+        <text>babe</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbl9sYW1wczogNTAsCiAgICAgICAgICAgIG5vZGVzOiBbXQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJ2dWUtc3NlIjogIl4xLjAuMiIsCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1ldGhvZHM6IHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogICAgbmFtZTogJ2FwcCcsCiAgICBjb21wb25lbnRzOiB7CiAgICAgICAgTGFtcAogICAgfSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRhdGE6ICgpID0+IHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgICBuX2xhbXBzOiA1MCwKICAgICAgICAgICAgbm9kZXM6IFtdCiAgICAgICAgfQogICAgfSwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICJAdnVlL2NsaS1wbHVnaW4tYmFiZWwiOiAiXjMuNS4xIiwK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>babe</last-search>
+      <last-offset />
+      <last-pattern>babe</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>babe</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
