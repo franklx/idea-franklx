@@ -24,23 +24,23 @@
         <mark key="]" line="33" column="36" />
         <mark key="." line="33" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1553439032964">
-        <mark key="[" line="172" column="43" />
-        <mark key="]" line="172" column="44" />
-        <mark key="^" line="172" column="21" />
-        <mark key="." line="172" column="44" />
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1553440185958">
+        <mark key="[" line="152" column="63" />
+        <mark key="]" line="152" column="89" />
+        <mark key="." line="152" column="89" />
+        <mark key="^" line="152" column="89" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/application.conf" timestamp="1553425632508">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1553438758952">
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1553439775233">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="23" column="49" />
-        <mark key="]" line="23" column="49" />
-        <mark key="." line="23" column="49" />
-        <mark key="^" line="23" column="62" />
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="24" column="41" />
+        <mark key="." line="24" column="41" />
+        <mark key="^" line="24" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1553436251359">
         <mark key="'" line="62" column="32" />
@@ -93,10 +93,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.toString(16)</text>
+        <text>.sortedBy { &quot;addr&quot; }</text>
       </register>
       <register name="-" type="4">
-        <text>.toString(16)</text>
+        <text>.sortedBy { &quot;addr&quot; }</text>
       </register>
       <register name="/" type="4">
         <text>node</text>
@@ -105,33 +105,33 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGUubm9kZVN0YXRlID0gWmlnQmVlTm9kZS5aaWdCZWVOb2RlU3RhdGUuT05MSU5FCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGxpc3RPZihub2RlLCBub2RlLnRvSW50KDE2KSkpCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIG5vZGVzID0gW10K</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>//
 //
 //</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIGJhY2tncm91bmQ6</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG4uc3RhdGUK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG4pCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgImluY3VsYXRpIgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudHMgPSB7IExhbXAgfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4cG9ydCBkZWZhdWx0IHsKICAgICAgICB3YXRjaDogewogICAgICAgICAgICBub2RlOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB0aGlzLmdldHBvd2VyKCkKICAgICAgICAgICAgfSwKICAgICAgICAgICAgbGV2ZWw6IGZ1bmN0aW9uIChsZXZlbCwgb2xkX2xldmVsKSB7CiAgICAgICAgICAgIH0KICAgICAgICB9LAogICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHMgPSB7IExhbXAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
