@@ -24,92 +24,123 @@
         <mark key="]" line="33" column="36" />
         <mark key="." line="33" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1553436643264">
+        <mark key="[" line="100" column="59" />
+        <mark key="]" line="100" column="66" />
+        <mark key="^" line="100" column="66" />
+        <mark key="." line="100" column="66" />
+      </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/application.conf" timestamp="1553425632508">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1553426494546">
-        <mark key="'" line="26" column="22" />
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="30" />
-        <mark key="^" line="14" column="28" />
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1553436335074">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="23" column="62" />
+        <mark key="]" line="23" column="62" />
+        <mark key="." line="23" column="62" />
+        <mark key="^" line="23" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1553432157517">
-        <mark key="'" line="109" column="10" />
-        <mark key="[" line="28" column="22" />
-        <mark key="]" line="28" column="25" />
-        <mark key="." line="28" column="25" />
-        <mark key="^" line="28" column="25" />
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1553436251359">
+        <mark key="'" line="62" column="32" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
       </file>
     </filemarks>
     <jumps>
       <jump line="34" column="22" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" />
-      <jump line="62" column="15" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
-      <jump line="66" column="40" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
       <jump line="30" column="17" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
-      <jump line="40" column="44" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
-      <jump line="28" column="25" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
       <jump line="46" column="11" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
-      <jump line="47" column="50" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
       <jump line="50" column="25" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
       <jump line="122" column="13" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
       <jump line="24" column="8" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
       <jump line="7" column="37" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
       <jump line="15" column="36" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
       <jump line="20" column="13" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
-      <jump line="1" column="26" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
       <jump line="109" column="10" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="29" column="0" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="114" column="9" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="7" column="51" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" />
+      <jump line="113" column="25" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="117" column="9" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="5" column="64" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" />
+      <jump line="18" column="4" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" />
+      <jump line="3" column="31" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="28" column="31" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="54" column="16" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="120" column="9" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="23" column="9" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="40" column="40" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="47" column="39" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="61" column="39" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="33" column="27" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="49" column="27" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="1" column="54" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="4" column="25" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="66" column="8" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="41" column="32" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="48" column="32" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="55" column="16" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="62" column="32" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" />
+      <jump line="22" column="44" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" />
+      <jump line="16" column="37" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>.ONLINE</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>.ONLINE</text>
       </register>
       <register name="/" type="4">
-        <text>absent</text>
+        <text>node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ5cGFzczogZnVuY3Rpb24ocmVxLCByZXMsIHByb3h5T3B0aW9ucykgewogICAgICAgICAgICAgICAgICAgIGlmKC9ob3QtdXBkYXRlXC5qc29uJC8udGVzdChyZXEudXJsKSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGUubm9kZVN0YXRlID0gWmlnQmVlTm9kZS5aaWdCZWVOb2RlU3RhdGUuT05MSU5FCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgImluY3VsYXRpIgo=</text>
+        <text encoding="base64">ICAgIG5vZGVzID0gW10K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudHMgPSB7IExhbXAgfQo=</text>
+      <register name="2" type="8">
+        <text>//
+//
+//</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4cG9ydCBkZWZhdWx0IHsKICAgICAgICB3YXRjaDogewogICAgICAgICAgICBub2RlOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB0aGlzLmdldHBvd2VyKCkKICAgICAgICAgICAgfSwKICAgICAgICAgICAgbGV2ZWw6IGZ1bmN0aW9uIChsZXZlbCwgb2xkX2xldmVsKSB7CiAgICAgICAgICAgIH0KICAgICAgICB9LAogICAgfQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGJhY2tncm91bmQ6</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG4uc3RhdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYXhpb3MuZ2V0KGAvemIvbm9kZS8ke3RoaXMubm9kZX0vcGVyYy8ke3RoaXMubGV2ZWx9YCkuY2F0Y2goZXJyPT4gYWxlcnQoZXJyKSkKICAgICAgICAgICAgICAgIHNldFRpbWVvdXQoICgpID0+IHsKICAgICAgICAgICAgICAgICAgICB0aGlzLmdldHBvd2VyKCkKICAgICAgICAgICAgICAgIH0sIDEwMDAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG4pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiAiTGFtcCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhKCkgewogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgImluY3VsYXRpIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRob2RzOiB7CiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHMgPSB7IExhbXAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0cG93ZXIoKSB7CiAgICAgICAgICAgICAgICB0aGlzLmF4aW9zLmdldChgL3piL25vZGUvJHt0aGlzLm5vZGV9L3Bvd2VyYCkKICAgICAgICAgICAgICAgICAgICAudGhlbihyID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgbGV0IHYgPSByLmRhdGFbMF0uYXR0cmlidXRlVmFsdWUKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wb3dlciA9IE1hdGguZmxvb3IoTWF0aC5zcXJ0KHYpICogKDMzMDAuMCAvIDIwNDguMCAvIDI2NC4wKSAqIDIyMCkKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9CiAgICAgICAgICAgIGdldGx1eCgpIHsKICAgICAgICAgICAgICAgIHRoaXMuYXhpb3MuZ2V0KGAvemIvbm9kZS8ke3RoaXMubm9kZX0vbHV4YCkKICAgICAgICAgICAgICAgICAgICAudGhlbihyID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgbGV0IHYgPSByLmRhdGFbMF0uYXR0cmlidXRlVmFsdWUKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5sdXggPSB2CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGV4cG9ydCBkZWZhdWx0IHsKICAgICAgICB3YXRjaDogewogICAgICAgICAgICBub2RlOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICB0aGlzLmdldHBvd2VyKCkKICAgICAgICAgICAgfSwKICAgICAgICAgICAgbGV2ZWw6IGZ1bmN0aW9uIChsZXZlbCwgb2xkX2xldmVsKSB7CiAgICAgICAgICAgIH0KICAgICAgICB9LAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>absent</last-search>
+      <last-search>node</last-search>
       <last-offset />
-      <last-pattern>absent</last-pattern>
+      <last-pattern>node</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -117,9 +148,13 @@
       <history-search>
         <entry>babe</entry>
         <entry>level</entry>
-        <entry>node</entry>
         <entry>lux</entry>
         <entry>absent</entry>
+        <entry>nodes</entry>
+        <entry>tnis.node</entry>
+        <entry>this.node</entry>
+        <entry encoding="base64">XDxub2RlXD4=</entry>
+        <entry>node</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -133,6 +168,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
