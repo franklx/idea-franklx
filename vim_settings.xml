@@ -24,22 +24,22 @@
         <mark key="]" line="33" column="36" />
         <mark key="." line="33" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1553436643264">
-        <mark key="[" line="100" column="59" />
-        <mark key="]" line="100" column="66" />
-        <mark key="^" line="100" column="66" />
-        <mark key="." line="100" column="66" />
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1553439032964">
+        <mark key="[" line="172" column="43" />
+        <mark key="]" line="172" column="44" />
+        <mark key="^" line="172" column="21" />
+        <mark key="." line="172" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/application.conf" timestamp="1553425632508">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1553436335074">
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1553438758952">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="23" column="62" />
-        <mark key="]" line="23" column="62" />
-        <mark key="." line="23" column="62" />
+        <mark key="[" line="23" column="49" />
+        <mark key="]" line="23" column="49" />
+        <mark key="." line="23" column="49" />
         <mark key="^" line="23" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1553436251359">
@@ -93,10 +93,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.ONLINE</text>
+        <text>.toString(16)</text>
       </register>
       <register name="-" type="4">
-        <text>.ONLINE</text>
+        <text>.toString(16)</text>
       </register>
       <register name="/" type="4">
         <text>node</text>
