@@ -24,12 +24,12 @@
         <mark key="]" line="33" column="36" />
         <mark key="." line="33" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1553941822985">
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1553942584202">
         <mark key="'" line="204" column="23" />
-        <mark key="[" line="223" column="29" />
-        <mark key="]" line="223" column="29" />
-        <mark key="." line="223" column="29" />
-        <mark key="^" line="223" column="16" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
+        <mark key="^" line="221" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/application.conf" timestamp="1553938481445">
         <mark key="[" line="2" column="18" />
@@ -94,11 +94,11 @@
       <jump line="201" column="23" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>val res=</text>
       </register>
       <register name="/" type="4">
         <text>permit</text>
@@ -107,31 +107,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4ga3QubndrTWdyLnNlbmQoWmlnQmVlRW5kcG9pbnRBZGRyZXNzKG5vZGUudG9JbnQoMTYpLCA4KSwgY21kX3IpLmdldCgpLnN0YXR1c0NvZGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iuc2VuZChaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpLCBSZXNldFN0YXJ0dXBQYXJhbWV0ZXJzQ29tbWFuZCgpKS5nZXQoKS5zdGF0dXNDb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJTZW50IFJlc2V0IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iuc2VuZChaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpLCBSZXNldFN0YXJ0dXBQYXJhbWV0ZXJzQ29tbWFuZCgpKS5nZXQoKS5zdGF0dXNDb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJTZW50IFJlc3RhcnQiKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1biBjbWRfZnVsbHJlc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iuc2VuZChaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpLCBSZXNldFN0YXJ0dXBQYXJhbWV0ZXJzQ29tbWFuZCgpKS5nZXQoKS5zdGF0dXNDb2RlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iuc2VuZChaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpLCBSZXNldFN0YXJ0dXBQYXJhbWV0ZXJzQ29tbWFuZCgpKS5nZXQoKS5zdGF0dXNDb2RlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBrdC5ud2tNZ3Iuc2VuZHJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN0YXJ0RGV2aWNlQ29tbWFuZCgpCg==</text>
+        <text encoding="base64">ICAgIGZ1biBjbWRfZnVsbHJlc2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN0YXJ0RGV2aWNlQ29tbWFuZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
