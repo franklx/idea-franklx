@@ -24,12 +24,12 @@
         <mark key="]" line="33" column="36" />
         <mark key="." line="33" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1553940011136">
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1553941822985">
         <mark key="'" line="204" column="23" />
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
-        <mark key="^" line="215" column="23" />
+        <mark key="[" line="223" column="29" />
+        <mark key="]" line="223" column="29" />
+        <mark key="." line="223" column="29" />
+        <mark key="^" line="223" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/application.conf" timestamp="1553938481445">
         <mark key="[" line="2" column="18" />
@@ -94,11 +94,11 @@
       <jump line="201" column="23" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>.statusCode</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>permit</text>
