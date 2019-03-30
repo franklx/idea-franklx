@@ -24,6 +24,18 @@
         <mark key="]" line="33" column="36" />
         <mark key="." line="33" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1553940011136">
+        <mark key="'" line="204" column="23" />
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="0" />
+        <mark key="." line="217" column="0" />
+        <mark key="^" line="215" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/application.conf" timestamp="1553938481445">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1553439775233">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="23" column="39" />
@@ -38,19 +50,6 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1553445840253">
-        <mark key="'" line="202" column="23" />
-        <mark key="[" line="199" column="29" />
-        <mark key="]" line="199" column="50" />
-        <mark key="." line="199" column="29" />
-        <mark key="^" line="199" column="73" />
-      </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/application.conf" timestamp="1553425632508">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zsmartsystems.zigbee/com.zsmartsystems.zigbee/1.1.10/f07afc875faf47e07b40d05778f85af14021c75/com.zsmartsystems.zigbee-1.1.10-sources.jar!/com/zsmartsystems/zigbee/ZigBeeNetworkManager.java" timestamp="1553445695073" />
     </filemarks>
     <jumps>
       <jump line="34" column="22" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" />
@@ -95,46 +94,44 @@
       <jump line="201" column="23" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ZigBeeEndPointAddress</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ZigBeeEndPointAddress</text>
+        <text>.statusCode</text>
       </register>
       <register name="/" type="4">
         <text>permit</text>
       </register>
-      <register name="0" type="4">
-        <text>ZigBeeEndpointAddress</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4ga3QubndrTWdyLnNlbmQoWmlnQmVlRW5kcG9pbnRBZGRyZXNzKG5vZGUudG9JbnQoMTYpLCA4KSwgY21kX3IpLmdldCgpLnN0YXR1c0NvZGUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iuc2VuZChaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpLCBSZXNldFN0YXJ0dXBQYXJhbWV0ZXJzQ29tbWFuZCgpKS5nZXQoKS5zdGF0dXNDb2RlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGxpc3RPZihub2RlLCBub2RlLnRvSW50KDE2KSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iuc2VuZChaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpLCBSZXNldFN0YXJ0dXBQYXJhbWV0ZXJzQ29tbWFuZCgpKS5nZXQoKS5zdGF0dXNDb2RlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5vZGVzID0gW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>//
-//
-//</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZ1biBjbWRfZnVsbHJlc2V0Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGJhY2tncm91bmQ6</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG4uc3RhdGUK</text>
+        <text encoding="base64">ICAgICAgICBrdC5ud2tNZ3Iuc2VuZHJlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG4pCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXN0YXJ0RGV2aWNlQ29tbWFuZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXN0YXJ0RGV2aWNlQ29tbWFuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
