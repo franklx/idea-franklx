@@ -2,14 +2,45 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/EVAL/kotlin/xmlsync/src/mingwMain/kotlin/sample/SampleMingw.kt" timestamp="1554249197170">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIE1lc3NhZ2VCb3gobnUpCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIE1lc3NhZ2VCb3gobnUpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHBsYXRmb3JtLndpbmRvd3MuCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY2ludGVyb3AuZGQK</text>
+      </register>
+      <register name="-" type="4">
+        <text>(</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
