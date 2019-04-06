@@ -8,11 +8,10 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/EVAL/kt-native/src/mingwMain/kotlin/sample/SampleMingw.kt" timestamp="1554585617700">
+      <file name="$USER_HOME$/Projects/EVAL/kt-native/src/mingwMain/kotlin/sample/SampleMingw.kt" timestamp="1554586551356">
         <mark key="[" line="6" column="12" />
-        <mark key="]" line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-        <mark key="." line="8" column="18" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/babel.config.js" timestamp="1553428920149">
         <mark key="[" line="6" column="50" />
@@ -65,7 +64,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE1lc3NhZ2VCb3gobnUpCg==</text>
+        <text encoding="base64">ICAgIFByb2Nlc3NTdGFydEluZm8K</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -77,31 +76,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4ga3QubndrTWdyLnNlbmQoWmlnQmVlRW5kcG9pbnRBZGRyZXNzKG5vZGUudG9JbnQoMTYpLCA4KSwgY21kX3IpLmdldCgpLnN0YXR1c0NvZGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1lc3NhZ2VCb3gobnUpCg==</text>
+        <text encoding="base64">ICAgIFByb2Nlc3NTdGFydEluZm8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXRmb3JtLndpbmRvd3MuCg==</text>
+        <text encoding="base64">ICAgIE1lc3NhZ2VCb3gobnUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY2ludGVyb3AuZGQK</text>
+        <text encoding="base64">aW1wb3J0IHBsYXRmb3JtLndpbmRvd3MuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY2ludGVyb3AuZGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iuc2VuZChaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpLCBSZXNldFN0YXJ0dXBQYXJhbWV0ZXJzQ29tbWFuZCgpKS5nZXQoKS5zdGF0dXNDb2RlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iuc2VuZChaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpLCBSZXNldFN0YXJ0dXBQYXJhbWV0ZXJzQ29tbWFuZCgpKS5nZXQoKS5zdGF0dXNDb2RlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iuc2VuZChaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpLCBSZXNldFN0YXJ0dXBQYXJhbWV0ZXJzQ29tbWFuZCgpKS5nZXQoKS5zdGF0dXNDb2RlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBjbWRfZnVsbHJlc2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGZ1biBjbWRfZnVsbHJlc2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
