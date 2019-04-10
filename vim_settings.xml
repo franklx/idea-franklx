@@ -3,32 +3,107 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/EVAL/kotlin/xmlsync/src/mingwMain/kotlin/sample/SampleMingw.kt" timestamp="1554935018009">
-        <mark key="'" line="9" column="17" />
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="9" column="19" />
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/main.ts" timestamp="1553354864866">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/EVAL/kt-native/src/mingwMain/kotlin/sample/SampleMingw.kt" timestamp="1554586551356">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/babel.config.js" timestamp="1553428920149">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="61" />
+        <mark key="." line="6" column="61" />
+        <mark key="^" line="6" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/package.json" timestamp="1553424795740">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/EVAL/kotlin/xmlsync/src/mingwMain/kotlin/sample/SampleMingw.kt" timestamp="1554249197170">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/log4j.xml" timestamp="1553433392724">
+        <mark key="[" line="33" column="36" />
+        <mark key="]" line="33" column="36" />
+        <mark key="." line="33" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1553942584202">
+        <mark key="'" line="204" column="23" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
+        <mark key="^" line="221" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/application.conf" timestamp="1554468397059">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1553439775233">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="24" column="41" />
+        <mark key="." line="24" column="41" />
+        <mark key="^" line="24" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1553436251359">
+        <mark key="'" line="62" column="32" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="9" column="17" filename="$USER_HOME$/Projects/EVAL/kotlin/xmlsync/src/mingwMain/kotlin/sample/SampleMingw.kt" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIE1lc3NhZ2VCb3gobnUpCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>x</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXRmb3JtLndpbmRvd3MuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY2ludGVyb3AuZGQK</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFByb2Nlc3NTdGFydEluZm8K</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>(</text>
+      </register>
+      <register name="/" type="4">
+        <text>permit</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4ga3QubndrTWdyLnNlbmQoWmlnQmVlRW5kcG9pbnRBZGRyZXNzKG5vZGUudG9JbnQoMTYpLCA4KSwgY21kX3IpLmdldCgpLnN0YXR1c0NvZGUK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIFByb2Nlc3NTdGFydEluZm8K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIE1lc3NhZ2VCb3gobnUpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHBsYXRmb3JtLndpbmRvd3MuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY2ludGVyb3AuZGQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iuc2VuZChaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpLCBSZXNldFN0YXJ0dXBQYXJhbWV0ZXJzQ29tbWFuZCgpKS5nZXQoKS5zdGF0dXNDb2RlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iuc2VuZChaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpLCBSZXNldFN0YXJ0dXBQYXJhbWV0ZXJzQ29tbWFuZCgpKS5nZXQoKS5zdGF0dXNDb2RlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZ1biBjbWRfZnVsbHJlc2V0Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -36,12 +111,34 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>babe</entry>
+        <entry>level</entry>
+        <entry>lux</entry>
+        <entry>absent</entry>
+        <entry>nodes</entry>
+        <entry>tnis.node</entry>
+        <entry>this.node</entry>
+        <entry encoding="base64">XDxub2RlXD4=</entry>
+        <entry>node</entry>
+        <entry>permit</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
