@@ -24,10 +24,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/EVAL/kotlin/xmlsync/src/mingwMain/kotlin/sample/SampleMingw.kt" timestamp="1554249197170">
+      <file name="$USER_HOME$/Projects/EVAL/kotlin/xmlsync/src/mingwMain/kotlin/sample/SampleMingw.kt" timestamp="1554937119609">
         <mark key="[" line="8" column="12" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/log4j.xml" timestamp="1553433392724">
         <mark key="[" line="33" column="36" />
@@ -64,7 +65,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFByb2Nlc3NTdGFydEluZm8K</text>
+        <text encoding="base64">ICAgIENyZWF0ZVdpbmRvd0V4KCkKICAgIG1lbVNjb3BlZCB7ICB9CiAgICBwcmludGxuKGhlbGxvKCkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -76,31 +77,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4ga3QubndrTWdyLnNlbmQoWmlnQmVlRW5kcG9pbnRBZGRyZXNzKG5vZGUudG9JbnQoMTYpLCA4KSwgY21kX3IpLmdldCgpLnN0YXR1c0NvZGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFByb2Nlc3NTdGFydEluZm8K</text>
+        <text encoding="base64">ICAgIENyZWF0ZVdpbmRvd0V4KCkKICAgIG1lbVNjb3BlZCB7ICB9CiAgICBwcmludGxuKGhlbGxvKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1lc3NhZ2VCb3gobnUpCg==</text>
+        <text encoding="base64">ICAgIFByb2Nlc3NTdGFydEluZm8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXRmb3JtLndpbmRvd3MuCg==</text>
+        <text encoding="base64">ICAgIE1lc3NhZ2VCb3gobnUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY2ludGVyb3AuZGQK</text>
+        <text encoding="base64">aW1wb3J0IHBsYXRmb3JtLndpbmRvd3MuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY2ludGVyb3AuZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iuc2VuZChaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpLCBSZXNldFN0YXJ0dXBQYXJhbWV0ZXJzQ29tbWFuZCgpKS5nZXQoKS5zdGF0dXNDb2RlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iuc2VuZChaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpLCBSZXNldFN0YXJ0dXBQYXJhbWV0ZXJzQ29tbWFuZCgpKS5nZXQoKS5zdGF0dXNDb2RlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBrdC5ud2tNZ3Iuc2VuZChaaWdCZWVFbmRwb2ludEFkZHJlc3Mobm9kZS50b0ludCgxNiksIDgpLCBSZXNldFN0YXJ0dXBQYXJhbWV0ZXJzQ29tbWFuZCgpKS5nZXQoKS5zdGF0dXNDb2RlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBjbWRfZnVsbHJlc2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
