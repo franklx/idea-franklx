@@ -24,10 +24,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/EVAL/kotlin/xmlsync/src/mingwMain/kotlin/sample/SampleMingw.kt" timestamp="1554249197170">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/EVAL/kotlin/xmlsync/src/mingwMain/kotlin/sample/SampleMingw.kt" timestamp="1555756911422">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/log4j.xml" timestamp="1553433392724">
         <mark key="[" line="33" column="36" />
@@ -76,11 +77,11 @@
       <jump line="7" column="22" filename="$USER_HOME$/Projects/COBI/ktorch/build.gradle.kts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBud2tNZ3IuYWRkQ29tbWFuZExpc3RlbmVyIHsgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>: INPUT</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>: INPUT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyMVw+</text>
