@@ -96,7 +96,7 @@
         <text>.send()</text>
       </register>
       <register name="/" type="4">
-        <text>intern</text>
+        <text>atom_intern</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4ga3QubndrTWdyLnNlbmQoWmlnQmVlRW5kcG9pbnRBZGRyZXNzKG5vZGUudG9JbnQoMTYpLCA4KSwgY21kX3IpLmdldCgpLnN0YXR1c0NvZGUK</text>
@@ -133,9 +133,9 @@
       </register>
     </registers>
     <search>
-      <last-search>intern</last-search>
+      <last-search>atom_intern</last-search>
       <last-offset />
-      <last-pattern>intern</last-pattern>
+      <last-pattern>atom_intern</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -154,6 +154,8 @@
         <entry encoding="base64">XDwyMVw+</entry>
         <entry>Atom</entry>
         <entry>intern</entry>
+        <entry>intern_</entry>
+        <entry>atom_intern</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
