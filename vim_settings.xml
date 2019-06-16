@@ -13,6 +13,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="C:/gtk-build/gtk/x64/release/share/gir-1.0/Gdk-3.0.gir" timestamp="1560700262220">
+        <mark key="'" line="390" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/babel.config.js" timestamp="1553428920149">
         <mark key="[" line="6" column="50" />
         <mark key="]" line="6" column="61" />
@@ -80,6 +83,10 @@
     </filemarks>
     <jumps>
       <jump line="7" column="22" filename="$USER_HOME$/Projects/COBI/ktorch/build.gradle.kts" />
+      <jump line="63" column="13" filename="C:/gtk-build/gtk/x64/release/share/gir-1.0/Gdk-3.0.gir" />
+      <jump line="366" column="35" filename="C:/gtk-build/gtk/x64/release/share/gir-1.0/Gdk-3.0.gir" />
+      <jump line="389" column="34" filename="C:/gtk-build/gtk/x64/release/share/gir-1.0/Gdk-3.0.gir" />
+      <jump line="390" column="41" filename="C:/gtk-build/gtk/x64/release/share/gir-1.0/Gdk-3.0.gir" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -89,7 +96,7 @@
         <text>.send()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwyMVw+</text>
+        <text>intern</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4ga3QubndrTWdyLnNlbmQoWmlnQmVlRW5kcG9pbnRBZGRyZXNzKG5vZGUudG9JbnQoMTYpLCA4KSwgY21kX3IpLmdldCgpLnN0YXR1c0NvZGUK</text>
@@ -126,10 +133,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwyMVw+</last-search>
+      <last-search>intern</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwyMVw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>intern</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -145,6 +152,8 @@
         <entry>node</entry>
         <entry>permit</entry>
         <entry encoding="base64">XDwyMVw+</entry>
+        <entry>Atom</entry>
+        <entry>intern</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -164,6 +173,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
