@@ -70,7 +70,7 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="/Kotlin Console" timestamp="1561233767613">
+      <file name="/Kotlin Console" timestamp="1561235591871">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1555192239494">
@@ -84,10 +84,10 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="P:/EVAL/kotlin/jooby/src/main/kotlin/example/jooby/App.kt" timestamp="1561234799667">
-        <mark key="[" line="56" column="52" />
-        <mark key="]" line="56" column="52" />
-        <mark key="." line="56" column="52" />
+      <file name="P:/EVAL/kotlin/jooby/src/main/kotlin/example/jooby/App.kt" timestamp="1561235768987">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1555192206371">
         <mark key="[" line="0" column="0" />
@@ -109,11 +109,11 @@
       <jump line="390" column="41" filename="C:/gtk-build/gtk/x64/release/share/gir-1.0/Gdk-3.0.gir" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHggOiBQcm92YQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>atom_intern</text>
@@ -122,31 +122,31 @@
         <text encoding="base64">ICAgICAgICAgICBpdC5jcmVhdGVRdWVyeSgiU0VMRUNUICogRlJPTSBhcnRpY29saSIpLm1hcFRvTWFwKCkubGlzdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcS5tYXBUb01hcCgpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHggOiBQcm92YQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcS5tYXBUbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvdmE6Om5vbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IAo=</text>
+        <text encoding="base64">ICAgIGdldCgiL3Rlc3RkYiIpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcS5tYXBUb01hcCgpLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuY3JlYXRlUXVlcnkoIlNFTEVDVCAqIEZST00gYXJ0aWNvbGkiKS5tYXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcS5tYXBUbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBud2tNZ3IuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBud2tNZ3IuYWRkQ29tbWFuZExpc3RlbmVyIHsgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
