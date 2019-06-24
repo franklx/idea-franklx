@@ -86,10 +86,11 @@
         <mark key="^" line="3" column="104" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" timestamp="1561367216904">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" timestamp="1561369861148">
+        <mark key="[" line="67" column="79" />
+        <mark key="]" line="67" column="79" />
+        <mark key="." line="67" column="79" />
+        <mark key="^" line="67" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1555192239494">
         <mark key="'" line="204" column="23" />
@@ -135,13 +136,14 @@
       <jump line="52" column="5" filename="P:/EVAL/kotlin/jooby/build.gradle.kts" />
       <jump line="41" column="29" filename="P:/EVAL/kotlin/jooby/build.gradle.kts" />
       <jump line="19" column="13" filename="P:/ELLECI/kojovue/src/main/vue/App.vue" />
+      <jump line="67" column="79" filename="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0Q29sdW1uTmFtZXMK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ostg</text>
@@ -150,31 +152,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaXQuY3JlYXRlUXVlcnkoIlNFTEVDVCAqIEZST00gYXJ0aWNvbGkiKS5tYXBUb01hcCgpLmdyb3VwQnl7IGl0WyJpZF9ncnBfYXJ0MSJdIHRvIGl0WyJpZF9ncnBfYXJ0MiJdIHRvIGl0WyJza2lwX2RjIl0gfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0Q29sdW1uTmFtZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuY3JlYXRlUXVlcnkoKS5nZXRDb2x1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IoYyBpbiBzdG10Lm1ldGFEYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdXBlci5hZnRlckV4ZWN1dGlvbihzdG10LCBjdHgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuY3JlYXRlUXVlcnkoIlNFTEVDVCAqIEZST00gYXJ0aWNvbGkiKS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuY3JlYXRlUXVlcnkoIlNFTEVDVCAqIEZST00gYXJ0aWNvbGkiKS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvZ2dsZShyb3cpIHsKICAgICAgICB0aGlzLiRyZWZzLnRhYmxlLnRvZ2dsZURldGFpbHMocm93KQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvdmVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7ICdpZCc6IDIsICdmaXJzdF9uYW1lJzogJ0pvaG4nLCAnbGFzdF9uYW1lJzogJ0phY29icycsICdkYXRlJzogJzIwMTYtMTItMTUgMDY6MDA6NTMnLCAnZ2VuZGVyJzogJ01hbGUnIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3VwZXIuYWZ0ZXIoaGFuZGxlcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgaWQ6IDIwLCBmaXJzdF9uYW1lOiAnUHJvdmEnLCBsYXN0X25hbWU6ICdSaXByb3ZhJyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBhZnRlcihoYW5kbGVyOiBSb3V0ZS5BZnRlcik6IFJvdXRlLkRlZmluaXRpb24gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -227,6 +229,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
