@@ -86,11 +86,11 @@
         <mark key="^" line="7" column="93" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" timestamp="1561407717095">
-        <mark key="[" line="48" column="3" />
-        <mark key="]" line="51" column="18" />
-        <mark key="." line="51" column="18" />
-        <mark key="^" line="51" column="18" />
+      <file name="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" timestamp="1561410460447">
+        <mark key="'" line="4" column="42" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1555192239494">
         <mark key="'" line="204" column="23" />
@@ -142,61 +142,61 @@
       <jump line="6" column="74" filename="P:/ELLECI/kojovue/src/main/vue/App.vue" />
       <jump line="5" column="67" filename="P:/ELLECI/kojovue/src/main/vue/App.vue" />
       <jump line="4" column="37" filename="P:/ELLECI/kojovue/src/main/vue/App.vue" />
+      <jump line="4" column="42" filename="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBqZGJpLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>camera-iris</text>
+        <text>db</text>
       </register>
       <register name="/" type="4">
-        <text>props</text>
+        <text>transact</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLWljb24oaWNvbj0ici5yb3cuc2tpcF9kYyA/ICdjaGVjaycgOiAnY2FtZXJhLWlyaXMnIikK</text>
+        <text encoding="base64">ICAgIGdldCgiL3Rlc3RkYiIpIHsKICAgICAgICByZXF1aXJlKEpkYmk6OmNsYXNzKS53aXRoSGFuZGxlPEFueSxFeGNlcHRpb24+IHsKICAgICAgICAgICBpdC5jcmVhdGVRdWVyeSgiU0VMRUNUICogRlJPTSBhcnRpY29saSIpLm1hcFRvTWFwKCkubGlzdCgpCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBqZGJpLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLWljb24oOmljb249ImNoZWNrIikK</text>
+        <text encoding="base64">ICAgICAgICBqZGJpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLWljb24oOmljb249InAucm93LnNraXBfZGMgPyAnbWRpLWNoZWNrJyA6ICd0ZXN0JyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLWljb24oOmljb249InAucm93LnNraXBfZGMgPyAnbWRpLWNoZWNrJyA6ICcnIikK</text>
+        <text encoding="base64">ICAgIGdldCgiL3Rlc3RkYi1oIikgewogICAgICAgIHJlcXVpcmUoSGFuZGxlOjpjbGFzcykudXNlIHsKICAgICAgICAgICAgaXQuY3JlYXRlUXVlcnkoIlNFTEVDVCAqIEZST00gYXJ0aWNvbGkiKS5tYXBUb01hcCgpLmdyb3VwQnl7IG1hcE9mKCJnMSIgdG8gaXRbImlkX2dycF9hcnQxIl0sICJnMiIgdG8gaXRbImlkX2dycF9hcnQyIl0pIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLWljb24oOmljb249InAucm93LnNraXBfZGMgPyAnbWRpLWNoZWNrJyA6ICcnIikK</text>
+        <text encoding="base64">ICAgIGdldCgiL3Rlc3RkYi1oIikgewogICAgICAgIHJlcXVpcmUoSGFuZGxlOjpjbGFzcykudXNlIHsKICAgICAgICAgICAgaXQuY3JlYXRlUXVlcnkoIlNFTEVDVCAqIEZST00gYXJ0aWNvbGkiKS5tYXBUb01hcCgpLmdyb3VwQnl7IG1hcE9mKCJnMSIgdG8gaXRbImlkX2dycF9hcnQxIl0sICJnMiIgdG8gaXRbImlkX2dycF9hcnQyIl0pIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3tyLnJvdy5za2lwX2RjfX0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXBsYXRlKHNsb3Qtc2NvcGU9InAiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHJlcXVpcmUoQXJkZWFEYW86OmNsYXNzKS5nZXRBcnRpY29saSgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e3Byb3BzLnJvdy5pZH19Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKEhhbmRsZTo6Y2xhc3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbnMgPSBbCiAgICAgICAgewogICAgICAgICAgICBmaWVsZDogJ2Rlc2NyaXppb25lJywKICAgICAgICAgICAgbGFiZWw6ICdEZXNjcml6aW9uZScsCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgIGZpZWxkOiAnc2tpcF9kYycsCiAgICAgICAgICAgIGxhYmVsOiAnU2tpcCBEQycsCiAgICAgICAgICAgIGNlbnRlcmVkOiB0cnVlCiAgICAgICAgfSwKICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICBqZGJpLm9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>props</last-search>
+      <last-search>transact</last-search>
       <last-offset />
-      <last-pattern>props</last-pattern>
+      <last-pattern>transact</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>babe</entry>
         <entry>level</entry>
         <entry>lux</entry>
         <entry>absent</entry>
@@ -215,6 +215,8 @@
         <entry>cols</entry>
         <entry>println</entry>
         <entry>props</entry>
+        <entry>transaction</entry>
+        <entry>transact</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
