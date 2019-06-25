@@ -3,16 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/main.ts" timestamp="1553354864866">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/kt-native/src/mingwMain/kotlin/sample/SampleMingw.kt" timestamp="1554586551356">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="C:/gtk-build/gtk/x64/release/share/gir-1.0/Gdk-3.0.gir" timestamp="1560700262220">
         <mark key="'" line="390" column="41" />
       </file>
@@ -21,11 +11,6 @@
         <mark key="]" line="6" column="61" />
         <mark key="." line="6" column="61" />
         <mark key="^" line="6" column="61" />
-      </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/log4j.xml" timestamp="1553433392724">
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="36" />
-        <mark key="." line="33" column="36" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
         <mark key="[" line="10" column="61" />
@@ -63,6 +48,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="90" column="49" />
       </file>
+      <file name="P:/ELLECI/kojovue/src/main/vue/vuetify.App.vue" timestamp="1561492257953">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="17" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="16" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1555192239494">
         <mark key="'" line="204" column="23" />
         <mark key="[" line="85" column="0" />
@@ -75,29 +66,20 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="64" />
       </file>
+      <file name="P:/ELLECI/kojovue/src/main/vue/vuetify.main.ts" timestamp="1561493018824">
+        <mark key="[" line="8" column="69" />
+        <mark key="]" line="8" column="69" />
+        <mark key="." line="8" column="69" />
+        <mark key="^" line="8" column="69" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1555192206371">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/kotlin-jooby/build.gradle.kts" timestamp="1555101626818">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
       </file>
       <file name="C:/gtk-build/build/x64/release/gtk/build/win32/introspection.body.mak" timestamp="1560720407325">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="3" column="15" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/package.json" timestamp="1553424795740">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/kotlin/xmlsync/src/mingwMain/kotlin/sample/SampleMingw.kt" timestamp="1554249197170">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/TabTbl.vue" timestamp="1561466534470">
         <mark key="[" line="25" column="25" />
@@ -110,6 +92,12 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="P:/ELLECI/kojovue/src/main/vue/components/vuetify.ArtForm.vue" timestamp="1561492856603">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/build.gradle.kts" timestamp="1555107594613">
         <mark key="'" line="7" column="22" />
@@ -137,11 +125,6 @@
         <mark key="]" line="28" column="8" />
         <mark key="." line="13" column="7" />
         <mark key="^" line="12" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/application.conf" timestamp="1554468397059">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
       </file>
       <file name="P:/EVAL/kotlin/jooby/src/main/kotlin/example/jooby/App.kt" timestamp="1561293842001">
         <mark key="[" line="36" column="8" />
@@ -183,61 +166,63 @@
       <jump line="0" column="0" filename="P:/ELLECI/kojovue/src/main/vue/components/PlainTable.vue" />
       <jump line="1" column="4" filename="P:/ELLECI/kojovue/src/main/vue/components/ArtForm.vue" />
       <jump line="13" column="0" filename="P:/ELLECI/kojovue/src/main/vue/components/ArtForm.vue" />
+      <jump line="4" column="16" filename="P:/ELLECI/kojovue/src/main/vue/components/vuetify.ArtForm.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Test</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Test</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>attributes</text>
+        <text>b-</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYi1jaGVja2JveCBUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICB2LWZsZXgobWQ0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gW10KICAgICAgICBsb2FkX2FydHMoKSB7CiAgICAgICAgICAgIHRoaXMuJGh0dHAuZ2V0KCIvdGVzdGRiIikudGhlbiggKHtkYXRhfSkgPT4gewogICAgICAgICAgICAgICAgdGhpcy5kYXRhID0gZGF0YQogICAgICAgICAgICB9KQogICAgICAgIH0KICAgICAgICBtb3VudGVkKCkgewogICAgICAgICAgICB0aGlzLmxvYWRfYXJ0cygpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB2LXRleHQtZmllbGQobGFiZWw9IkRlc2NyaXppb25lIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGItdGFibGUoOmRhdGE9ImRhdGEiIHJlZj0idGFibGUiIGRldGFpbC1rZXk9ImZpcnN0X25hbWUiIG5hcnJvd2VkIHN0cmlwZWQgdi1zbG90PSJyIikKICAgICAgICBiLXRhYmxlLWNvbHVtbihmaWVsZD0iaWRfYXJ0aWNvbG8iIGxhYmVsPSJJRCIgbnVtZXJpYykge3tyLnJvdy5pZF9hcnRpY29sb319CiAgICAgICAgYi10YWJsZS1jb2x1bW4oZmllbGQ9ImRlc2NyaXppb25lIiBsYWJlbD0iRGVzY3JpemlvbmUiKSB7e3Iucm93LmRlc2NyaXppb25lfX0KICAgICAgICBiLXRhYmxlLWNvbHVtbihmaWVsZD0ic2tpcF9kYyIgbGFiZWw9IlNraXAgREMiKQogICAgICAgICAgICBiLWljb24oOmljb249InIucm93LnNraXBfZGMgPyAnY2hlY2tib3gtbWFya2VkLW91dGxpbmUnIDogJ2NoZWNrYm94LWJsYW5rLW91dGxpbmUnIikKICAgICAgICBiLXRhYmxlLWNvbHVtbihmaWVsZD0icHJvdmEiIGxhYmVsPSJQcm92YSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wb25lbnRzOiB7QkNoZWNrYm94fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHRlbXBsYXRlPgogICAgCjwvdGVtcGxhdGU+Cgo8c2NyaXB0PgogICAgZXhwb3J0IGRlZmF1bHQgewogICAgICAgIG5hbWU6ICJBcnRGb3JtIgogICAgfQo8L3NjcmlwdD4KCjxzdHlsZSBzY29wZWQ+Cgo8L3N0eWxlPgoK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBCQ2hlY2tib3ggZnJvbSAiYnVlZnkvc3JjL2NvbXBvbmVudHMvY2hlY2tib3gvQ2hlY2tib3gudnVlIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIEdyYWRsZSBLb3RsaW4gc3RhdGVyIHByb2plY3QuCiAqLwoK</text>
+        <text encoding="base64">ICAgICAgICB2LWZpZWxkKGxhYmVsPSJEZXNjcml6aW9uZSIpCiAgICAgICAgICAgIHYtaW5wdXQKICAgICAgICAuZmllbGQKICAgICAgICAgICAgdi1jaGVja2JveCBTa2lwIERDCiAgICAgICAgICAgIHYtY2hlY2tib3ggVGVzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIiLAo=</text>
+        <text encoding="base64">ICAgICAgICB2LWZpZWxkKGxhYmVsPSJDb2RpY2UiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlydHVhbERvbTogZmFsc2UsCg==</text>
+        <text encoding="base64">UGxhaW5UYWJsZSwgVGFiVGJsLCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbS5wdXQoIl9jaGlsZHJlbiIsaXQudmFsdWUpLgo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gW10KICAgICAgICBsb2FkX2FydHMoKSB7CiAgICAgICAgICAgIHRoaXMuJGh0dHAuZ2V0KCIvdGVzdGRiIikudGhlbiggKHtkYXRhfSkgPT4gewogICAgICAgICAgICAgICAgdGhpcy5kYXRhID0gZGF0YQogICAgICAgICAgICB9KQogICAgICAgIH0KICAgICAgICBtb3VudGVkKCkgewogICAgICAgICAgICB0aGlzLmxvYWRfYXJ0cygpCiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbQo=</text>
+        <text encoding="base64">ICAgIGItdGFibGUoOmRhdGE9ImRhdGEiIHJlZj0idGFibGUiIGRldGFpbC1rZXk9ImZpcnN0X25hbWUiIG5hcnJvd2VkIHN0cmlwZWQgdi1zbG90PSJyIikKICAgICAgICBiLXRhYmxlLWNvbHVtbihmaWVsZD0iaWRfYXJ0aWNvbG8iIGxhYmVsPSJJRCIgbnVtZXJpYykge3tyLnJvdy5pZF9hcnRpY29sb319CiAgICAgICAgYi10YWJsZS1jb2x1bW4oZmllbGQ9ImRlc2NyaXppb25lIiBsYWJlbD0iRGVzY3JpemlvbmUiKSB7e3Iucm93LmRlc2NyaXppb25lfX0KICAgICAgICBiLXRhYmxlLWNvbHVtbihmaWVsZD0ic2tpcF9kYyIgbGFiZWw9IlNraXAgREMiKQogICAgICAgICAgICBiLWljb24oOmljb249InIucm93LnNraXBfZGMgPyAnY2hlY2tib3gtbWFya2VkLW91dGxpbmUnIDogJ2NoZWNrYm94LWJsYW5rLW91dGxpbmUnIikKICAgICAgICBiLXRhYmxlLWNvbHVtbihmaWVsZD0icHJvdmEiIGxhYmVsPSJQcm92YSIpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIG0ubWVyZ2U=</text>
+      <register name="9" type="2">
+        <text encoding="base64">PHRlbXBsYXRlPgogICAgCjwvdGVtcGxhdGU+Cgo8c2NyaXB0PgogICAgZXhwb3J0IGRlZmF1bHQgewogICAgICAgIG5hbWU6ICJBcnRGb3JtIgogICAgfQo8L3NjcmlwdD4KCjxzdHlsZSBzY29wZWQ+Cgo8L3N0eWxlPgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>attributes</last-search>
+      <last-search>b-</last-search>
       <last-offset />
-      <last-pattern>attributes</last-pattern>
+      <last-pattern>b-</last-pattern>
+      <last-replace>v-</last-replace>
+      <last-substitute>b-</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>absent</entry>
         <entry>nodes</entry>
         <entry>tnis.node</entry>
         <entry>this.node</entry>
@@ -257,8 +242,10 @@
         <entry>transact</entry>
         <entry>ArdeaDao</entry>
         <entry>attributes</entry>
+        <entry>b-</entry>
       </history-search>
       <history-cmd>
+        <entry>%s:b-:v-:g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
