@@ -79,12 +79,18 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="P:/ELLECI/kojovue/src/main/vue/App.vue" timestamp="1561407606720">
+      <file name="P:/ELLECI/kojovue/src/main/vue/components/PlainTable.vue" timestamp="1561448494220">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="7" column="4" />
+      </file>
+      <file name="P:/ELLECI/kojovue/src/main/vue/App.vue" timestamp="1561448412904">
         <mark key="'" line="4" column="37" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="7" column="93" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="32" column="54" />
+        <mark key="^" line="32" column="54" />
+        <mark key="." line="32" column="54" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" timestamp="1561416803898">
         <mark key="'" line="50" column="10" />
@@ -99,11 +105,11 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="P:/ELLECI/kojovue/src/main/vue/main.ts" timestamp="1561393995719">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="44" />
-        <mark key="^" line="6" column="44" />
-        <mark key="." line="6" column="44" />
+      <file name="P:/ELLECI/kojovue/src/main/vue/main.ts" timestamp="1561447882729">
+        <mark key="[" line="7" column="63" />
+        <mark key="]" line="7" column="64" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/application.conf" timestamp="1554468397059">
         <mark key="[" line="2" column="18" />
@@ -149,43 +155,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JlcXVpcmUoSmRiaTo6Y2xhc3MpLndpdGhFeHRlbnNpb248QW55LEFyZGVhRGFvLEV4Y2VwdGlvbj4oQXJkZWFEYW86OmNsYXNzLmphdmEpIHtpdC5nZXRBcnRpY29saSgpfQo=</text>
+        <text encoding="base64">ICAgIHNlY3Rpb24jYXBwLnNlY3Rpb24uaXMtdW5zZWxlY3RhYmxlCiAgICAgICAgZGl2LmNvbnRhaW5lcgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PEFueSxFeGNlcHRpb24+</text>
+        <text>App</text>
       </register>
       <register name="/" type="4">
         <text>ArdeaDao</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlKEpkYmk6OmNsYXNzKS53aXRoSGFuZGxlPEFueSxFeGNlcHRpb24+IHsK</text>
+        <text encoding="base64">aW1wb3J0ICdAbWRpL2ZvbnQvY3NzL21hdGVyaWFsZGVzaWduaWNvbnMuY3NzJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JlcXVpcmUoSmRiaTo6Y2xhc3MpLndpdGhFeHRlbnNpb248QW55LEFyZGVhRGFvLEV4Y2VwdGlvbj4oQXJkZWFEYW86OmNsYXNzLmphdmEpIHtpdC5nZXRBcnRpY29saSgpfQo=</text>
+        <text encoding="base64">ICAgIHNlY3Rpb24jYXBwLnNlY3Rpb24uaXMtdW5zZWxlY3RhYmxlCiAgICAgICAgZGl2LmNvbnRhaW5lcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlKEpkYmk6OmNsYXNzKS53aXRoSGFuZGxlVQo=</text>
+        <text encoding="base64">PHRlbXBsYXRlPgogICAgCjwvdGVtcGxhdGU+Cgo8c2NyaXB0PgogICAgZXhwb3J0IGRlZmF1bHQgewogICAgICAgIG5hbWU6ICJQbGFpblRhYmxlIgogICAgfQo8L3NjcmlwdD4KCjxzdHlsZSBzY29wZWQ+Cgo8L3N0eWxlPgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIHJlcXVpcmUoSmRiaTo6Y2xhc3MpLndpdGhIYW5kbGU8QW55LEV4Y2VwdGlvbj4gewogICAgICAgICAgICBpdC5jcmVhdGVRdWVyeSgiU0VMRUNUICogRlJPTSBhcnRpY29saSIpLm1hcFRvTWFwKCkubGlzdCgpCiAgICAgICAgfQogICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgIC8vaW1wb3J0IEJUYWJsZUNvbHVtbiBmcm9tICJidWVmeS9zcmMvY29tcG9uZW50cy90YWJsZS9UYWJsZUNvbHVtbi52dWUiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqZGJpLnVzZUV4dGVuc2lvbjxBcmRlYURhbz4oKQo=</text>
+        <text encoding="base64">ICAgIEBDb21wb25lbnQoewogICAgICAgIC8vY29tcG9uZW50czoge0JUYWJsZUNvbHVtbn0KICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqZGJpLnJlZ2lzdGVyRXh0ZW5zaW9uKEFyZGVhRGFvKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqZGJpLgo=</text>
+        <text encoding="base64">ICAgIC8vaW1wb3J0IEhlbGxvV29ybGQgZnJvbSAnLi9jb21wb25lbnRzL0hlbGxvV29ybGQudnVlJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqZGJpCg==</text>
+        <text encoding="base64">ICAgIGxldCBUYWJ1bGF0b3IgPSByZXF1aXJlKCJ0YWJ1bGF0b3ItdGFibGVzIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
+        <text encoding="base64">aW1wb3J0IEJUYWJsZUNvbHVtbiBmcm9tICJidWVmeS9zcmMvY29tcG9uZW50cy90YWJsZS9UYWJsZUNvbHVtbi52dWUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldCgiL3Rlc3RkYi1oIikgewogICAgICAgIHJlcXVpcmUoSGFuZGxlOjpjbGFzcykudXNlIHsKICAgICAgICAgICAgaXQuY3JlYXRlUXVlcnkoIlNFTEVDVCAqIEZST00gYXJ0aWNvbGkiKS5tYXBUb01hcCgpLmdyb3VwQnl7IG1hcE9mKCJnMSIgdG8gaXRbImlkX2dycF9hcnQxIl0sICJnMiIgdG8gaXRbImlkX2dycF9hcnQyIl0pIH0KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
