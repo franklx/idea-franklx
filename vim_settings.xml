@@ -50,12 +50,12 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" timestamp="1561461395723">
+      <file name="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" timestamp="1561465346802">
         <mark key="'" line="50" column="10" />
-        <mark key="[" line="98" column="52" />
-        <mark key="]" line="98" column="78" />
-        <mark key="." line="98" column="83" />
-        <mark key="^" line="98" column="78" />
+        <mark key="[" line="112" column="28" />
+        <mark key="]" line="112" column="28" />
+        <mark key="." line="112" column="87" />
+        <mark key="^" line="112" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1555192239494">
         <mark key="'" line="204" column="23" />
@@ -93,11 +93,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="P:/ELLECI/kojovue/src/main/vue/components/TabTbl.vue" timestamp="1561461428641">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="30" />
-        <mark key="." line="21" column="30" />
-        <mark key="^" line="21" column="30" />
+      <file name="P:/ELLECI/kojovue/src/main/vue/components/TabTbl.vue" timestamp="1561465805698">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="P:/EVAL/kotlin/jooby/build.gradle.kts" timestamp="1561293971416">
         <mark key="'" line="41" column="29" />
@@ -172,44 +171,44 @@
       <jump line="57" column="10" filename="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmFsIG0gPSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmlydHVhbERvbTogZmFsc2UsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIG0gPSA=</text>
+        <text>.gro</text>
       </register>
       <register name="/" type="4">
         <text>ArdeaDao</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuY3JlYXRlUXVlcnkoIlNFTEVDVCAqIEZST00gYXJ0aWNvbGkiKS5tYXBUb01hcCgpLmdyb3VwQnl7IG1hcE9mKCJnMSIgdG8gaXRbImlkX2dycF9hcnQxIl0sICJnMiIgdG8gaXRbImlkX2dycF9hcnQyIl0pIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">JzxzcGFuIGNsYXNzPSJtZGkgbWRpLW1lbnUtcmlnaHQtb3V0bGluZSI+PC9zcGFuPic=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbS5wdXQoIl9jaGlsZHJlbiIsaXQudmFsdWUpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlydHVhbERvbTogZmFsc2UsCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbS5wdXQoIl9jaGlsZHJlbiIsaXQudmFsdWUpLgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIG0ubWVyZ2U=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHggPSBtdXRhYmxlTWFwT2Y8U3RyaW5nLEFueT4oKS5wdXRhbGwK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbS4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbS5wdXQoIl9jaGlsZHJlbiIsaXQudmFsdWUpCiAgICAgICAgICAgICAgICAgICAgICAgIG0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW1wdHlNYXAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGdldCgiL3Rlc3RkYi1nYnQiKSB7CiAgICAgICAgcmVxdWlyZShKZGJpOjpjbGFzcykud2l0aEhhbmRsZVVuY2hlY2tlZCB7CiAgICAgICAgICAgIGl0LmNyZWF0ZVF1ZXJ5KCJTRUxFQ1QgKiBGUk9NIGFydGljb2xpIikubWFwVG9NYXAoKS5ncm91cGluZ0J5e2l0WyJpZF9ncnBfYXJ0MSJdfQogICAgICAgIH0KICAgIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuY3JlYXRlUXVlcnkoIlNFTEVDVCAqIEZST00gYXJ0aWNvbGkiKS4K</text>
+        <text encoding="base64">ICAgIGdldCgiL3Rlc3RkYi1nYnQiKSB7CiAgICAgICAgcmVxdWlyZShKZGJpOjpjbGFzcykud2l0aEhhbmRsZVVuY2hlY2tlZCB7CiAgICAgICAgICAgIGl0LmNyZWF0ZVF1ZXJ5KCJTRUxFQ1QgKiBGUk9NIGFydGljb2xpIikubWFwVG9NYXAoKS5ncm91cGluZ0J5e2l0WyJpZF9ncnBfYXJ0MSJdfQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
