@@ -33,6 +33,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
+      <file name="P:/ELLECI/kojovue/src/main/vue/components/ArtForm.vue" timestamp="1561474862980">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1553439775233">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="23" column="39" />
@@ -43,19 +49,19 @@
       <file name="/Kotlin Console" timestamp="1561235591871">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="P:/ELLECI/kojovue/src/main/vue/App.vue" timestamp="1561454994861">
-        <mark key="'" line="4" column="37" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="4" column="8" />
+      <file name="P:/ELLECI/kojovue/src/main/vue/App.vue" timestamp="1561474807781">
+        <mark key="'" line="5" column="37" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
       </file>
-      <file name="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" timestamp="1561468249766">
-        <mark key="'" line="50" column="10" />
-        <mark key="[" line="94" column="50" />
-        <mark key="]" line="94" column="49" />
-        <mark key="." line="94" column="49" />
-        <mark key="^" line="94" column="49" />
+      <file name="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" timestamp="1561474515653">
+        <mark key="'" line="85" column="30" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="90" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1555192239494">
         <mark key="'" line="204" column="23" />
@@ -125,9 +131,10 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="P:/ELLECI/kojovue/src/main/vue/components/PlainTable.vue" timestamp="1561451172135">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="13" column="7" />
+      <file name="P:/ELLECI/kojovue/src/main/vue/components/PlainTable.vue" timestamp="1561474653772">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="8" />
         <mark key="." line="13" column="7" />
         <mark key="^" line="12" column="13" />
       </file>
@@ -170,61 +177,66 @@
       <jump line="4" column="42" filename="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" />
       <jump line="54" column="31" filename="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" />
       <jump line="57" column="10" filename="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" />
+      <jump line="73" column="17" filename="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" />
+      <jump line="85" column="30" filename="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" />
+      <jump line="15" column="16" filename="P:/ELLECI/kojovue/src/main/vue/components/PlainTable.vue" />
+      <jump line="0" column="0" filename="P:/ELLECI/kojovue/src/main/vue/components/PlainTable.vue" />
+      <jump line="1" column="4" filename="P:/ELLECI/kojovue/src/main/vue/components/ArtForm.vue" />
+      <jump line="13" column="0" filename="P:/ELLECI/kojovue/src/main/vue/components/ArtForm.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>ArdeaDao</text>
+        <text>attributes</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JzxzcGFuIGNsYXNzPSJtZGkgbWRpLW1lbnUtcmlnaHQtb3V0bGluZSI+PC9zcGFuPic=</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IFRhYlRibCBmcm9tICcuL2NvbXBvbmVudHMvVGFiVGJsLnZ1ZScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIiLAo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gW10KICAgICAgICBsb2FkX2FydHMoKSB7CiAgICAgICAgICAgIHRoaXMuJGh0dHAuZ2V0KCIvdGVzdGRiIikudGhlbiggKHtkYXRhfSkgPT4gewogICAgICAgICAgICAgICAgdGhpcy5kYXRhID0gZGF0YQogICAgICAgICAgICB9KQogICAgICAgIH0KICAgICAgICBtb3VudGVkKCkgewogICAgICAgICAgICB0aGlzLmxvYWRfYXJ0cygpCiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlydHVhbERvbTogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgIGItdGFibGUoOmRhdGE9ImRhdGEiIHJlZj0idGFibGUiIGRldGFpbC1rZXk9ImZpcnN0X25hbWUiIG5hcnJvd2VkIHN0cmlwZWQgdi1zbG90PSJyIikKICAgICAgICBiLXRhYmxlLWNvbHVtbihmaWVsZD0iaWRfYXJ0aWNvbG8iIGxhYmVsPSJJRCIgbnVtZXJpYykge3tyLnJvdy5pZF9hcnRpY29sb319CiAgICAgICAgYi10YWJsZS1jb2x1bW4oZmllbGQ9ImRlc2NyaXppb25lIiBsYWJlbD0iRGVzY3JpemlvbmUiKSB7e3Iucm93LmRlc2NyaXppb25lfX0KICAgICAgICBiLXRhYmxlLWNvbHVtbihmaWVsZD0ic2tpcF9kYyIgbGFiZWw9IlNraXAgREMiKQogICAgICAgICAgICBiLWljb24oOmljb249InIucm93LnNraXBfZGMgPyAnY2hlY2tib3gtbWFya2VkLW91dGxpbmUnIDogJ2NoZWNrYm94LWJsYW5rLW91dGxpbmUnIikKICAgICAgICBiLXRhYmxlLWNvbHVtbihmaWVsZD0icHJvdmEiIGxhYmVsPSJQcm92YSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbS5wdXQoIl9jaGlsZHJlbiIsaXQudmFsdWUpLgo=</text>
+        <text encoding="base64">PHRlbXBsYXRlPgogICAgCjwvdGVtcGxhdGU+Cgo8c2NyaXB0PgogICAgZXhwb3J0IGRlZmF1bHQgewogICAgICAgIG5hbWU6ICJBcnRGb3JtIgogICAgfQo8L3NjcmlwdD4KCjxzdHlsZSBzY29wZWQ+Cgo8L3N0eWxlPgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbQo=</text>
+        <text encoding="base64">LyoqCiAqIEdyYWRsZSBLb3RsaW4gc3RhdGVyIHByb2plY3QuCiAqLwoK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIG0ubWVyZ2U=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHggPSBtdXRhYmxlTWFwT2Y8U3RyaW5nLEFueT4oKS5wdXRhbGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlydHVhbERvbTogZmFsc2UsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbS5wdXQoIl9jaGlsZHJlbiIsaXQudmFsdWUpLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbS5wdXQoIl9jaGlsZHJlbiIsaXQudmFsdWUpCiAgICAgICAgICAgICAgICAgICAgICAgIG0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW1wdHlNYXAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIG0ubWVyZ2U=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ArdeaDao</last-search>
+      <last-search>attributes</last-search>
       <last-offset />
-      <last-pattern>ArdeaDao</last-pattern>
+      <last-pattern>attributes</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lux</entry>
         <entry>absent</entry>
         <entry>nodes</entry>
         <entry>tnis.node</entry>
@@ -244,6 +256,7 @@
         <entry>transaction</entry>
         <entry>transact</entry>
         <entry>ArdeaDao</entry>
+        <entry>attributes</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -269,6 +282,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
