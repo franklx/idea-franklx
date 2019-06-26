@@ -95,12 +95,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561558813628">
-        <mark key="'" line="7" column="178" />
-        <mark key="[" line="7" column="89" />
-        <mark key="]" line="7" column="89" />
-        <mark key="." line="7" column="89" />
-        <mark key="^" line="7" column="118" />
+      <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561580393933">
+        <mark key="'" line="25" column="25" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="52" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/TabTbl.vue" timestamp="1561466534470">
         <mark key="[" line="25" column="25" />
@@ -201,46 +201,48 @@
       <jump line="11" column="0" filename="P:/ELLECI/kjv/src/main/vue/main.ts" />
       <jump line="34" column="88" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
       <jump line="7" column="178" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
+      <jump line="25" column="25" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IDogJyc=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDogJyc=</text>
+        <text>Articolo&quot;</text>
       </register>
       <register name="/" type="4">
         <text>hint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtZmxleChtZDIpCiAgICAgICAgICAgICAgICAgICAgdi10ZXh0LWZpZWxkKGxhYmVsPSJQYXppZW50ZSIgOmNvdW50ZXI9IjUwIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2LXRhYi1pdGVtCiAgICAgICAgICAgICAgICAgICAgICAgIHYtY2FyZChmbGF0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgdi10ZXh0LWZpZWxkKGxhYmVsPSJBcnRpY29sbyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3N0YXRlOicnfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi1sYXlvdXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdi1jYXJkKGZsYXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2LXRhYi1pdGVtI3RhYl9hcnRpY29saQogICAgICAgICAgICAgICAgICAgICAgICB2LWNhcmQoZmxhdCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHYtdGV4dC1maWVsZChsYWJlbD0iQXJ0aWNvbG8iKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgdi10ZXh0LWZpZWxkKGxhYmVsPSJEZXNjcml6aW9uZSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHRlbXBsYXRlPgogICAgCjwvdGVtcGxhdGU+Cgo8c2NyaXB0PgogICAgZXhwb3J0IGRlZmF1bHQgewogICAgICAgIG5hbWU6ICJQcmVzY0Zvcm0iCiAgICB9Cjwvc2NyaXB0PgoKPHN0eWxlIHNjb3BlZD4KCjwvc3R5bGU+CgppbXBvcnQgJ0BtZGkvZm9udC9jc3MvbWF0ZXJpYWxkZXNpZ25pY29ucy5jc3MnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtdGFicy1pdGVtcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7IHRleHQ6ICdGYW0nLCB2YWx1ZTogJ2NvZF9mYW1fbWF0JyB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaXYuY29udGFpbmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdi1sYXlvdXQocm93KQogICAgICAgICAgICAgICAgdi1mbGV4KG1kNCkKICAgICAgICAgICAgICAgICAgICB2LXNlbGVjdChsYWJlbD0iVGlwbyIpCiAgICAgICAgICAgICAgICB2LWZsZXgobWQ0KQogICAgICAgICAgICAgICAgICAgIHYtY29tYm9ib3gobGFiZWw9IlByb3ZhIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlY3Rpb24jYXBwLnNlY3Rpb24uaXMtdW5zZWxlY3RhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcnRpY29saQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZXRpZnkgZnJvbSAndnVldGlmeS9saWInCg==</text>
+      <register name="8" type="4">
+        <text>n
+                v-text-field</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICd2dWV0aWZ5L3NyYy9zdHlsdXMvYXBwLnN0eWwnCmltcG9ydCAncm9ib3RvLWZvbnRmYWNlL2Nzcy9yb2JvdG8vcm9ib3RvLWZvbnRmYWNlLmNzcycKaW1wb3J0ICdtYXRlcmlhbC1kZXNpZ24taWNvbnMtaWNvbmZvbnQvZGlzdC9tYXRlcmlhbC1kZXNpZ24taWNvbnMuY3NzJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJQYXppZW50ZSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
