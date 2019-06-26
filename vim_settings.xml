@@ -8,11 +8,11 @@
         <mark key="]" line="4" column="70" />
       </file>
       <file name="P:/ELLECI/kjv/src/main/vue/main.ts" timestamp="1561557849744">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="46" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="17" column="51" />
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="18" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/babel.config.js" timestamp="1553428920149">
         <mark key="[" line="6" column="50" />
@@ -95,12 +95,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561583722906">
+      <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561585249460">
         <mark key="'" line="25" column="25" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="52" />
-        <mark key="." line="80" column="52" />
-        <mark key="^" line="81" column="53" />
+        <mark key="[" line="78" column="107" />
+        <mark key="]" line="78" column="107" />
+        <mark key="." line="78" column="107" />
+        <mark key="^" line="78" column="47" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/TabTbl.vue" timestamp="1561466534470">
         <mark key="[" line="25" column="25" />
@@ -206,10 +206,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(row)</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>(row)</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>hint</text>
@@ -218,31 +218,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHYtdGV4dC1maWVsZChsYWJlbD0iRGF0YSBFbnRyYXRhIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1mbGV4KG1kMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LXRleHQtZmllbGQoc2l6ZT0iMSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHYtY29udGFpbmVyLWZsdWlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LWl0ZW0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHYtZm9ybQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1pdGVtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi1jb250YWluZXItZmx1cGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LWl0ZW0tZ3JvdXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi1jb250YWluZXItZmx1cGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1mbGV4KG1kMikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2LW5hdmlnYXRpb24tZHJhd2VyKGFwcCkK</text>
+        <text encoding="base64">ICAgIHYtY29udGFpbmVyLWZsdWlkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2LWNvbnRlbnQKICAgICAgICAgICAgdi1hcHAtYmFyCg==</text>
+        <text encoding="base64">ICAgIHYtZm9ybQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi1jb250YWluZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdi1jb250YWluZXItZmx1cGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi1zaGVldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdi1jb250YWluZXItZmx1cGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
