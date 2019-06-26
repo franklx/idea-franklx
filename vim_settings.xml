@@ -3,12 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/gtk-build/gtk/x64/release/share/gir-1.0/Gdk-3.0.gir" timestamp="1560700262220">
-        <mark key="'" line="390" column="41" />
-      </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/plugins/vuetify.ts" timestamp="1561494440158">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="70" />
+      </file>
+      <file name="P:/ELLECI/kjv/src/main/vue/main.ts" timestamp="1561557849744">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="46" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="17" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/babel.config.js" timestamp="1553428920149">
         <mark key="[" line="6" column="50" />
@@ -28,11 +32,11 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="P:/ELLECI/kjv/src/main/vue/components/ArtForm.vue" timestamp="1561554714037">
-        <mark key="[" line="33" column="153" />
-        <mark key="]" line="33" column="169" />
-        <mark key="^" line="33" column="169" />
-        <mark key="." line="33" column="169" />
+      <file name="P:/ELLECI/kjv/src/main/vue/components/ArtForm.vue" timestamp="1561557722915">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="68" column="8" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1553439775233">
         <mark key="'" line="20" column="0" />
@@ -91,6 +95,13 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
+      <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561558813628">
+        <mark key="'" line="7" column="178" />
+        <mark key="[" line="7" column="89" />
+        <mark key="]" line="7" column="89" />
+        <mark key="." line="7" column="89" />
+        <mark key="^" line="7" column="118" />
+      </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/TabTbl.vue" timestamp="1561466534470">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="25" />
@@ -122,6 +133,12 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
+      </file>
+      <file name="P:/ELLECI/kjv/src/main/vue/AppRouter.vue" timestamp="1561557870700">
+        <mark key="[" line="6" column="76" />
+        <mark key="]" line="6" column="76" />
+        <mark key="." line="6" column="76" />
+        <mark key="^" line="6" column="15" />
       </file>
       <file name="P:/EVAL/kotlin/jooby/src/main/conf/application.conf" timestamp="1561295151618">
         <mark key="[" line="2" column="24" />
@@ -177,65 +194,69 @@
       <jump line="1" column="4" filename="P:/ELLECI/kojovue/src/main/vue/components/ArtForm.vue" />
       <jump line="13" column="0" filename="P:/ELLECI/kojovue/src/main/vue/components/ArtForm.vue" />
       <jump line="4" column="16" filename="P:/ELLECI/kojovue/src/main/vue/components/vuetify.ArtForm.vue" />
+      <jump line="9" column="24" filename="P:/ELLECI/kjv/src/main/vue/components/ArtForm.vue" />
+      <jump line="0" column="0" filename="P:/ELLECI/kjv/src/main/vue/components/ArtForm.vue" />
+      <jump line="1" column="4" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
+      <jump line="14" column="0" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
+      <jump line="11" column="0" filename="P:/ELLECI/kjv/src/main/vue/main.ts" />
+      <jump line="34" column="88" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
+      <jump line="7" column="178" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaXYuY29udGFpbmVyCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDogJyc=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IDogJyc=</text>
       </register>
       <register name="/" type="4">
-        <text>b-</text>
+        <text>hint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICdyb2JvdG8tZm9udGZhY2UvY3NzL3JvYm90by9yb2JvdG8tZm9udGZhY2UuY3NzJwppbXBvcnQgJ21hdGVyaWFsLWRlc2lnbi1pY29ucy1pY29uZm9udC9kaXN0L21hdGVyaWFsLWRlc2lnbi1pY29ucy5jc3MnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtZmxleChtZDIpCiAgICAgICAgICAgICAgICAgICAgdi10ZXh0LWZpZWxkKGxhYmVsPSJQYXppZW50ZSIgOmNvdW50ZXI9IjUwIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaXYuY29udGFpbmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge3N0YXRlOicnfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlY3Rpb24jYXBwLnNlY3Rpb24uaXMtdW5zZWxlY3RhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdi1sYXlvdXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZXRpZnkgZnJvbSAndnVldGlmeS9saWInCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICd2dWV0aWZ5L3NyYy9zdHlsdXMvYXBwLnN0eWwnCmltcG9ydCAncm9ib3RvLWZvbnRmYWNlL2Nzcy9yb2JvdG8vcm9ib3RvLWZvbnRmYWNlLmNzcycKaW1wb3J0ICdtYXRlcmlhbC1kZXNpZ24taWNvbnMtaWNvbmZvbnQvZGlzdC9tYXRlcmlhbC1kZXNpZ24taWNvbnMuY3NzJwo=</text>
+        <text encoding="base64">PHRlbXBsYXRlPgogICAgCjwvdGVtcGxhdGU+Cgo8c2NyaXB0PgogICAgZXhwb3J0IGRlZmF1bHQgewogICAgICAgIG5hbWU6ICJQcmVzY0Zvcm0iCiAgICB9Cjwvc2NyaXB0PgoKPHN0eWxlIHNjb3BlZD4KCjwvc3R5bGU+CgppbXBvcnQgJ0BtZGkvZm9udC9jc3MvbWF0ZXJpYWxkZXNpZ25pY29ucy5jc3MnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VnVlLnVzZShWdWV0aWZ5LCB7CiAgaWNvbmZvbnQ6ICdtZCcsCn0pCgoK</text>
+        <text encoding="base64">ICAgICAgICB7IHRleHQ6ICdGYW0nLCB2YWx1ZTogJ2NvZF9mYW1fbWF0JyB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnCg==</text>
+        <text encoding="base64">ICAgICAgICBkaXYuY29udGFpbmVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgJ3Z1ZXRpZnkvZGlzdC92dWV0aWZ5Lm1pbi5jc3MnCmltcG9ydCAndnVldGlmeS9zcmMvc3R5bHVzL21haW4uc3R5bCcKaW1wb3J0ICdtYXRlcmlhbC1kZXNpZ24taWNvbnMtaWNvbmZvbnQvZGlzdC9tYXRlcmlhbC1kZXNpZ24taWNvbnMuY3NzJwoK</text>
+        <text encoding="base64">ICAgIHNlY3Rpb24jYXBwLnNlY3Rpb24uaXMtdW5zZWxlY3RhYmxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2LXRleHQtZmllbGQobGFiZWw9IkRlc2NyaXppb25lIikK</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZXRpZnkgZnJvbSAndnVldGlmeS9saWInCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wb25lbnRzOiB7QkNoZWNrYm94fQo=</text>
+        <text encoding="base64">aW1wb3J0ICd2dWV0aWZ5L3NyYy9zdHlsdXMvYXBwLnN0eWwnCmltcG9ydCAncm9ib3RvLWZvbnRmYWNlL2Nzcy9yb2JvdG8vcm9ib3RvLWZvbnRmYWNlLmNzcycKaW1wb3J0ICdtYXRlcmlhbC1kZXNpZ24taWNvbnMtaWNvbmZvbnQvZGlzdC9tYXRlcmlhbC1kZXNpZ24taWNvbnMuY3NzJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>b-</last-search>
+      <last-search>hint</last-search>
       <last-offset />
-      <last-pattern>b-</last-pattern>
-      <last-replace>v-</last-replace>
-      <last-substitute>b-</last-substitute>
+      <last-pattern>hint</last-pattern>
+      <last-replace>Presc</last-replace>
+      <last-substitute>Art</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nodes</entry>
-        <entry>tnis.node</entry>
-        <entry>this.node</entry>
         <entry encoding="base64">XDxub2RlXD4=</entry>
         <entry>node</entry>
         <entry>permit</entry>
@@ -253,9 +274,13 @@
         <entry>ArdeaDao</entry>
         <entry>attributes</entry>
         <entry>b-</entry>
+        <entry>Art</entry>
+        <entry>state</entry>
+        <entry>hint</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
+        <entry encoding="base64">JzwsJz5zOkFydDpQcmVzYzpn</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
