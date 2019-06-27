@@ -7,6 +7,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="70" />
       </file>
+      <file name="P:/ELLECI/kjv/src/main/vue/main.ts" timestamp="1561673316375">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/babel.config.js" timestamp="1553428920149">
         <mark key="[" line="6" column="50" />
         <mark key="]" line="6" column="61" />
@@ -87,12 +93,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561672205154">
-        <mark key="'" line="87" column="8" />
-        <mark key="[" line="35" column="54" />
-        <mark key="]" line="35" column="55" />
-        <mark key="^" line="35" column="60" />
-        <mark key="." line="35" column="55" />
+      <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561674667361">
+        <mark key="'" line="18" column="23" />
+        <mark key="[" line="41" column="44" />
+        <mark key="]" line="41" column="45" />
+        <mark key="." line="41" column="45" />
+        <mark key="^" line="39" column="47" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/TabTbl.vue" timestamp="1561466534470">
         <mark key="[" line="25" column="25" />
@@ -198,63 +204,57 @@
       <jump line="104" column="42" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
       <jump line="0" column="0" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
       <jump line="97" column="8" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
+      <jump line="18" column="23" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>max-</text>
+        <text>(type=&quot;textarea&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>max-</text>
+        <text>(type=&quot;textarea&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>art_cols</text>
+        <text>Qta</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiLWNoZWNrYm94IFJpbGF2b3JhemlvbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiLWlucHV0KHN0eWxlPSd3aWR0aDogY2FsYygxLjI1MGVtICsgYXR0cigic2l6ZSIpKyJjaCIpOycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZToKICAgICAgICAgICAgLmlucHV0IHsKICAgICAgICAgICAgICAgIHdpZHRoOiAnY2FsYygxLjI1MGVtICsgYXR0cigic2l6ZSIpKyJjaCIpJzsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSaWxhdm9yYXppb25lCiAgICAgICAgICAgICAgICAgICAgUGlhbmlmaWNhYmlsZQo=</text>
+      <register name="2" type="4">
+        <text>t
+                b-input(style=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5maWVsZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGYXNlCiAgICAgICAgICAgICAgICAgICAgUS50YQogICAgICAgICAgICAgICAgICAgIENvbG9yZQogICAgICAgICAgICAgICAgICAgIERhdGEgRW50cmF0YQogICAgICAgICAgICAgICAgICAgIERhdGEgZSBPcmEgVXNjaXRhCiAgICAgICAgICAgICAgICAgICAgQ2Fzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSaWxhdm9yYXppb25lCiAgICAgICAgICAgICAgICAgICAgUGlhbmlmaWNhYmlsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5maWVsZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLWNhcmQKICAgICAgICAgICAgICAgICAgICAgICAgYi1mb3JtCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiLWNvbnRhaW5lcihmbHVpZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiLWxheW91dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGYXNlCiAgICAgICAgICAgICAgICAgICAgUS50YQogICAgICAgICAgICAgICAgICAgIENvbG9yZQogICAgICAgICAgICAgICAgICAgIERhdGEgRW50cmF0YQogICAgICAgICAgICAgICAgICAgIERhdGEgZSBPcmEgVXNjaXRhCiAgICAgICAgICAgICAgICAgICAgQ2Fzcwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLWNhcmQKICAgICAgICAgICAgICAgICAgICAgICAgYi1mb3JtCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiLWNvbnRhaW5lcihmbHVpZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiLWxheW91dAo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLWNhcmQK</text>
-      </register>
-      <register name="8" type="8">
-        <text>t
-t
-t
-t
-t</text>
-      </register>
-      <register name="9" type="8">
-        <text>ext-
-ext-
-ext-
-ext-
-ext-</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>art_cols</last-search>
+      <last-search>Qta</last-search>
       <last-offset />
-      <last-pattern>art_cols</last-pattern>
+      <last-pattern>Qta</last-pattern>
       <last-replace>Presc</last-replace>
       <last-substitute>Art</last-substitute>
       <last-dir>1</last-dir>
@@ -262,7 +262,6 @@ ext-</text>
     </search>
     <history>
       <history-search>
-        <entry>permit</entry>
         <entry encoding="base64">XDwyMVw+</entry>
         <entry>Atom</entry>
         <entry>intern</entry>
@@ -282,6 +281,7 @@ ext-</text>
         <entry>hint</entry>
         <entry>v-mask</entry>
         <entry>art_cols</entry>
+        <entry>Qta</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
