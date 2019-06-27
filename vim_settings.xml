@@ -7,12 +7,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="70" />
       </file>
-      <file name="P:/ELLECI/kjv/src/main/vue/main.ts" timestamp="1561557849744">
+      <file name="P:/ELLECI/kjv/src/main/vue/main.ts" timestamp="1561622822876">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="18" column="51" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/babel.config.js" timestamp="1553428920149">
         <mark key="[" line="6" column="50" />
@@ -95,12 +95,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561585249460">
-        <mark key="'" line="25" column="25" />
-        <mark key="[" line="78" column="107" />
-        <mark key="]" line="78" column="107" />
-        <mark key="." line="78" column="107" />
-        <mark key="^" line="78" column="47" />
+      <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561624592054">
+        <mark key="'" line="82" column="82" />
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="36" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/TabTbl.vue" timestamp="1561466534470">
         <mark key="[" line="25" column="25" />
@@ -203,55 +203,58 @@
       <jump line="7" column="178" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
       <jump line="25" column="25" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
       <jump line="13" column="20" filename="P:/ELLECI/kjv/src/main/vue/AppRouter.vue" />
+      <jump line="2" column="21" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
+      <jump line="79" column="82" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>flex.</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>flex.</text>
       </register>
       <register name="/" type="4">
-        <text>hint</text>
+        <text>v-mask</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHYtdGV4dC1maWVsZChsYWJlbD0iRGF0YSBFbnRyYXRhIikK</text>
+      <register name="0" type="4">
+        <text encoding="base64">bWFyZ2luOiA0cHggIWltcG9ydGFudDsg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LXRleHQtZmllbGQoc2l6ZT0iMSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtZmxleAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LWl0ZW0K</text>
+      <register name="2" type="8">
+        <text>.ma-1
+.ma-1</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1pdGVtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtdGV4dC1maWVsZC5tYS0xKGxhYmVsPSJQcm92YSIgc3R5bGU9Im1heC13aWR0aDogNWV4IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LWl0ZW0tZ3JvdXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtZmxleAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1mbGV4KG1kMikK</text>
+        <text encoding="base64">ICAgICAgICB2LXRleHQtZmllbGQobGFiZWw9IlByb3ZhIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHYtY29udGFpbmVyLWZsdWlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LXRleHQtZmllbGQoc2l6ZT0iMSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHYtZm9ybQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LWl0ZW0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi1jb250YWluZXItZmx1cGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1pdGVtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi1jb250YWluZXItZmx1cGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LWl0ZW0tZ3JvdXAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hint</last-search>
+      <last-search>v-mask</last-search>
       <last-offset />
-      <last-pattern>hint</last-pattern>
+      <last-pattern>v-mask</last-pattern>
       <last-replace>Presc</last-replace>
       <last-substitute>Art</last-substitute>
       <last-dir>1</last-dir>
@@ -259,7 +262,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxub2RlXD4=</entry>
         <entry>node</entry>
         <entry>permit</entry>
         <entry encoding="base64">XDwyMVw+</entry>
@@ -279,6 +281,7 @@
         <entry>Art</entry>
         <entry>state</entry>
         <entry>hint</entry>
+        <entry>v-mask</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
