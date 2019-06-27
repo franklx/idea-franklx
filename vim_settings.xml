@@ -87,11 +87,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561667027629">
-        <mark key="[" line="111" column="9" />
-        <mark key="]" line="113" column="11" />
-        <mark key="^" line="113" column="11" />
-        <mark key="." line="113" column="11" />
+      <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561672205154">
+        <mark key="'" line="87" column="8" />
+        <mark key="[" line="35" column="54" />
+        <mark key="]" line="35" column="55" />
+        <mark key="^" line="35" column="60" />
+        <mark key="." line="35" column="55" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/TabTbl.vue" timestamp="1561466534470">
         <mark key="[" line="25" column="25" />
@@ -193,56 +194,67 @@
       <jump line="13" column="20" filename="P:/ELLECI/kjv/src/main/vue/AppRouter.vue" />
       <jump line="2" column="21" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
       <jump line="79" column="82" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
+      <jump line="27" column="0" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
+      <jump line="104" column="42" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
+      <jump line="0" column="0" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
+      <jump line="97" column="8" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>flex.</text>
+        <text>max-</text>
       </register>
       <register name="-" type="4">
-        <text>flex.</text>
+        <text>max-</text>
       </register>
       <register name="/" type="4">
-        <text>v-mask</text>
+        <text>art_cols</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bWFyZ2luOiA0cHggIWltcG9ydGFudDsg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiLWNoZWNrYm94IFJpbGF2b3JhemlvbmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtZmxleAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text>.ma-1
-.ma-1</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSaWxhdm9yYXppb25lCiAgICAgICAgICAgICAgICAgICAgUGlhbmlmaWNhYmlsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtdGV4dC1maWVsZC5tYS0xKGxhYmVsPSJQcm92YSIgc3R5bGU9Im1heC13aWR0aDogNWV4IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5maWVsZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtZmxleAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGYXNlCiAgICAgICAgICAgICAgICAgICAgUS50YQogICAgICAgICAgICAgICAgICAgIENvbG9yZQogICAgICAgICAgICAgICAgICAgIERhdGEgRW50cmF0YQogICAgICAgICAgICAgICAgICAgIERhdGEgZSBPcmEgVXNjaXRhCiAgICAgICAgICAgICAgICAgICAgQ2Fzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2LXRleHQtZmllbGQobGFiZWw9IlByb3ZhIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LXRleHQtZmllbGQoc2l6ZT0iMSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLWNhcmQKICAgICAgICAgICAgICAgICAgICAgICAgYi1mb3JtCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiLWNvbnRhaW5lcihmbHVpZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiLWxheW91dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LWl0ZW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLWNhcmQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1pdGVtCg==</text>
+      <register name="8" type="8">
+        <text>t
+t
+t
+t
+t</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LWl0ZW0tZ3JvdXAK</text>
+      <register name="9" type="8">
+        <text>ext-
+ext-
+ext-
+ext-
+ext-</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>v-mask</last-search>
+      <last-search>art_cols</last-search>
       <last-offset />
-      <last-pattern>v-mask</last-pattern>
+      <last-pattern>art_cols</last-pattern>
       <last-replace>Presc</last-replace>
       <last-substitute>Art</last-substitute>
       <last-dir>1</last-dir>
@@ -250,7 +262,6 @@
     </search>
     <history>
       <history-search>
-        <entry>node</entry>
         <entry>permit</entry>
         <entry encoding="base64">XDwyMVw+</entry>
         <entry>Atom</entry>
@@ -270,6 +281,7 @@
         <entry>state</entry>
         <entry>hint</entry>
         <entry>v-mask</entry>
+        <entry>art_cols</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
