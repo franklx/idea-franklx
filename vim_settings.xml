@@ -43,6 +43,12 @@
         <mark key="." line="24" column="41" />
         <mark key="^" line="24" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/ELLECI/kjv/vue.config.js" timestamp="1561724819784">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+      </file>
       <file name="/Kotlin Console" timestamp="1561235591871">
         <mark key="[" line="0" column="0" />
       </file>
@@ -210,10 +216,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Fase</text>
+        <text>hbench</text>
       </register>
       <register name="-" type="4">
-        <text>Fase</text>
+        <text>hbench</text>
       </register>
       <register name="/" type="4">
         <text>Qta</text>
