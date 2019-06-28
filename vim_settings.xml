@@ -66,12 +66,6 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1555192239494">
-        <mark key="'" line="204" column="23" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/main.ts" timestamp="1561447882729">
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="64" />
@@ -93,24 +87,25 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561674667361">
+      <file name="P:/ELLECI/kjv/src/main/vue/custom.sass" timestamp="1561713069642">
+        <mark key="'" line="5" column="22" />
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+      </file>
+      <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561715020860">
         <mark key="'" line="18" column="23" />
-        <mark key="[" line="41" column="44" />
-        <mark key="]" line="41" column="45" />
-        <mark key="." line="41" column="45" />
-        <mark key="^" line="39" column="47" />
+        <mark key="[" line="67" column="50" />
+        <mark key="]" line="67" column="57" />
+        <mark key="." line="67" column="57" />
+        <mark key="^" line="67" column="57" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/TabTbl.vue" timestamp="1561466534470">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="25" />
         <mark key="." line="25" column="25" />
         <mark key="^" line="25" column="25" />
-      </file>
-      <file name="P:/EVAL/kotlin/jooby/build.gradle.kts" timestamp="1561293971416">
-        <mark key="'" line="41" column="29" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/vuetify.ArtForm.vue" timestamp="1561492856603">
         <mark key="[" line="6" column="0" />
@@ -153,6 +148,12 @@
         <mark key="]" line="36" column="8" />
         <mark key="." line="36" column="8" />
         <mark key="^" line="29" column="5" />
+      </file>
+      <file name="P:/ELLECI/kjv/src/main/vue/plugins/buefy.ts" timestamp="1561712628083">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="37" />
+        <mark key="^" line="8" column="40" />
+        <mark key="." line="8" column="37" />
       </file>
       <file name="P:/ELLECI/kojovue/vue.config.js" timestamp="1561454807957">
         <mark key="[" line="4" column="31" />
@@ -205,47 +206,47 @@
       <jump line="0" column="0" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
       <jump line="97" column="8" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
       <jump line="18" column="23" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
+      <jump line="5" column="22" filename="P:/ELLECI/kjv/src/main/vue/custom.sass" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(type=&quot;textarea&quot;)</text>
+        <text>Fase</text>
       </register>
       <register name="-" type="4">
-        <text>(type=&quot;textarea&quot;)</text>
+        <text>Fase</text>
       </register>
       <register name="/" type="4">
         <text>Qta</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiLWlucHV0KHN0eWxlPSd3aWR0aDogY2FsYygxLjI1MGVtICsgYXR0cigic2l6ZSIpKyJjaCIpOycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGItZmllbGQuaXMtMmhjKGxhYmVsPSJGYXNlIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiLXNlbGVjdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZToKICAgICAgICAgICAgLmlucHV0IHsKICAgICAgICAgICAgICAgIHdpZHRoOiAnY2FsYygxLjI1MGVtICsgYXR0cigic2l6ZSIpKyJjaCIpJzsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEYXRhIGUgT3JhIFJpdGlybwogICAgICAgICAgICAgICAgICAgIERhdGEgZSBvcmEgUmljb25zZWduYQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>t
-                b-input(style=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYi1maWVsZC5pcy0yaGMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLXRhYmxlKG5hcnJvd2VkIHN0cmlwZWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSaWxhdm9yYXppb25lCiAgICAgICAgICAgICAgICAgICAgUGlhbmlmaWNhYmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmNvbnRhaW5lcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5maWVsZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYi1zcGFjZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGYXNlCiAgICAgICAgICAgICAgICAgICAgUS50YQogICAgICAgICAgICAgICAgICAgIENvbG9yZQogICAgICAgICAgICAgICAgICAgIERhdGEgRW50cmF0YQogICAgICAgICAgICAgICAgICAgIERhdGEgZSBPcmEgVXNjaXRhCiAgICAgICAgICAgICAgICAgICAgQ2Fzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmNvbnRhaW5lcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29udGFpbmVyLmlzLWZsdWlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLWNhcmQKICAgICAgICAgICAgICAgICAgICAgICAgYi1mb3JtCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiLWNvbnRhaW5lcihmbHVpZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiLWxheW91dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2FyZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLWNhcmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAgQ2xpZW50ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
