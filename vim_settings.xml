@@ -178,6 +178,12 @@
         <mark key="." line="37" column="73" />
         <mark key="^" line="37" column="73" />
       </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" timestamp="1562108370298">
+        <mark key="[" line="44" column="56" />
+        <mark key="]" line="44" column="58" />
+        <mark key="^" line="44" column="58" />
+        <mark key="." line="44" column="58" />
+      </file>
       <file name="/Kotlin Console.kts" timestamp="1561932398681">
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
@@ -278,10 +284,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
@@ -317,7 +323,7 @@
         <text encoding="base64">ICAgIG5ldHdvcmtNYW5hZ2VyLnNldE5ldHdvcmtEYXRhU3RvcmUoWmlnQmVlRGF0YVN0b3JlKCJrdG9yY2giKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>quit</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -356,8 +362,8 @@
         <entry>%s:b-:v-:g</entry>
         <entry encoding="base64">JzwsJz5zOkFydDpQcmVzYzpn</entry>
         <entry>w!</entry>
-        <entry>w</entry>
         <entry>quit</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
