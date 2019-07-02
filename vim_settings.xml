@@ -45,7 +45,7 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="/Kotlin Console" timestamp="1561932374319">
+      <file name="/Kotlin Console" timestamp="1562099272495">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/App.vue" timestamp="1561474807781">
@@ -317,7 +317,7 @@
         <text encoding="base64">ICAgIG5ldHdvcmtNYW5hZ2VyLnNldE5ldHdvcmtEYXRhU3RvcmUoWmlnQmVlRGF0YVN0b3JlKCJrdG9yY2giKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>quit</text>
       </register>
     </registers>
     <search>
@@ -357,6 +357,7 @@
         <entry encoding="base64">JzwsJz5zOkFydDpQcmVzYzpn</entry>
         <entry>w!</entry>
         <entry>w</entry>
+        <entry>quit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
