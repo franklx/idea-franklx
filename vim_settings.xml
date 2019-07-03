@@ -207,11 +207,11 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562153798513">
-        <mark key="[" line="39" column="6" />
-        <mark key="]" line="39" column="17" />
-        <mark key="." line="39" column="17" />
-        <mark key="^" line="39" column="17" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562158020111">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="26" column="3" />
       </file>
       <file name="P:/ELLECI/kojovue/vue.config.js" timestamp="1561454807957">
         <mark key="[" line="4" column="31" />
@@ -290,44 +290,47 @@
       <jump line="30" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGF0YSA=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">ZGF0YSA=</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZXNjcml6aW9uZTogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgIHZhbCBjciA9IENTVlJlYWRlckJ1aWxkZXIoRmlsZSgiZGF0YS81OTkuY3N2IikucmVhZGVyKCkpCiAgICAgICAgLndpdGhDU1ZQYXJzZXIoCiAgICAgICAgICAgIENTVlBhcnNlckJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLndpdGhTZXBhcmF0b3IoJzsnKQogICAgICAgICAgICAgICAgLndpdGhJZ25vcmVMZWFkaW5nV2hpdGVTcGFjZSh0cnVlKS5idWlsZCgpCiAgICAgICAgKS5idWlsZCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNyLgo=</text>
+        <text encoding="base64">ICAgIHZhbCBjciA9IENTVlJlYWRlckJ1aWxkZXIoRmlsZSgiZGF0YS81OTkuY3N2IikucmVhZGVyKCkpLmJ1aWxkKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBvZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAud2l0aENTVlBhcnNlcigKICAgICAgICAgICAgQ1NWUGFyc2VyQnVpbGRlcigpCiAgICAgICAgICAgICAgICAud2l0aFNlcGFyYXRvcignOycpCiAgICAgICAgICAgICAgICAud2l0aElnbm9yZUxlYWRpbmdXaGl0ZVNwYWNlKHRydWUpLmJ1aWxkKCkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGl0LnRvTGlzdCgpKQo=</text>
+      <register name="4" type="4">
+        <text>CSVParserBuilder()
+                .withSeparator(';')
+                .withIgnoreLeadingWhiteSpace(true).build()
+        ).bui</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aElnbm9yZUxlYWRpbmdXaGl0ZVNwYWNlKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoVHlwZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aFNlcGFyYXRvcignOycpCg==</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJCdWlsZGVyKCkK</text>
+        <text encoding="base64">ICAgIGNyLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJGQzQxODBQYXJzZXIoKS5kZAo=</text>
+        <text encoding="base64">ICAgICAgICBtYXBvZigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENTVlBhcnNlcigK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGl0LnRvTGlzdCgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
