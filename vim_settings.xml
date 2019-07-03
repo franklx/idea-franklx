@@ -178,11 +178,11 @@
         <mark key="." line="37" column="73" />
         <mark key="^" line="37" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" timestamp="1562158841233">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="46" />
-        <mark key="." line="24" column="46" />
-        <mark key="^" line="24" column="46" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" timestamp="1562166422947">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="5" />
+        <mark key="^" line="26" column="5" />
+        <mark key="." line="26" column="5" />
       </file>
       <file name="/Kotlin Console.kts" timestamp="1561932398681">
         <mark key="]" line="1" column="0" />
@@ -207,12 +207,11 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562159518551">
-        <mark key="'" line="14" column="3" />
-        <mark key="[" line="57" column="31" />
-        <mark key="]" line="57" column="34" />
-        <mark key="." line="57" column="34" />
-        <mark key="^" line="57" column="34" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562166844970">
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="15" column="50" />
+        <mark key="." line="15" column="50" />
+        <mark key="^" line="15" column="57" />
       </file>
       <file name="P:/ELLECI/kojovue/vue.config.js" timestamp="1561454807957">
         <mark key="[" line="4" column="31" />
@@ -293,10 +292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>funzione</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>funzione</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -305,34 +304,31 @@
         <text>File(&quot;data/599.csv&quot;).reader()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jc3YK</text>
+        <text encoding="base64">ICAgIHI1OTkuc2NoZW1hKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocjU5OS5zY2hlbWEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBjciA9IENTVlJlYWRlckJ1aWxkZXIoRmlsZSgiZGF0YS81OTkuY3N2IikucmVhZGVyKCkpLmJ1aWxkKCkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ImNvbS5naXRodWIuaG9sZ2VyYnJhbmRsOmtyYW5nbDorIikKICAgIGNvbXBpbGUg</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aENTVlBhcnNlcigKICAgICAgICAgICAgQ1NWUGFyc2VyQnVpbGRlcigpCiAgICAgICAgICAgICAgICAud2l0aFNlcGFyYXRvcignOycpCiAgICAgICAgICAgICAgICAud2l0aElnbm9yZUxlYWRpbmdXaGl0ZVNwYWNlKHRydWUpLmJ1aWxkKCkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ImNvbS5naXRodWIuIikKICAgIGNvbXBpbGUg</text>
       </register>
-      <register name="8" type="4">
-        <text>CSVParserBuilder()
-                .withSeparator(';')
-                .withIgnoreLeadingWhiteSpace(true).build()
-        ).bui</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoVHlwZSgpCg==</text>
+        <text encoding="base64">Y2xhc3MgZW51bSBUZXN0Q29sbGF1ZG8oCiAgICBzZXJpYWxfbnVtYmVyOiBTdHJpbmcsCiAgICBjaWNsbzogSW50LAogICAgZGF0YTogVGltZXN0YW1wLAogICAgcHJvZG90dG86IFN0cmluZywKICAgIGVzaXRvOiBJbnQsCiAgICByaWNldHRhOiBTdHJpbmcsCiAgICBmdW56aW9uZTogSW50LAogICAgcmlwZXRpemlvbmU6IEludCwKICAgIGRlc2NyaXppb25lOiBTdHJpbmcsCiAgICBkZXNjcml6aW9uZV9jdXN0b206IFN0cmluZywKICAgIHVtOiBTdHJpbmcsCiAgICB2YWxvcmU6IE51bWJlciwKICAgIG1pbmltbzogTnVtYmVyLAogICAgbWFzc2ltbzogTnVtYmVyLAogICAgaW5mb3JtYXppb25lOiBCb29sZWFuLAogICAgc2VsZXppb25lX21hbnVhbGU6IEJvb2xlYW4sCiAgICBkdXJhdGE6IE51bWJlcgogICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
