@@ -20,6 +20,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562188118343">
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="20" column="44" />
+        <mark key="^" line="20" column="44" />
+        <mark key="." line="20" column="44" />
+      </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
         <mark key="[" line="10" column="61" />
         <mark key="]" line="11" column="0" />
@@ -275,63 +281,66 @@
       <jump line="132" column="20" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
       <jump line="37" column="73" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
       <jump line="62" column="22" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
+      <jump line="26" column="72" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>timestamp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb29ieS5Kb29ieQo=</text>
+        <text encoding="base64">ICAgICAgICAiTm9taW5hbCB2ZWxvY2l0eSBhdCBkcml2aW5nIHNoYWZ0IiwKICAgICAgICAiQXBwbGllZCB2ZWxvY2l0eSBhdCBkcml2aW5nIHNoYWZ0IiwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB4ID0gKmFyZ3MK</text>
+      <register name="1" type="8">
+        <text>driving
+driving</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb29ieS5Kb29ieQppbXBvcnQgb3JnLmpvb2J5Lkpvb2J5LnJ1bgo=</text>
+      <register name="2" type="8">
+        <text>velocity
+velocity</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc2lmaWVyID0gImxpYiIK</text>
+        <text encoding="base64">ICAgICAgICAiVGVtcGVyYXR1cmEgdGVybW9jb3BwaWEgMiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc2lmaWVyID0gImxpYiIK</text>
+        <text encoding="base64">ICAgICAgICAiQXBwbGllZCB0b3JxdWUgYXQgZHJpdmluZyBzaGFmdCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc2lmaWVyID0gImxpYiIK</text>
+        <text encoding="base64">ICAgICAgICAiTm9taW5hbCB0b3JxdWUgYXQgZHJpdmluZyBzaGFmdCIsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycgo=</text>
+      <register name="6" type="8">
+        <text>Nominal
+Nominal</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBuZXR3b3JrU3RhdGVTZXJpYWxpemVyID0gWmlnQmVlTmV0d29ya1N0YXRlU2VyaWFsaXplckltcGwoImt0b3JjaCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtNYW5hZ2VyLnNldE5ldHdvcmtTdGF0ZVNlcmlhbGl6ZXIobmV0d29ya1N0YXRlU2VyaWFsaXplcikK</text>
+        <text encoding="base64">ICAgIHI1OTkuZmlsdGVyIHsgaXRbIkRlc2NyaXppb25lIl0uZXEoKSB9IC5zZWxlY3QoIlRpbWVzdGFtcCIsICJWYWxvcmUiKS5wcmludCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtNYW5hZ2VyLnNldE5ldHdvcmtEYXRhU3RvcmUoWmlnQmVlRGF0YVN0b3JlKCJrdG9yY2giKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>quit</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>timestamp</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
-      <last-replace>Presc</last-replace>
-      <last-substitute>Art</last-substitute>
+      <last-pattern>timestamp</last-pattern>
+      <last-replace>Timestamp</last-replace>
+      <last-substitute>timestamp</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>println</entry>
         <entry>props</entry>
         <entry>transaction</entry>
         <entry>transact</entry>
@@ -351,13 +360,15 @@
         <entry>Impl</entry>
         <entry>Log</entry>
         <entry>logger</entry>
+        <entry>timestamp</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
         <entry encoding="base64">JzwsJz5zOkFydDpQcmVzYzpn</entry>
         <entry>w!</entry>
-        <entry>w</entry>
         <entry>quit</entry>
+        <entry>%s:timestamp:Timestamp:g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
