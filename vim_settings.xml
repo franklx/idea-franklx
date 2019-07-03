@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" timestamp="1562191311704">
+        <mark key="'" line="464" column="50" />
+      </file>
       <file name="P:/ELLECI/kjv/src/main/vue/main.ts" timestamp="1561673316375">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="9" />
@@ -19,6 +22,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562191500360">
+        <mark key="[" line="42" column="61" />
+        <mark key="]" line="42" column="71" />
+        <mark key="^" line="42" column="71" />
+        <mark key="." line="42" column="71" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
         <mark key="[" line="10" column="61" />
@@ -164,7 +173,6 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/DataFrame.kt" timestamp="1562167045842" />
       <file name="P:/ELLECI/kojovue/src/main/vue/components/PlainTable.vue" timestamp="1561474653772">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -298,19 +306,25 @@
       <jump line="211" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
       <jump line="231" column="59" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
       <jump line="201" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
+      <jump line="352" column="59" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
+      <jump line="452" column="64" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
+      <jump line="455" column="63" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
+      <jump line="459" column="50" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
+      <jump line="460" column="56" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
+      <jump line="464" column="50" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sdW1uRm9ybXVsYSgidGltZXN0YW1wIiwge2l0WyJ0aW1lc3RhbXAiXS5nZXQoMCl9KSwK</text>
+      <register name="&quot;" type="4">
+        <text>Timestamp</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Timestamp</text>
       </register>
       <register name="/" type="4">
-        <text>guessColType</text>
+        <text>List</text>
       </register>
       <register name="0" type="4">
-        <text>File(&quot;data/599.csv&quot;).reader()</text>
+        <text>&quot;Timestamp&quot;, &quot;U.M.&quot;, &quot;Valore&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ29sdW1uRm9ybXVsYSgidGltZXN0YW1wIiwge2l0WyJ0aW1lc3RhbXAiXS5nZXQoMCl9KSwK</text>
@@ -344,9 +358,9 @@
       </register>
     </registers>
     <search>
-      <last-search>guessColType</last-search>
+      <last-search>List</last-search>
       <last-offset />
-      <last-pattern>guessColType</last-pattern>
+      <last-pattern>List</last-pattern>
       <last-replace>,File(&quot;data/599.csv&quot;).reader()</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -354,7 +368,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ArdeaDao</entry>
         <entry>attributes</entry>
         <entry>b-</entry>
         <entry>Art</entry>
@@ -374,6 +387,7 @@
         <entry>Guess</entry>
         <entry>dataColFactor</entry>
         <entry>guessColType</entry>
+        <entry>List</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
