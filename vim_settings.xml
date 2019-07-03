@@ -205,11 +205,11 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562170718567">
-        <mark key="[" line="18" column="43" />
-        <mark key="]" line="18" column="63" />
-        <mark key="." line="18" column="63" />
-        <mark key="^" line="18" column="63" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562178351044">
+        <mark key="[" line="18" column="54" />
+        <mark key="]" line="18" column="54" />
+        <mark key="." line="18" column="54" />
+        <mark key="^" line="18" column="9" />
       </file>
       <file name="P:/ELLECI/kojovue/vue.config.js" timestamp="1561454807957">
         <mark key="[" line="4" column="31" />
@@ -290,10 +290,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>name})</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>name})</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -302,31 +302,31 @@
         <text>File(&quot;data/599.csv&quot;).reader()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZtdC5kZAo=</text>
+        <text encoding="base64">ICAgIHZhbCBwID0gcjU5OS5hZGRDb2x1bW4oInRpbWVzdGFtcCIgdG8ge2l0WyJEYXRhIl0ubmFtZX0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHI1OTkuc2NoZW1hKCkK</text>
+        <text encoding="base64">ICAgIHI1OTkucmVtbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHI1OTkuCg==</text>
+        <text encoding="base64">ICAgIGZtdC5kZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oTG9jYWxEYXRlVGltZS5wYXJzZSgiMjUvMTIvMjAxOSAyMzo1NjoxMjo2NjYiLCBmbXQpKQo=</text>
+        <text encoding="base64">ICAgIHI1OTkuc2NoZW1hKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLy5zdW1tYXJpemUoICJ2YWxvcmUiLCB7aXRbIlZhbG9yZSJdLm1lYW4odHJ1ZSl9ICkK</text>
+        <text encoding="base64">ICAgIHI1OTkuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb2x1bW5Gb3JtdWxhKCJ2YWxvcmUiLCApCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oTG9jYWxEYXRlVGltZS5wYXJzZSgiMjUvMTIvMjAxOSAyMzo1NjoxMjo2NjYiLCBmbXQpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLy5zdW1tYXJpemUoICJ2YWxvcmUiLCB7aXRbIlZhbG9yZSJdLm1lYW4odHJ1ZSl9ICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuc3VtbWFyaQo=</text>
+        <text encoding="base64">ICAgICAgICBDb2x1bW5Gb3JtdWxhKCJ2YWxvcmUiLCApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuc3VtbWFyaXplKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
