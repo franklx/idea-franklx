@@ -45,6 +45,9 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" timestamp="1562183266504">
+        <mark key="'" line="201" column="13" />
+      </file>
       <file name="/Kotlin Console" timestamp="1562169482933">
         <mark key="[" line="0" column="0" />
       </file>
@@ -205,11 +208,11 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562181747377">
-        <mark key="[" line="26" column="62" />
-        <mark key="]" line="26" column="61" />
-        <mark key="." line="26" column="61" />
-        <mark key="^" line="26" column="61" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562182493112">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+        <mark key="^" line="19" column="41" />
       </file>
       <file name="P:/ELLECI/kojovue/vue.config.js" timestamp="1561454807957">
         <mark key="[" line="4" column="31" />
@@ -287,6 +290,14 @@
       <jump line="62" column="22" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
       <jump line="30" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="15" column="3" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="21" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
+      <jump line="23" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
+      <jump line="170" column="61" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
+      <jump line="238" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
+      <jump line="174" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
+      <jump line="211" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
+      <jump line="231" column="59" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
+      <jump line="201" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -296,7 +307,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>guessColType</text>
       </register>
       <register name="0" type="4">
         <text>File(&quot;data/599.csv&quot;).reader()</text>
@@ -333,9 +344,9 @@
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>guessColType</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>guessColType</last-pattern>
       <last-replace>,File(&quot;data/599.csv&quot;).reader()</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -343,9 +354,6 @@
     </search>
     <history>
       <history-search>
-        <entry>props</entry>
-        <entry>transaction</entry>
-        <entry>transact</entry>
         <entry>ArdeaDao</entry>
         <entry>attributes</entry>
         <entry>b-</entry>
@@ -363,6 +371,9 @@
         <entry>Log</entry>
         <entry>logger</entry>
         <entry>,</entry>
+        <entry>Guess</entry>
+        <entry>dataColFactor</entry>
+        <entry>guessColType</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
