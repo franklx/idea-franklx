@@ -193,11 +193,11 @@
         <mark key="^" line="26" column="5" />
         <mark key="." line="26" column="5" />
       </file>
-      <file name="P:/TORP/stchart/build.gradle.kts" timestamp="1562254535387">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="25" column="5" />
+      <file name="P:/TORP/stchart/build.gradle.kts" timestamp="1562272074268">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="38" column="3" />
       </file>
       <file name="/Kotlin Console.kts" timestamp="1562169354190">
         <mark key="]" line="2" column="0" />
@@ -341,7 +341,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uU3RyZWFtCg==</text>
+        <text encoding="base64">ICAgIC8vY29tcGlsZSgib3JnLmtub3dtLnhjaGFydDp4Y2hhcnQ6KyIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>.asDoubles()</text>
@@ -353,31 +353,31 @@
         <text>g[&quot;Data&quot;].asDoubles()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uU3RyZWFtCg==</text>
+        <text encoding="base64">ICAgIC8vY29tcGlsZSgib3JnLmtub3dtLnhjaGFydDp4Y2hhcnQ6KyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5rbm93bS54Y2hhcnQuU3dpbmdXcmFwcGVyCg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5rbm93bS54Y2hhcnQuUXVpY2tDaGFydAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uU3RyZWFtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vY29tcGlsZSgiY29tLmdpdGh1Yi5ob2xnZXJicmFuZGw6a3JhdmlzOisiKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5rbm93bS54Y2hhcnQuU3dpbmdXcmFwcGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBjaCA9IFF1aWNrQ2hhcnQuZ2V0Q2hhcnQoImVzZW1waW8iLCJ0ZW1wbyIsIm5vaXNlIiwgIm5vaXNlIiwgZ1siRGF0YSJdLmFzRG91YmxlcygpLCBnWyJNYXggcmVjb3JkZWQgbm9pc2UgbGV2ZWwiXS5hc0RvdWJsZXMoKSkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5rbm93bS54Y2hhcnQuUXVpY2tDaGFydAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vY29tcGlsZSgiY29tLmdpdGh1Yi5ob2xnZXJicmFuZGw6a3JhdmlzOisiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHZhbCBjaCA9IFF1aWNrQ2hhcnQuZ2V0Q2hhcnQoImVzZW1waW8iLCJ0ZW1wbyIsIm5vaXNlIiwgIm5vaXNlIiwgZ1siRGF0YSJdLmFzRG91YmxlcygpLCBnWyJNYXggcmVjb3JkZWQgbm9pc2UgbGV2ZWwiXS5hc0RvdWJsZXMoKSkK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN3aW5nV3JhcHBlcihjaCkuZGlzcGxheUNoYXJ0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
