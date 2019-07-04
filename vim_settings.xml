@@ -23,12 +23,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562239573005">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="8" />
-        <mark key="." line="22" column="8" />
-        <mark key="^" line="22" column="14" />
+      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562241653961">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="17" column="74" />
+        <mark key="]" line="17" column="74" />
+        <mark key="." line="17" column="74" />
+        <mark key="^" line="17" column="104" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
         <mark key="[" line="10" column="61" />
@@ -55,8 +55,8 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" timestamp="1562183266504">
-        <mark key="'" line="201" column="13" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" timestamp="1562241881392">
+        <mark key="'" line="89" column="82" />
       </file>
       <file name="/Kotlin Console" timestamp="1562169482933">
         <mark key="[" line="0" column="0" />
@@ -320,55 +320,61 @@
       <jump line="460" column="56" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
       <jump line="464" column="50" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
       <jump line="49" column="4" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="138" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
+      <jump line="143" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
+      <jump line="145" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
+      <jump line="146" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
+      <jump line="149" column="47" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
+      <jump line="89" column="82" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0.5</text>
+        <text>.withIgnoreSurroundingSpaces()</text>
       </register>
       <register name="-" type="4">
-        <text>0.5</text>
+        <text>.withIgnoreSurroundingSpaces()</text>
       </register>
       <register name="/" type="4">
-        <text>List</text>
+        <text>reader</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAucmVhZENTVigiZGF0YS82MDguY3N2IiwgQ1NWRm9ybWF0LkVYQ0VMLndpdGhEZWxpbWl0ZXIoJzsnKSAud2l0aEZpcnN0UmVjb3JkQXNIZWFkZXIoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmVhbS5vZigpIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkUmVhZGVyKCkuCg==</text>
+        <text encoding="base64">ICAgIHI1OTkudwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJlYWRlcigpCg==</text>
+        <text encoding="base64">ICAgIHI1OTkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJlYWRlcigpCg==</text>
+        <text encoding="base64">ICAgIFN0cmVhbS5vZigpIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkUmVhZGVyKCkKICAgIEZpbGUoKQo=</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkUmVhZGVyKCkuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuYXBwZGQK</text>
+        <text encoding="base64">ICAgIFJlYWRlcigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAucmVhZENTVigiZGF0YS82MDguY3N2IiwgeGxmKQo=</text>
+        <text encoding="base64">ICAgIFJlYWRlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vY29tcGlsZSgiY29tLm9wZW5jc3Y6b3BlbmNzdjorIikKICAgIC8vY29tcGlsZSgibmV0LnNmLnN1cGVyY3N2OnN1cGVyLWNzdjorIikK</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkUmVhZGVyKCkKICAgIEZpbGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
+        <text encoding="base64">ICAgICAgICAuYXBwZGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>List</last-search>
+      <last-search>reader</last-search>
       <last-offset />
-      <last-pattern>List</last-pattern>
+      <last-pattern>reader</last-pattern>
       <last-replace>,File(&quot;data/599.csv&quot;).reader()</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -376,7 +382,6 @@
     </search>
     <history>
       <history-search>
-        <entry>attributes</entry>
         <entry>b-</entry>
         <entry>Art</entry>
         <entry>state</entry>
@@ -396,6 +401,7 @@
         <entry>dataColFactor</entry>
         <entry>guessColType</entry>
         <entry>List</entry>
+        <entry>reader</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
