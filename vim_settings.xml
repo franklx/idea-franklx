@@ -23,11 +23,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562243089857">
-        <mark key="'" line="52" column="4" />
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562245614351">
+        <mark key="'" line="15" column="17" />
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+        <mark key="^" line="17" column="11" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
         <mark key="[" line="10" column="61" />
@@ -332,46 +333,47 @@
       <jump line="211" column="78" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
       <jump line="174" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
       <jump line="108" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
+      <jump line="15" column="17" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxkZAo=</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>gz</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAucmVhZENTVigiZGF0YS82MDguY3N2IiwgQ1NWRm9ybWF0LkVYQ0VMLndpdGhEZWxpbWl0ZXIoJzsnKSAud2l0aEZpcnN0UmVjb3JkQXNIZWFkZXIoKSkK</text>
+        <text encoding="base64">ICAgICAgICBpdC5idWZmZXJlZFJlYWRlcigpLnJlYWRMaW5lKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxkZAo=</text>
+        <text encoding="base64">ICAgICAgICBvZi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEdaSVBPdXRwdXRTdHJlYW0K</text>
+        <text encoding="base64">ICAgICAgICByLnJlYWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEZpbGVzLgo=</text>
+        <text encoding="base64">ICAgICAgICBCdWZmZXJlZFJlYWRlcihpdCkucmVhZExpbmUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdC5yZWFkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RmlsZXMuCg==</text>
+        <text encoding="base64">ICAgICAgICBvZi53cml0ZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdC5yZWFkQnl0ZXMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHI1OTkudwo=</text>
+        <text encoding="base64">ICAgICAgICBpdC5yZWFkTGlkZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHI1OTkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmVhbS5vZigpIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBvZiA9IEdaSVBPdXRwdXRTdHJlYW0oRmlsZU91dHB1dFN0cmVhbSgiZGF0YS9kYXRhLmNzdi5neiIpKQogICAgRmlsZSgiZGF0YS8iKS5saXN0RmlsZXMoV2lsZGNhcmRGaWxlRmlsdGVyKCIqLmNzdiIpIGFzIEZpbGVuYW1lRmlsdGVyKT8uZm9yRWFjaCB7CiAgICAgICAgb2Yud3JpdGUoaXQucmVhZEJ5dGVzKCkpCiAgICB9CiAgICBvZi5jbG9zZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
