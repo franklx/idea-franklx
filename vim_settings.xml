@@ -23,11 +23,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562252178524">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562254551435">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
         <mark key="[" line="10" column="61" />
@@ -193,10 +193,10 @@
         <mark key="^" line="26" column="5" />
         <mark key="." line="26" column="5" />
       </file>
-      <file name="P:/TORP/stchart/build.gradle.kts" timestamp="1562252187230">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="5" />
-        <mark key="." line="25" column="5" />
+      <file name="P:/TORP/stchart/build.gradle.kts" timestamp="1562254535387">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
         <mark key="^" line="25" column="5" />
       </file>
       <file name="/Kotlin Console.kts" timestamp="1562169354190">
@@ -341,43 +341,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGtyYXZpcy4qCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uU3RyZWFtCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Valore</text>
+        <text>.asDoubles()</text>
       </register>
       <register name="/" type="4">
         <text>summa</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;Max recorded noise level&quot;</text>
+        <text>g[&quot;Data&quot;].asDoubles()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGtyYXZpcy4qCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uU3RyZWFtCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAucGxvdCh4PSJEYXRhIiwgeT0iVmFsb3JlIikKICAgICAgICAuZ2VvbUxpbmUoKQogICAgZy5zaG93KCkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5rbm93bS54Y2hhcnQuU3dpbmdXcmFwcGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGcub3V0Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5rbm93bS54Y2hhcnQuUXVpY2tDaGFydAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgIC8vY29tcGlsZSgiY29tLmdpdGh1Yi5ob2xnZXJicmFuZGw6a3JhdmlzOisiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuc2F2ZSgidGVzdC5wbmciKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBjaCA9IFF1aWNrQ2hhcnQuZ2V0Q2hhcnQoImVzZW1waW8iLCJ0ZW1wbyIsIm5vaXNlIiwgIm5vaXNlIiwgZ1siRGF0YSJdLmFzRG91YmxlcygpLCBnWyJNYXggcmVjb3JkZWQgbm9pc2UgbGV2ZWwiXS5hc0RvdWJsZXMoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuc2hvdygpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhbCBjaCA9IFF1aWNrQ2hhcnQuZ2V0Q2hhcnQoImVzZW1waW8iLCJ0ZW1wbyIsIm5vaXNlIiwgIm5vaXNlIiwgZ1siRGF0YSJdLmFzRG91YmxlcygpLCBnWyJNYXggcmVjb3JkZWQgbm9pc2UgbGV2ZWwiXS5hc0RvdWJsZXMoKSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHI1OTkuZmlsdGVyIHsgaXRbIkRlc2NyaXppb25lIl0gYW55b2YgaW50ZXJlc3QgfS5zZWxlY3QoIkRlc2NyaXppb25lIiwgIlUuTS4iLCAiVmFsb3JlIikucHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgIFN3aW5nV3JhcHBlcihjaCkuZGlzcGxheUNoYXJ0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
