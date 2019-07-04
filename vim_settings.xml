@@ -23,12 +23,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562273332235">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="58" column="9" />
-        <mark key="]" line="58" column="9" />
-        <mark key="^" line="58" column="29" />
-        <mark key="." line="58" column="9" />
+      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562274242354">
+        <mark key="'" line="64" column="10" />
+        <mark key="[" line="91" column="15" />
+        <mark key="]" line="91" column="4" />
+        <mark key="^" line="91" column="4" />
+        <mark key="." line="91" column="4" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
         <mark key="[" line="10" column="61" />
@@ -340,64 +340,65 @@
       <jump line="66" column="9" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="73" column="11" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="74" column="0" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="90" column="0" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="79" column="9" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="62" column="10" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: DataFrame</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>: DataFrame</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>summa</text>
+        <text>r599</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAucmVhZENTVigiZGF0YS9kYXRhLmNzdi5neiIsIHhsZikKICAgICAgICAuYWRkQ29sdW1uKCJUaW1lc3RhbXAiKSB7IGl0WyJEYXRhIl0uYXNTdHJpbmdzKCkubWFweyBmbXQucGFyc2UoaXQpIH0gfQo=</text>
+        <text encoding="base64">ICAgIGdldCgiL2xpc3QiKSB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCByNTk5ID0gRGF0YUZyYW1lCiAgICAgICAgLnJlYWRDU1YoImRhdGEvZGF0YS5jc3YuZ3oiLCB4bGYpCiAgICAgICAgLmFkZENvbHVtbigiVGltZXN0YW1wIikgeyBpdFsiRGF0YSJdLmFzU3RyaW5ncygpLm1hcHsgZm10LnBhcnNlKGl0KSB9IH0K</text>
+        <text encoding="base64">ICAgIC8vZ3pjYXQoKQoKCgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBmbXQgPSBEYXRlVGltZUZvcm1hdHRlci5vZlBhdHRlcm4oImRkL01NL3l5eXkgSEg6bW06c3M6U1NTIikKICAgIHZhbCB4bGYgPSBDU1ZGb3JtYXQuRVhDRUwud2l0aERlbGltaXRlcignOycpLndpdGhGaXJzdFJlY29yZEFzSGVhZGVyKCkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGludGVyZXN0LmZvckVhY2gge2ZsZCAtPgogICAgICAgIGR0ZnIuZmlsdGVyIHsgaXRbIkRlc2NyaXppb25lIl0gZXEgZmxkIH0gLnNlbGVjdCgiVGltZXN0YW1wIiwgIlUuTS4iLCAiVmFsb3JlIikucHJpbnQodGl0bGUgPSBmbGQpCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICBwcmludGxuKCByNTk5Lmdyb3VwQnkoIkRlc2NyaXppb25lIikKICAgICAgICAuc3VtbWFyaXplKAogICAgICAgICAgICBDb2x1bW5Gb3JtdWxhKCJ2YWxvcmUiLCB7aXRbIkR1cmF0YSJdLm1lYW4odHJ1ZSl9KQogICAgICAgICkKICAgICkKICAgICAqLwogICAgLyoKICAgIENzdlRvQmVhbkJ1aWxkZXI8VGVzdENvbGxhdWRvPihGaWxlKCJkYXRhLzU5OS5jc3YiKS5yZWFkZXIoKSkKICAgICAgICAud2l0aFR5cGUoVGVzdENvbGxhdWRvOjpjbGFzcy5qYXZhKQogICAgICAgIC53aXRoU2tpcExpbmVzKDEpCiAgICAgICAgLndpdGhTZXBhcmF0b3IoJzsnKQogICAgICAgIC53aXRoSWdub3JlTGVhZGluZ1doaXRlU3BhY2UodHJ1ZSkKICAgICAgICAuYnVpbGQoKS5pdGVyYXRvcigpLmZvckVhY2ggewogICAgICAgICAgICBwcmludGxuKGl0KQogICAgICAgIH0KICAgICovCiAgICAvKgogICAgdmFsIGNyID0gQ1NWUmVhZGVyQnVpbGRlcihGaWxlKCJkYXRhLzU5OS5jc3YiKS5yZWFkZXIoKSkKICAgICAgICAud2l0aENTVlBhcnNlcigKICAgICAgICAgICAgQ1NWUGFyc2VyQnVpbGRlcigpCiAgICAgICAgICAgICAgICAud2l0aFNlcGFyYXRvcignOycpCiAgICAgICAgICAgICAgICAud2l0aElnbm9yZUxlYWRpbmdXaGl0ZVNwYWNlKHRydWUpLmJ1aWxkKCkKICAgICAgICApLmJ1aWxkKCkKICAgIHZhbCBoZHIgPSBjci5yZWFkTmV4dCgpCiAgICBjci5mb3JFYWNoIHsKICAgICAgICBwcmludGxuKCBoZHIuemlwKGl0KS50b01hcCgpICkKICAgIH0KICAgICovCg==</text>
+        <text encoding="base64">ICAgIGR0ZnIuZGlzdGluY3QoIkRlc2NyaXppb25lIikuc2VsZWN0KCJEZXNjcml6aW9uZSIpLnByaW50KG1heFJvd3MgPSAtMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vY29tcGlsZSgib3JnLmtub3dtLnhjaGFydDp4Y2hhcnQ6KyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIGR0ZnIuc2NoZW1hKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uU3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICAgICBkdGZyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>summa</last-search>
+      <last-search>r599</last-search>
       <last-offset />
-      <last-pattern>summa</last-pattern>
-      <last-replace>,File(&quot;data/599.csv&quot;).reader()</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-pattern>r599</last-pattern>
+      <last-replace>dtfr</last-replace>
+      <last-substitute>r599</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>art_cols</entry>
-        <entry>Qta</entry>
         <entry>sendCommand</entry>
         <entry>Send</entry>
         <entry>Api</entry>
@@ -416,6 +417,8 @@
         <entry>summar</entry>
         <entry>interest</entry>
         <entry>summa</entry>
+        <entry>group</entry>
+        <entry>r599</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
@@ -423,6 +426,7 @@
         <entry>w!</entry>
         <entry>quit</entry>
         <entry encoding="base64">JzwsJz5zOiw6LEZpbGUoImRhdGEvNTk5LmNzdiIpLnJlYWRlcigp</entry>
+        <entry>%s:r599:dtfr:g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
