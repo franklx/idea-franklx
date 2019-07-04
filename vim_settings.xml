@@ -61,6 +61,12 @@
       <file name="/Kotlin Console" timestamp="1562169482933">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/ELLECI/kjv/src/main/vue/main-ssrt-csrn.ts" timestamp="1562277045304">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="73" />
+        <mark key="^" line="0" column="73" />
+        <mark key="." line="0" column="73" />
+      </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/App.vue" timestamp="1561474807781">
         <mark key="'" line="5" column="37" />
         <mark key="[" line="2" column="21" />
@@ -218,6 +224,12 @@
         <mark key="^" line="8" column="40" />
         <mark key="." line="8" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/ELLECI/kjv/src/main/vue/main-ssrt-csrn.html" timestamp="1562277007985">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="12" column="6" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeApiN.kt" timestamp="1561796837215">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="90" column="0" />
@@ -343,10 +355,11 @@
       <jump line="90" column="0" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="79" column="9" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="62" column="10" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="4" column="16" filename="$USER_HOME$/Projects/ELLECI/kjv/src/main/vue/main-ssrt-csrn.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PC9odG1sPgo=</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -358,31 +371,31 @@
         <text encoding="base64">ICAgIGdldCgiL2xpc3QiKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9odG1sPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vZ3pjYXQoKQoKCgoK</text>
+        <text encoding="base64">PC9ib2R5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludGVyZXN0LmZvckVhY2gge2ZsZCAtPgogICAgICAgIGR0ZnIuZmlsdGVyIHsgaXRbIkRlc2NyaXppb25lIl0gZXEgZmxkIH0gLnNlbGVjdCgiVGltZXN0YW1wIiwgIlUuTS4iLCAiVmFsb3JlIikucHJpbnQodGl0bGUgPSBmbGQpCiAgICB9Cg==</text>
+        <text encoding="base64">PC9oZWFkPgo8Ym9keT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGR0ZnIuZGlzdGluY3QoIkRlc2NyaXppb25lIikuc2VsZWN0KCJEZXNjcml6aW9uZSIpLnByaW50KG1heFJvd3MgPSAtMSkK</text>
+        <text encoding="base64">ICAgIDxtZXRhIGNoYXJzZXQ9IlVURi04Ij4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGhlYWQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGR0ZnIuc2NoZW1hKCkK</text>
+        <text encoding="base64">PGh0bWwgbGFuZz0iZW4iPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkdGZyLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
