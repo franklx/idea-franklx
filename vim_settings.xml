@@ -23,11 +23,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562228334285">
+      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562239573005">
         <mark key="'" line="48" column="4" />
-        <mark key="[" line="17" column="74" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="8" />
+        <mark key="^" line="22" column="14" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
         <mark key="[" line="10" column="61" />
@@ -193,10 +194,11 @@
         <mark key="^" line="26" column="5" />
         <mark key="." line="26" column="5" />
       </file>
-      <file name="P:/TORP/stchart/build.gradle.kts" timestamp="1562227097842">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="P:/TORP/stchart/build.gradle.kts" timestamp="1562239984721">
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="25" column="44" />
+        <mark key="." line="25" column="44" />
+        <mark key="^" line="25" column="44" />
       </file>
       <file name="/Kotlin Console.kts" timestamp="1562169354190">
         <mark key="]" line="2" column="0" />
@@ -320,11 +322,11 @@
       <jump line="49" column="4" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkUmVhZGVyKCkuCg==</text>
+      <register name="&quot;" type="4">
+        <text>0.5</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>0.5</text>
       </register>
       <register name="/" type="4">
         <text>List</text>
@@ -333,31 +335,31 @@
         <text encoding="base64">ICAgICAgICAucmVhZENTVigiZGF0YS82MDguY3N2IiwgQ1NWRm9ybWF0LkVYQ0VMLndpdGhEZWxpbWl0ZXIoJzsnKSAud2l0aEZpcnN0UmVjb3JkQXNIZWFkZXIoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkUmVhZGVyKCkuCg==</text>
+        <text encoding="base64">ICAgIFN0cmVhbS5vZigpIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJlYWRlcigpCg==</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkUmVhZGVyKCkuCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIFJlYWRlcigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkUmVhZGVyKCkKICAgIEZpbGUoKQo=</text>
+        <text encoding="base64">ICAgIFJlYWRlcigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuYXBwZGQK</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkUmVhZGVyKCkKICAgIEZpbGUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAucmVhZENTVigiZGF0YS82MDguY3N2IiwgeGxmKQo=</text>
+        <text encoding="base64">ICAgICAgICAuYXBwZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vY29tcGlsZSgiY29tLm9wZW5jc3Y6b3BlbmNzdjorIikKICAgIC8vY29tcGlsZSgibmV0LnNmLnN1cGVyY3N2OnN1cGVyLWNzdjorIikK</text>
+        <text encoding="base64">ICAgICAgICAucmVhZENTVigiZGF0YS82MDguY3N2IiwgeGxmKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
+        <text encoding="base64">ICAgIC8vY29tcGlsZSgiY29tLm9wZW5jc3Y6b3BlbmNzdjorIikKICAgIC8vY29tcGlsZSgibmV0LnNmLnN1cGVyY3N2OnN1cGVyLWNzdjorIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZQppbXBvcnQgamF2YS5zcWwuVGltZXN0YW1wCmltcG9ydCBqYXZhLnRpbWUuTG9jYWxEYXRlCmltcG9ydCBqYXZhLnRpbWUuTG9jYWxEYXRlVGltZQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
