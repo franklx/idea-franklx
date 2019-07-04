@@ -23,11 +23,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562191500360">
-        <mark key="[" line="42" column="61" />
-        <mark key="]" line="42" column="71" />
-        <mark key="^" line="42" column="71" />
-        <mark key="." line="42" column="71" />
+      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562227837207">
+        <mark key="'" line="46" column="4" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
         <mark key="[" line="10" column="61" />
@@ -193,10 +193,10 @@
         <mark key="^" line="26" column="5" />
         <mark key="." line="26" column="5" />
       </file>
-      <file name="P:/TORP/stchart/build.gradle.kts" timestamp="1562224341522">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="24" />
-        <mark key="." line="7" column="24" />
+      <file name="P:/TORP/stchart/build.gradle.kts" timestamp="1562227097842">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/Kotlin Console.kts" timestamp="1562169354190">
         <mark key="]" line="2" column="0" />
@@ -317,46 +317,47 @@
       <jump line="459" column="50" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
       <jump line="460" column="56" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
       <jump line="464" column="50" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
+      <jump line="49" column="4" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Timestamp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkUmVhZGVyKCkuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Timestamp</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>List</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;Timestamp&quot;, &quot;U.M.&quot;, &quot;Valore&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAucmVhZENTVigiZGF0YS82MDguY3N2IiwgQ1NWRm9ybWF0LkVYQ0VMLndpdGhEZWxpbWl0ZXIoJzsnKSAud2l0aEZpcnN0UmVjb3JkQXNIZWFkZXIoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sdW1uRm9ybXVsYSgidGltZXN0YW1wIiwge2l0WyJ0aW1lc3RhbXAiXS5nZXQoMCl9KSwK</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkUmVhZGVyKCkuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sdW1uRm9ybXVsYSgidmFsb3JlIiwge2l0WyJEdXJhdGEiXS5tZWFuKHRydWUpfSksCg==</text>
+        <text encoding="base64">ICAgIFJlYWRlcigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBwID0gcjU5OQogICAgcC5zY2hlbWEoKQo=</text>
+        <text encoding="base64">ICAgIFJlYWRlcigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCByNTk5ID0gRGF0YUZyYW1lLnJlYWRDU1YoImRhdGEvNjA4LmNzdiIsIENTVkZvcm1hdC5FWENFTC53aXRoRGVsaW1pdGVyKCc7Jykud2l0aEZpcnN0UmVjb3JkQXNIZWFkZXIoKSkK</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkUmVhZGVyKCkKICAgIEZpbGUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL2ZtdC5wYXJzZShpdFsiRGF0YSJdKX0pCg==</text>
+        <text encoding="base64">ICAgICAgICAuYXBwZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBwID0gcjU5OS4KICAgICAgICAvL2ZtdC5wYXJzZShpdFsiRGF0YSJdKX0pCiAgICBwLnNjaGVtYSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAucmVhZENTVigiZGF0YS82MDguY3N2IiwgeGxmKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBwID0gcjU5OS5hZGRDb2x1bW4oInRpbWVzdGFtcCIgdG8ge2l0WyJEYXRhIl0ubmFtZX0pCg==</text>
+        <text encoding="base64">ICAgIC8vY29tcGlsZSgiY29tLm9wZW5jc3Y6b3BlbmNzdjorIikKICAgIC8vY29tcGlsZSgibmV0LnNmLnN1cGVyY3N2OnN1cGVyLWNzdjorIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHI1OTkucmVtbwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZtdC5kZAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZQppbXBvcnQgamF2YS5zcWwuVGltZXN0YW1wCmltcG9ydCBqYXZhLnRpbWUuTG9jYWxEYXRlCmltcG9ydCBqYXZhLnRpbWUuTG9jYWxEYXRlVGltZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
