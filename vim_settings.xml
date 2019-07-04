@@ -23,12 +23,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562247223476">
-        <mark key="'" line="15" column="17" />
-        <mark key="[" line="38" column="13" />
-        <mark key="]" line="39" column="3" />
-        <mark key="." line="39" column="3" />
-        <mark key="^" line="39" column="3" />
+      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562252178524">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
         <mark key="[" line="10" column="61" />
@@ -194,11 +193,11 @@
         <mark key="^" line="26" column="5" />
         <mark key="." line="26" column="5" />
       </file>
-      <file name="P:/TORP/stchart/build.gradle.kts" timestamp="1562239984721">
-        <mark key="[" line="25" column="44" />
-        <mark key="]" line="25" column="44" />
-        <mark key="." line="25" column="44" />
-        <mark key="^" line="25" column="44" />
+      <file name="P:/TORP/stchart/build.gradle.kts" timestamp="1562252187230">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+        <mark key="^" line="25" column="5" />
       </file>
       <file name="/Kotlin Console.kts" timestamp="1562169354190">
         <mark key="]" line="2" column="0" />
@@ -334,55 +333,60 @@
       <jump line="174" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
       <jump line="108" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
       <jump line="15" column="17" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="38" column="12" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="77" column="9" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="66" column="9" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="73" column="11" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="74" column="0" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vZ3pjYXQoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGtyYXZpcy4qCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>Valore</text>
       </register>
       <register name="/" type="4">
-        <text>gz</text>
+        <text>summa</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpdC5idWZmZXJlZFJlYWRlcigpLnJlYWRMaW5lKCkK</text>
+      <register name="0" type="4">
+        <text>&quot;Max recorded noise level&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vZ3pjYXQoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGtyYXZpcy4qCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAucGxvdCh4PSJEYXRhIiwgeT0iVmFsb3JlIikKICAgICAgICAuZ2VvbUxpbmUoKQogICAgZy5zaG93KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGcub3V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWFkTGluZSgpIAo=</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91Zi4K</text>
+        <text encoding="base64">ICAgICAgICAuc2F2ZSgidGVzdC5wbmciKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbmYubmEK</text>
+        <text encoding="base64">ICAgICAgICAuc2hvdygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vb3VmLndyaXRlKGl0LnRvQnl0ZUFycmF5KCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91Zi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91Zi53cml0ZSgiXHJcbiIpCg==</text>
+        <text encoding="base64">ICAgIHI1OTkuZmlsdGVyIHsgaXRbIkRlc2NyaXppb25lIl0gYW55b2YgaW50ZXJlc3QgfS5zZWxlY3QoIkRlc2NyaXppb25lIiwgIlUuTS4iLCAiVmFsb3JlIikucHJpbnQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>gz</last-search>
+      <last-search>summa</last-search>
       <last-offset />
-      <last-pattern>gz</last-pattern>
+      <last-pattern>summa</last-pattern>
       <last-replace>,File(&quot;data/599.csv&quot;).reader()</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -390,9 +394,6 @@
     </search>
     <history>
       <history-search>
-        <entry>state</entry>
-        <entry>hint</entry>
-        <entry>v-mask</entry>
         <entry>art_cols</entry>
         <entry>Qta</entry>
         <entry>sendCommand</entry>
@@ -410,6 +411,9 @@
         <entry>reader</entry>
         <entry>records</entry>
         <entry>gz</entry>
+        <entry>summar</entry>
+        <entry>interest</entry>
+        <entry>summa</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
