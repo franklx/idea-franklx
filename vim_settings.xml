@@ -23,11 +23,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562254551435">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562273332235">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="58" column="9" />
+        <mark key="]" line="58" column="9" />
+        <mark key="^" line="58" column="29" />
+        <mark key="." line="58" column="9" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
         <mark key="[" line="10" column="61" />
@@ -173,6 +174,7 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/DataFrame.kt" timestamp="1562272931152" />
       <file name="P:/ELLECI/kojovue/src/main/vue/components/PlainTable.vue" timestamp="1561474653772">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -340,44 +342,44 @@
       <jump line="74" column="0" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vY29tcGlsZSgib3JnLmtub3dtLnhjaGFydDp4Y2hhcnQ6KyIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>: DataFrame</text>
       </register>
       <register name="-" type="4">
-        <text>.asDoubles()</text>
+        <text>: DataFrame</text>
       </register>
       <register name="/" type="4">
         <text>summa</text>
       </register>
-      <register name="0" type="4">
-        <text>g[&quot;Data&quot;].asDoubles()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAucmVhZENTVigiZGF0YS9kYXRhLmNzdi5neiIsIHhsZikKICAgICAgICAuYWRkQ29sdW1uKCJUaW1lc3RhbXAiKSB7IGl0WyJEYXRhIl0uYXNTdHJpbmdzKCkubWFweyBmbXQucGFyc2UoaXQpIH0gfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vY29tcGlsZSgib3JnLmtub3dtLnhjaGFydDp4Y2hhcnQ6KyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIHZhbCByNTk5ID0gRGF0YUZyYW1lCiAgICAgICAgLnJlYWRDU1YoImRhdGEvZGF0YS5jc3YuZ3oiLCB4bGYpCiAgICAgICAgLmFkZENvbHVtbigiVGltZXN0YW1wIikgeyBpdFsiRGF0YSJdLmFzU3RyaW5ncygpLm1hcHsgZm10LnBhcnNlKGl0KSB9IH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uU3RyZWFtCg==</text>
+        <text encoding="base64">ICAgIHZhbCBmbXQgPSBEYXRlVGltZUZvcm1hdHRlci5vZlBhdHRlcm4oImRkL01NL3l5eXkgSEg6bW06c3M6U1NTIikKICAgIHZhbCB4bGYgPSBDU1ZGb3JtYXQuRVhDRUwud2l0aERlbGltaXRlcignOycpLndpdGhGaXJzdFJlY29yZEFzSGVhZGVyKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5rbm93bS54Y2hhcnQuU3dpbmdXcmFwcGVyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5rbm93bS54Y2hhcnQuUXVpY2tDaGFydAo=</text>
+        <text encoding="base64">ICAgIGdldGRkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vY29tcGlsZSgiY29tLmdpdGh1Yi5ob2xnZXJicmFuZGw6a3JhdmlzOisiKQo=</text>
+        <text encoding="base64">ICAgIC8qCiAgICBwcmludGxuKCByNTk5Lmdyb3VwQnkoIkRlc2NyaXppb25lIikKICAgICAgICAuc3VtbWFyaXplKAogICAgICAgICAgICBDb2x1bW5Gb3JtdWxhKCJ2YWxvcmUiLCB7aXRbIkR1cmF0YSJdLm1lYW4odHJ1ZSl9KQogICAgICAgICkKICAgICkKICAgICAqLwogICAgLyoKICAgIENzdlRvQmVhbkJ1aWxkZXI8VGVzdENvbGxhdWRvPihGaWxlKCJkYXRhLzU5OS5jc3YiKS5yZWFkZXIoKSkKICAgICAgICAud2l0aFR5cGUoVGVzdENvbGxhdWRvOjpjbGFzcy5qYXZhKQogICAgICAgIC53aXRoU2tpcExpbmVzKDEpCiAgICAgICAgLndpdGhTZXBhcmF0b3IoJzsnKQogICAgICAgIC53aXRoSWdub3JlTGVhZGluZ1doaXRlU3BhY2UodHJ1ZSkKICAgICAgICAuYnVpbGQoKS5pdGVyYXRvcigpLmZvckVhY2ggewogICAgICAgICAgICBwcmludGxuKGl0KQogICAgICAgIH0KICAgICovCiAgICAvKgogICAgdmFsIGNyID0gQ1NWUmVhZGVyQnVpbGRlcihGaWxlKCJkYXRhLzU5OS5jc3YiKS5yZWFkZXIoKSkKICAgICAgICAud2l0aENTVlBhcnNlcigKICAgICAgICAgICAgQ1NWUGFyc2VyQnVpbGRlcigpCiAgICAgICAgICAgICAgICAud2l0aFNlcGFyYXRvcignOycpCiAgICAgICAgICAgICAgICAud2l0aElnbm9yZUxlYWRpbmdXaGl0ZVNwYWNlKHRydWUpLmJ1aWxkKCkKICAgICAgICApLmJ1aWxkKCkKICAgIHZhbCBoZHIgPSBjci5yZWFkTmV4dCgpCiAgICBjci5mb3JFYWNoIHsKICAgICAgICBwcmludGxuKCBoZHIuemlwKGl0KS50b01hcCgpICkKICAgIH0KICAgICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBjaCA9IFF1aWNrQ2hhcnQuZ2V0Q2hhcnQoImVzZW1waW8iLCJ0ZW1wbyIsIm5vaXNlIiwgIm5vaXNlIiwgZ1siRGF0YSJdLmFzRG91YmxlcygpLCBnWyJNYXggcmVjb3JkZWQgbm9pc2UgbGV2ZWwiXS5hc0RvdWJsZXMoKSkK</text>
+        <text encoding="base64">ICAgIC8vY29tcGlsZSgib3JnLmtub3dtLnhjaGFydDp4Y2hhcnQ6KyIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uU3RyZWFtCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
