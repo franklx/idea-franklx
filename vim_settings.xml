@@ -143,7 +143,7 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563372305493">
+      <file name="/Dummy.txt" timestamp="1563373064650">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" timestamp="1562166422947">
@@ -161,6 +161,12 @@
         <mark key="]" line="16" column="3" />
         <mark key="." line="16" column="3" />
         <mark key="^" line="16" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/test.html" timestamp="1563373359935">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="46" />
+        <mark key="^" line="12" column="49" />
+        <mark key="." line="12" column="46" />
       </file>
       <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561715020860">
         <mark key="'" line="18" column="23" />
@@ -359,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>r599</text>
