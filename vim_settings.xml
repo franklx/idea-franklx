@@ -57,6 +57,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="18" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/Main.vue" timestamp="1563386855627">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1553436251359">
         <mark key="'" line="62" column="32" />
         <mark key="[" line="3" column="21" />
@@ -137,6 +143,12 @@
         <mark key="." line="19" column="41" />
         <mark key="^" line="19" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563386784963">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+      </file>
       <file name="C:/gtk-build/build/x64/release/gtk/build/win32/introspection.body.mak" timestamp="1560720407325">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="3" column="15" />
@@ -162,11 +174,10 @@
         <mark key="." line="16" column="3" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/test.html" timestamp="1563373359935">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="46" />
-        <mark key="^" line="12" column="49" />
-        <mark key="." line="12" column="46" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/test.html" timestamp="1563386901487">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="46" />
+        <mark key="." line="8" column="46" />
       </file>
       <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561715020860">
         <mark key="'" line="18" column="23" />
@@ -362,13 +373,14 @@
       <jump line="62" column="10" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="4" column="16" filename="$USER_HOME$/Projects/ELLECI/kjv/src/main/vue/main-ssrt-csrn.html" />
       <jump line="27" column="10" filename="P:/TORP/stchart/src/main/vue/Main.vue" />
+      <jump line="12" column="13" filename="$USER_HOME$/Projects/TORP/stchart/test.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>-main</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>-main</text>
       </register>
       <register name="/" type="4">
         <text>r599</text>
@@ -377,32 +389,31 @@
         <text encoding="base64">ICAgIGltcG9ydCB7IENvbXBvbmVudCwgUHJvcCwgVnVlIH0gZnJvbSAndnVlLXByb3BlcnR5LWRlY29yYXRvcicKICAgIC8vaW1wb3J0IEJDaGVja2JveCBmcm9tICJidWVmeS9zcmMvY29tcG9uZW50cy9jaGVja2JveC9DaGVja2JveC52dWUiOwogICAgQENvbXBvbmVudCh7CiAgICAgICAgLy9jb21wb25lbnRzOiB7QkNoZWNrYm94fQogICAgfSkKICAgIGV4cG9ydCBkZWZhdWx0IGNsYXNzIEFydEZvcm0gZXh0ZW5kcyBWdWUgewogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYocm9vdCkK</text>
+        <text encoding="base64">ICAgICAgICA8c3RjaGFydC1tYWluPjwvc3RjaGFydC1tYWluPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4cG9ydCBkZWZhdWx0IGNsYXNzIEFydEZvcm0gZXh0ZW5kcyBWdWUgewogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8TWFpbj48L01haW4+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8TWFpbj48L01haW4+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHNjcmlwdCBsYW5nPSJqcyI+CmltcG9ydCBMYW1wIGZyb20gJy4vY29tcG9uZW50cy9MYW1wJwppbXBvcnQgeyBWdWUsIENvbXBvbmVudCwgUHJvcCwgRW1pdCB9IGZyb20gJ3Z1ZS1wcm9wZXJ0eS1kZWNvcmF0b3InCgpAQ29tcG9uZW50KHtjb21wb25lbnRzOiB7TGFtcH19KQpleHBvcnQgZGVmYXVsdCBjbGFzcyBBcHAgZXh0ZW5kcyBWdWUgewogICAgbl9sYW1wcyA9IDUwCiAgICBhZGRycyA9IFtdCiAgICBzdGF0ZXMgPSBbXQogICAgZ2V0X2xpc3QoKSB7CiAgICAgICAgdGhpcy5heGlvcy5nZXQoIi96Yi9saXN0IikudGhlbihyID0+IHsKICAgICAgICAgICAgZm9yKGxldCBbaSxuXSBvZiByLmRhdGEuZW50cmllcygpKSB7CiAgICAgICAgICAgICAgICB0aGlzLiRzZXQodGhpcy5hZGRycywgaSsxLCBuLmFkZHIpCiAgICAgICAgICAgICAgICB0aGlzLiRzZXQodGhpcy5zdGF0ZXMsIGkrMSwgbi5zdGF0ZSkKICAgICAgICAgICAgfQogICAgICAgIH0pCiAgICB9CiAgICBtb3VudGVkICgpIHsKICAgICAgICB0aGlzLmdldF9saXN0KCkKICAgICAgICB0aGlzLiRzc2UoIi9zc2UiLCB7Zm9ybWF0OiAicGxhaW4ifSkKICAgICAgICAgICAgLnRoZW4oc3NlID0+IHsKICAgICAgICAgICAgICAgIHNzZS5zdWJzY3JpYmUoJycsIGRhdGEgPT4gewogICAgICAgICAgICAgICAgICAgIHRoaXMuZ2V0X2xpc3QoKQogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfSkKICAgIH0KfQo8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJidWlsZC9ub2RlL2Fzc2V0cy9zdGNoYXJ0LU1haW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubmF2YmFyLWl0ZW0odG89Ii9wcmVzY3JpemlvbmUiKSBwcmVzY3JpemlvbmUK</text>
+        <text encoding="base64">PHNjcmlwdD4KICAgIGltcG9ydCBWdWUgZnJvbSAidnVlIjsKICAgIGltcG9ydCB7Q29tcG9uZW50fSBmcm9tICJ2dWUtY2xhc3MtY29tcG9uZW50IjsKICAgIGltcG9ydCBNYWluIGZyb20gIi4vc3JjL21haW4vdnVlL01haW4iOwogICAgQENvbXBvbmVudCh7CiAgICAgICAgY29tcG9uZW50czoge01haW59CiAgICB9KQogICAgZXhwb3J0IGRlZmF1bHQgY2xhc3MgdGVzdCBleHRlbmRzIFZ1ZSB7CiAgICB9Cjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="7" type="8">
-        <text>router-link
-router-link</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL3VucGtnLmNvbS92dWUiPjwvc2NyaXB0PgogICAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3dlYmNvbXBvbmVudHNqcy8xLjIuMC93ZWJjb21wb25lbnRzLWxvYWRlci5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHRlbXBsYXRlIGxhbmc9InB1ZyI+CiAgICBzZWN0aW9uI2FwcC5zZWN0aW9uLmlzLXVuc2VsZWN0YWJsZQogICAgICAgIGRpdi5jb250YWluZXIKICAgICAgICAgICAgZGl2LmNvbHVtbnMuaXMtbXVsdGlsaW5lLmlzLW1vYmlsZQogICAgICAgICAgICAgICAgZGl2LmNvbHVtbi5pcy1uYXJyb3codi1mb3I9ImwgaW4gbl9sYW1wcyIpCiAgICAgICAgICAgICAgICAgICAgTGFtcCg6ZGVzY3JpcHRpb249JyJMYW1wICIgKyBsJywgOmFkZHI9ImFkZHJzW2xdIiwgOnN0YXR1cz0ic3RhdGVzW2xdIikKICAgICAgICAgICAgYnIKICAgICAgICAgICAgYnV0dHVuLmJ1dHRvbihAY2xpY2s9ImdldF9saXN0IikgUmVmcmVzaAogICAgICAgICAgICAvLyBidXR0b24uYnV0dG9uKEBjbGljaz0iJHNldChwb3dlcnMsIDMsIHBvd2Vyc1szXSArIDEwKSIpIEluY3JlbWVudAo8L3RlbXBsYXRlPgoK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvbnBtL3Z1ZS9kaXN0L3Z1ZS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxNYWluPjwvTWFpbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
