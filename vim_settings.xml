@@ -15,11 +15,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/Main.vue" timestamp="1563401134452">
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/Main.vue" timestamp="1563403689586">
         <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="22" column="28" />
-        <mark key="." line="18" column="0" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="18" column="27" />
       </file>
       <file name="/Kotlin Console" timestamp="1562169482933">
         <mark key="[" line="0" column="0" />
@@ -52,11 +52,10 @@
       <file name="/run/user/1000/gvfs/smb-share:server=hbench,share=projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1562953988425">
         <mark key="[" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563400764810">
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563403693799">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="P:/TORP/stchart/src/main/vue/Main.vue" timestamp="1562330687032">
         <mark key="'" line="15" column="10" />
@@ -71,11 +70,11 @@
         <mark key="." line="19" column="41" />
         <mark key="^" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563386784963">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563403296695">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="39" />
+        <mark key="^" line="20" column="39" />
+        <mark key="." line="20" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" timestamp="1562166422947">
         <mark key="[" line="26" column="4" />
@@ -198,11 +197,10 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" timestamp="1563401074816">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" timestamp="1563403282274">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1563373064650">
         <mark key="[" line="0" column="0" />
@@ -217,10 +215,11 @@
         <mark key="." line="16" column="3" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/test.html" timestamp="1563386901487">
-        <mark key="[" line="8" column="46" />
-        <mark key="]" line="8" column="46" />
-        <mark key="." line="8" column="46" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/test.html" timestamp="1563403396913">
+        <mark key="[" line="11" column="68" />
+        <mark key="]" line="11" column="68" />
+        <mark key="." line="11" column="68" />
+        <mark key="^" line="8" column="53" />
       </file>
       <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561715020860">
         <mark key="'" line="18" column="23" />
@@ -389,43 +388,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vaW1wb3J0ICcuL3BsdWdpbnMvYXhpb3MnCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCAnLi4vcGx1Z2lucy9idWVmeScK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>r599</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL3BsdWdpbnMvYnVlZnknCmltcG9ydCAnLi9wbHVnaW5zL2F4aW9zJwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vaW1wb3J0ICcuL3BsdWdpbnMvYXhpb3MnCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIGltcG9ydCAnLi4vcGx1Z2lucy9idWVmeScK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAnLi9wbHVnaW5zL2J1ZWZ5JwogICAgaW1wb3J0ICcuL3BsdWdpbnMvYXhpb3MnCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dmFyIHJvb3QgPSB7ZGF0YXNldDoge2NvbXBvbmVudDogIk1haW4ifX0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBUZXN0IGZyb20gIk1hIgo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8c3RjaGFydC1tYWluPjwvc3RjaGFydC1tYWluPgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCAnLi4vcGx1Z2lucy9idWVmeScK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vaW1wb3J0ICcuL3BsdWdpbnMvYXhpb3MnCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCAnLi9wbHVnaW5zL2J1ZWZ5Jwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IE1haW4gZnJvbSAnLi9NYWluLnZ1ZScK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8TWFpbj48L01haW4+Cg==</text>
+        <text encoding="base64">cm9vdC5kYXRhc2V0LmNvbXBvbmVudCA9ICJNYWluIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8TWFpbj48L01haW4+Cg==</text>
+        <text encoding="base64">ICAgIC8vaW1wb3J0ICcuL3BsdWdpbnMvYXhpb3MnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
