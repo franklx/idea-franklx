@@ -3,6 +3,117 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="P:/ELLECI/kjv/src/main/vue/main.ts" timestamp="1561673316375">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
+      <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
+        <mark key="[" line="10" column="61" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/Main.vue" timestamp="1563401134452">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="22" column="28" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="/Kotlin Console" timestamp="1562169482933">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" timestamp="1561474515653">
+        <mark key="'" line="85" column="30" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="90" column="49" />
+      </file>
+      <file name="P:/ELLECI/kojovue/src/main/vue/vuetify.App.vue" timestamp="1561495613630">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="P:/ELLECI/kojovue/src/main/vue/vuetify.main.ts" timestamp="1561495753958">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/ELLECI/kjv/build.gradle.kts" timestamp="1562224542725">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="77" column="60" />
+        <mark key="." line="7" column="24" />
+      </file>
+      <file name="/run/user/1000/gvfs/smb-share:server=hbench,share=projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1562953988425">
+        <mark key="[" line="21" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563400764810">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+      </file>
+      <file name="P:/TORP/stchart/src/main/vue/Main.vue" timestamp="1562330687032">
+        <mark key="'" line="15" column="10" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="22" column="52" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562182493112">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+        <mark key="^" line="19" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563386784963">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" timestamp="1562166422947">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="5" />
+        <mark key="^" line="26" column="5" />
+        <mark key="." line="26" column="5" />
+      </file>
+      <file name="P:/EVAL/kotlin/jooby/src/main/conf/application.conf" timestamp="1561295151618">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+      </file>
+      <file name="P:/TORP/stchart/build.gradle.kts" timestamp="1562272074268">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="38" column="3" />
+      </file>
+      <file name="P:/ELLECI/kjv/src/main/vue/plugins/buefy.ts" timestamp="1561712628083">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="37" />
+        <mark key="^" line="8" column="40" />
+        <mark key="." line="8" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/ELLECI/kjv/vue.config.js" timestamp="1561724819784">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/COBI/ktorch/build.gradle.kts" timestamp="1562224527327">
+        <mark key="'" line="7" column="22" />
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="58" column="60" />
+        <mark key="." line="7" column="24" />
+      </file>
       <file name="P:/TORP/stchart/package.json" timestamp="1562329188904">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="4" />
@@ -15,12 +126,6 @@
         <mark key="]" line="24" column="41" />
         <mark key="." line="24" column="41" />
         <mark key="^" line="24" column="41" />
-      </file>
-      <file name="P:/ELLECI/kjv/src/main/vue/main.ts" timestamp="1561673316375">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="9" />
-        <mark key="^" line="6" column="9" />
-        <mark key="." line="6" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/ELLECI/kjv/src/main/kotlin/kjv/App.kt" timestamp="1561932251421">
         <mark key="[" line="37" column="26" />
@@ -41,12 +146,6 @@
         <mark key="." line="6" column="61" />
         <mark key="^" line="6" column="61" />
       </file>
-      <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
-        <mark key="[" line="10" column="61" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-      </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/ArtForm.vue" timestamp="1561476062657">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="29" />
@@ -57,12 +156,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="18" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/Main.vue" timestamp="1563386855627">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-      </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1553436251359">
         <mark key="'" line="62" column="32" />
         <mark key="[" line="3" column="21" />
@@ -70,27 +163,11 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="/Kotlin Console" timestamp="1562169482933">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/ELLECI/kjv/src/main/vue/main-ssrt-csrn.html" timestamp="1562277007985">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="12" column="6" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" timestamp="1561474515653">
-        <mark key="'" line="85" column="30" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="90" column="49" />
-      </file>
-      <file name="P:/ELLECI/kojovue/src/main/vue/vuetify.App.vue" timestamp="1561495613630">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/App.vue" timestamp="1561474807781">
         <mark key="'" line="5" column="37" />
@@ -99,33 +176,11 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="P:/ELLECI/kojovue/src/main/vue/vuetify.main.ts" timestamp="1561495753958">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-      </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/main.ts" timestamp="1561447882729">
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="64" />
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="64" />
-      </file>
-      <file name="$USER_HOME$/Projects/ELLECI/kjv/build.gradle.kts" timestamp="1562224542725">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="77" column="60" />
-        <mark key="." line="7" column="24" />
-      </file>
-      <file name="/run/user/1000/gvfs/smb-share:server=hbench,share=projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1562953988425">
-        <mark key="[" line="21" column="39" />
-      </file>
-      <file name="P:/TORP/stchart/src/main/vue/Main.vue" timestamp="1562330687032">
-        <mark key="'" line="15" column="10" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="22" column="52" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" timestamp="1561800459269">
         <mark key="'" line="37" column="73" />
@@ -137,32 +192,20 @@
       <file name="/HTML File.txt.ft" timestamp="1555192206371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1562182493112">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="19" column="41" />
-        <mark key="." line="19" column="41" />
-        <mark key="^" line="19" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563386784963">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-      </file>
       <file name="C:/gtk-build/build/x64/release/gtk/build/win32/introspection.body.mak" timestamp="1560720407325">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="3" column="15" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" timestamp="1563401074816">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="19" />
+      </file>
       <file name="/Dummy.txt" timestamp="1563373064650">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" timestamp="1562166422947">
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="26" column="5" />
-        <mark key="^" line="26" column="5" />
-        <mark key="." line="26" column="5" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" timestamp="1562191311704">
         <mark key="'" line="464" column="50" />
@@ -207,12 +250,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" timestamp="1562242833657">
         <mark key="'" line="108" column="34" />
       </file>
-      <file name="P:/EVAL/kotlin/jooby/src/main/conf/application.conf" timestamp="1561295151618">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="29" />
-        <mark key="." line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-      </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/PlainTable.vue" timestamp="1561474653772">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -220,42 +257,17 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="12" column="13" />
       </file>
-      <file name="P:/TORP/stchart/build.gradle.kts" timestamp="1562272074268">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="38" column="3" />
-      </file>
-      <file name="P:/ELLECI/kjv/src/main/vue/plugins/buefy.ts" timestamp="1561712628083">
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="8" column="37" />
-        <mark key="^" line="8" column="40" />
-        <mark key="." line="8" column="37" />
-      </file>
       <file name="P:/EVAL/kotlin/jooby/src/main/kotlin/example/jooby/App.kt" timestamp="1561293842001">
         <mark key="[" line="36" column="8" />
         <mark key="]" line="36" column="8" />
         <mark key="." line="36" column="8" />
         <mark key="^" line="29" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/ELLECI/kjv/vue.config.js" timestamp="1561724819784">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="5" column="9" />
-      </file>
       <file name="$USER_HOME$/Projects/ELLECI/kjv/src/main/vue/main-ssrt-csrn.ts" timestamp="1562277045304">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="73" />
         <mark key="^" line="0" column="73" />
         <mark key="." line="0" column="73" />
-      </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/build.gradle.kts" timestamp="1562224527327">
-        <mark key="'" line="7" column="22" />
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="58" column="60" />
-        <mark key="." line="7" column="24" />
       </file>
       <file name="P:/ELLECI/kojovue/vue.config.js" timestamp="1561454807957">
         <mark key="[" line="4" column="31" />
@@ -376,44 +388,44 @@
       <jump line="12" column="13" filename="$USER_HOME$/Projects/TORP/stchart/test.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-main</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vaW1wb3J0ICcuL3BsdWdpbnMvYXhpb3MnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-main</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>r599</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB7IENvbXBvbmVudCwgUHJvcCwgVnVlIH0gZnJvbSAndnVlLXByb3BlcnR5LWRlY29yYXRvcicKICAgIC8vaW1wb3J0IEJDaGVja2JveCBmcm9tICJidWVmeS9zcmMvY29tcG9uZW50cy9jaGVja2JveC9DaGVja2JveC52dWUiOwogICAgQENvbXBvbmVudCh7CiAgICAgICAgLy9jb21wb25lbnRzOiB7QkNoZWNrYm94fQogICAgfSkKICAgIGV4cG9ydCBkZWZhdWx0IGNsYXNzIEFydEZvcm0gZXh0ZW5kcyBWdWUgewogICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0ICcuL3BsdWdpbnMvYnVlZnknCmltcG9ydCAnLi9wbHVnaW5zL2F4aW9zJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8c3RjaGFydC1tYWluPjwvc3RjaGFydC1tYWluPgo=</text>
+        <text encoding="base64">ICAgIC8vaW1wb3J0ICcuL3BsdWdpbnMvYXhpb3MnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCAnLi4vcGx1Z2lucy9idWVmeScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8TWFpbj48L01haW4+Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCAnLi9wbHVnaW5zL2J1ZWZ5JwogICAgaW1wb3J0ICcuL3BsdWdpbnMvYXhpb3MnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8TWFpbj48L01haW4+Cg==</text>
+        <text encoding="base64">dmFyIHJvb3QgPSB7ZGF0YXNldDoge2NvbXBvbmVudDogIk1haW4ifX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJidWlsZC9ub2RlL2Fzc2V0cy9zdGNoYXJ0LU1haW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBUZXN0IGZyb20gIk1hIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAgIGltcG9ydCBWdWUgZnJvbSAidnVlIjsKICAgIGltcG9ydCB7Q29tcG9uZW50fSBmcm9tICJ2dWUtY2xhc3MtY29tcG9uZW50IjsKICAgIGltcG9ydCBNYWluIGZyb20gIi4vc3JjL21haW4vdnVlL01haW4iOwogICAgQENvbXBvbmVudCh7CiAgICAgICAgY29tcG9uZW50czoge01haW59CiAgICB9KQogICAgZXhwb3J0IGRlZmF1bHQgY2xhc3MgdGVzdCBleHRlbmRzIFZ1ZSB7CiAgICB9Cjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8c3RjaGFydC1tYWluPjwvc3RjaGFydC1tYWluPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL3VucGtnLmNvbS92dWUiPjwvc2NyaXB0PgogICAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3dlYmNvbXBvbmVudHNqcy8xLjIuMC93ZWJjb21wb25lbnRzLWxvYWRlci5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvbnBtL3Z1ZS9kaXN0L3Z1ZS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8TWFpbj48L01haW4+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxNYWluPjwvTWFpbj4K</text>
+        <text encoding="base64">ICAgICAgICA8TWFpbj48L01haW4+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
