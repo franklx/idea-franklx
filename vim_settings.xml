@@ -65,8 +65,8 @@
         <mark key="^" line="22" column="52" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563447502963">
-        <mark key="'" line="40" column="11" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563450150635">
+        <mark key="'" line="68" column="29" />
         <mark key="[" line="74" column="25" />
         <mark key="]" line="74" column="28" />
         <mark key="." line="74" column="28" />
@@ -287,7 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="5" filename="P:/EVAL/kotlin/jooby/build.gradle.kts" />
       <jump line="41" column="29" filename="P:/EVAL/kotlin/jooby/build.gradle.kts" />
       <jump line="19" column="13" filename="P:/ELLECI/kojovue/src/main/vue/App.vue" />
       <jump line="67" column="79" filename="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" />
@@ -387,6 +386,7 @@
       <jump line="13" column="14" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="36" column="35" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="39" column="11" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="68" column="29" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -396,7 +396,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>Data</text>
+        <text>group</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vY29tcGlsZSgib3JnLmFwYWNoZS5jb21tb25zOmNvbW1vbnMtY3N2OisiKQo=</text>
@@ -433,9 +433,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Data</last-search>
+      <last-search>group</last-search>
       <last-offset />
-      <last-pattern>Data</last-pattern>
+      <last-pattern>group</last-pattern>
       <last-replace>dtfr</last-replace>
       <last-substitute>r599</last-substitute>
       <last-dir>1</last-dir>
@@ -459,10 +459,10 @@
         <entry>summar</entry>
         <entry>interest</entry>
         <entry>summa</entry>
-        <entry>group</entry>
         <entry>r599</entry>
         <entry>DAta</entry>
         <entry>Data</entry>
+        <entry>group</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
