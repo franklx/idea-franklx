@@ -70,11 +70,11 @@
         <mark key="." line="19" column="41" />
         <mark key="^" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563403296695">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="39" />
-        <mark key="^" line="20" column="39" />
-        <mark key="." line="20" column="39" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="^" line="25" column="58" />
+        <mark key="." line="19" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" timestamp="1562166422947">
         <mark key="[" line="26" column="4" />
@@ -196,6 +196,12 @@
         <mark key="]" line="3" column="15" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" timestamp="1563428269381">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="11" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1563373064650">
         <mark key="[" line="0" column="0" />
@@ -377,10 +383,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>r599</text>
