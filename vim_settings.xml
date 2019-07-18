@@ -52,11 +52,11 @@
       <file name="/run/user/1000/gvfs/smb-share:server=hbench,share=projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1562953988425">
         <mark key="[" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563447490574">
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="16" />
-        <mark key="^" line="20" column="17" />
-        <mark key="." line="20" column="16" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563453753525">
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="25" />
+        <mark key="^" line="30" column="25" />
+        <mark key="." line="30" column="25" />
       </file>
       <file name="P:/TORP/stchart/src/main/vue/Main.vue" timestamp="1562330687032">
         <mark key="'" line="15" column="10" />
@@ -65,12 +65,12 @@
         <mark key="^" line="22" column="52" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563450150635">
-        <mark key="'" line="68" column="29" />
-        <mark key="[" line="74" column="25" />
-        <mark key="]" line="74" column="28" />
-        <mark key="." line="74" column="28" />
-        <mark key="^" line="74" column="28" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563453592634">
+        <mark key="'" line="53" column="43" />
+        <mark key="[" line="75" column="50" />
+        <mark key="]" line="75" column="53" />
+        <mark key="." line="75" column="53" />
+        <mark key="^" line="75" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -287,12 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="29" filename="P:/EVAL/kotlin/jooby/build.gradle.kts" />
-      <jump line="19" column="13" filename="P:/ELLECI/kojovue/src/main/vue/App.vue" />
-      <jump line="67" column="79" filename="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" />
-      <jump line="49" column="15" filename="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" />
-      <jump line="82" column="12" filename="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" />
-      <jump line="6" column="74" filename="P:/ELLECI/kojovue/src/main/vue/App.vue" />
       <jump line="5" column="67" filename="P:/ELLECI/kojovue/src/main/vue/App.vue" />
       <jump line="4" column="37" filename="P:/ELLECI/kojovue/src/main/vue/App.vue" />
       <jump line="4" column="42" filename="P:/ELLECI/kojovue/src/main/kotlin/kojovue/App.kt" />
@@ -382,60 +376,66 @@
       <jump line="27" column="10" filename="P:/TORP/stchart/src/main/vue/Main.vue" />
       <jump line="12" column="13" filename="$USER_HOME$/Projects/TORP/stchart/test.html" />
       <jump line="92" column="4" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="41" column="38" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="13" column="14" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="36" column="35" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="39" column="11" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="68" column="29" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="18" column="27" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="84" column="13" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="74" column="13" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="106" column="13" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="13" column="71" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="41" column="57" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="43" column="56" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="55" column="43" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>max</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>max</text>
       </register>
       <register name="/" type="4">
-        <text>group</text>
+        <text>ISOD</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vY29tcGlsZSgib3JnLmFwYWNoZS5jb21tb25zOmNvbW1vbnMtY3N2OisiKQo=</text>
+        <text encoding="base64">ICAgICAgICBkdGZyLmZpbHRlcntpdFsiRGVzY3JpemlvbmUiXSBlcSAiTWF4IHJlY29yZGVkIG5vaXNlIGxldmVsIn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNvcnRlZEJ5KCJEYXRhIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc2VyaWVzID0gW3sKICAgICAgICAgICAgICAgICAgICBuYW1lOiAnbm9pc2UnLAogICAgICAgICAgICAgICAgICAgIGRhdGE6IGRhdGEuY29sc1sxXS52YWx1ZXMKICAgICAgICAgICAgICAgIH1dCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNsaWNlKDEgLi4gMTUwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcnQ6IHsKICAgICAgICAgICAgICAgIGlkOiAndnVlY2hhcnQtZXhhbXBsZScKICAgICAgICAgICAgfSwKICAgICAgICAgICAgeGF4aXM6IHsKICAgICAgICAgICAgICAgIGNhdGVnb3JpZXM6IFsxOTkxLCAxOTkyLCAxOTkzLCAxOTk0LCAxOTk1LCAxOTk2LCAxOTk3LCAxOTk4XQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNhbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogJ25vaXNlJywKICAgICAgICAgICAgZGF0YTogWzMwLCA0MCwgMzUsIDUwLCA0OSwgNjAsIDcwLCA5MV0KICAgICAgICB9XQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1bW1hcml6ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc2VyaWVzWzBdLmRhdGEgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmdyb3VwQnkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuY2hhcnRPcHRpb25zLnhheGlzLmNhdGVnb3JpZXMgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc2VyaWVzWzBdLmRhdGEgPSBkYXRhLmNvbHNbMV0udmFsdWVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuY2hhcnRPcHRpb25zLnhheGlzLmNhdGVnb3JpZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJsb2FkZWQiKQogICAgICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YVsxXS52YWx1ZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNlbGVjdCgiSVNPRGF0ZSIsICJWYWxvcmUiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nIHRoaXMuc2VyaWVzWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRbIlRpbWVzdGFtcCJdLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>group</last-search>
+      <last-search>ISOD</last-search>
       <last-offset />
-      <last-pattern>group</last-pattern>
+      <last-pattern>ISOD</last-pattern>
       <last-replace>dtfr</last-replace>
       <last-substitute>r599</last-substitute>
       <last-dir>1</last-dir>
@@ -443,8 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Api</entry>
-        <entry>ZigBeeApi</entry>
         <entry>Impl</entry>
         <entry>Log</entry>
         <entry>logger</entry>
@@ -463,6 +461,8 @@
         <entry>DAta</entry>
         <entry>Data</entry>
         <entry>group</entry>
+        <entry>map</entry>
+        <entry>ISOD</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
