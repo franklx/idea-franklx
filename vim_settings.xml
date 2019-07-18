@@ -15,11 +15,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/Main.vue" timestamp="1563403689586">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="18" column="27" />
-        <mark key="." line="18" column="27" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/Main.vue" timestamp="1563427276610">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="8" />
+        <mark key="^" line="25" column="61" />
+        <mark key="." line="25" column="8" />
       </file>
       <file name="/Kotlin Console" timestamp="1562169482933">
         <mark key="[" line="0" column="0" />
@@ -197,11 +197,6 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" timestamp="1563403282274">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1563373064650">
         <mark key="[" line="0" column="0" />
       </file>
@@ -214,12 +209,6 @@
         <mark key="]" line="16" column="3" />
         <mark key="." line="16" column="3" />
         <mark key="^" line="16" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/test.html" timestamp="1563403396913">
-        <mark key="[" line="11" column="68" />
-        <mark key="]" line="11" column="68" />
-        <mark key="." line="11" column="68" />
-        <mark key="^" line="8" column="53" />
       </file>
       <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561715020860">
         <mark key="'" line="18" column="23" />
@@ -387,11 +376,11 @@
       <jump line="12" column="13" filename="$USER_HOME$/Projects/TORP/stchart/test.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAnLi4vcGx1Z2lucy9idWVmeScK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>r599</text>
