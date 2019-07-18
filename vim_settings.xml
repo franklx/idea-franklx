@@ -52,12 +52,12 @@
       <file name="/run/user/1000/gvfs/smb-share:server=hbench,share=projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1562953988425">
         <mark key="[" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563459313867">
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563464391378">
         <mark key="'" line="42" column="16" />
-        <mark key="[" line="41" column="28" />
-        <mark key="]" line="42" column="39" />
-        <mark key="^" line="42" column="39" />
-        <mark key="." line="42" column="39" />
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="32" />
+        <mark key="^" line="28" column="37" />
+        <mark key="." line="28" column="32" />
       </file>
       <file name="P:/TORP/stchart/src/main/vue/Main.vue" timestamp="1562330687032">
         <mark key="'" line="15" column="10" />
@@ -66,12 +66,12 @@
         <mark key="^" line="22" column="52" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563459818793">
-        <mark key="'" line="64" column="22" />
-        <mark key="[" line="85" column="44" />
-        <mark key="]" line="86" column="21" />
-        <mark key="." line="86" column="21" />
-        <mark key="^" line="86" column="21" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563463994247">
+        <mark key="'" line="66" column="22" />
+        <mark key="[" line="90" column="12" />
+        <mark key="]" line="90" column="12" />
+        <mark key="." line="90" column="12" />
+        <mark key="^" line="89" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -391,43 +391,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ISODate</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>ISODate</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>temp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmdyb3VwQnkoIklTT0RhdGUiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8uZ3JvdXBCeSgiSW5zdGFudCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vRGF0ZVRpbWVGb3JtYXR0ZXIuQkFTSUNfSVNPX0RBVEUK</text>
+        <text encoding="base64">ICAgICAgICAvLy0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBleGNoYXJ0KHdpZHRoPSI4MCUiIGhlaWdodD0iMzAwcHgiIHR5cGU9ImxpbmUiIDpvcHRpb25zPSJjaGFydE9wdGlvbnMiIDpzZXJpZXM9InRlbXBfc2VyaWVzIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICd0ZW1wJywKICAgICAgICAgICAgICAgICAgICAgICAgZGF0YTogZGF0YS5jb2xzWzJdLnZhbHVlcwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmhlYWQoMTAwMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICwic3BlZWQiIHRvIHtpdFsiQXBwbGllZCB2ZWxvY2l0eSBhdCBkcml2aW5nIHNoYWZ0Il0ubWF4KHJlbW92ZU5BID0gdHJ1ZSkgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5ab25lSWQuKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICwiYnJha2UiIHRvIHtpdFsiQXBwbGllZCB0b3JxdWUgYXQgYnJha2luZyBzaGFmdCJdLm1lYW4ocmVtb3ZlTkEgPSB0cnVlKSB9Cg==</text>
+        <text encoding="base64">ICAgIC8vRGF0ZVRpbWVGb3JtYXR0ZXIuQkFTSUNfSVNPX0RBVEUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldCgiL3RlbXAiKSB7CiAgICAgICAgZHRmci5maWx0ZXJ7aXRbIkRlc2NyaXppb25lIl0gZXEgIlRlbXBlcmF0dXJhIHRlcm1vY29wcGlhIDEifQogICAgICAgICAgICAuZ3JvdXBCeSgiSVNPRGF0ZSIpCiAgICAgICAgICAgIC5zdW1tYXJpemUoICJWYWxvcmUiIHRvIHtpdFsiVmFsb3JlIl0ubWVhbih0cnVlKX0gKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICd0ZW1wJywKICAgICAgICAgICAgICAgICAgICAgICAgZGF0YTogZGF0YS5jb2xzWzJdLnZhbHVlcwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm5lc3QoKS5yb3d3aXNlKCkub25lSG90KCkuc3ByZWFkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICwic3BlZWQiIHRvIHtpdFsiQXBwbGllZCB2ZWxvY2l0eSBhdCBkcml2aW5nIHNoYWZ0Il0ubWF4KHJlbW92ZU5BID0gdHJ1ZSkgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkdGZyLnVubmVzdCgiVmFsb3JlIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICwiYnJha2UiIHRvIHtpdFsiQXBwbGllZCB0b3JxdWUgYXQgYnJha2luZyBzaGFmdCJdLm1lYW4ocmVtb3ZlTkEgPSB0cnVlKSB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
