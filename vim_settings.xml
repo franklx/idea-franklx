@@ -220,9 +220,11 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" timestamp="1563560128326">
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" timestamp="1563563306573">
+        <mark key="'" line="61" column="0" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
+        <mark key="^" line="8" column="21" />
         <mark key="." line="52" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1563373064650">
@@ -314,8 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="20" filename="P:/ELLECI/kjv/src/main/vue/AppRouter.vue" />
-      <jump line="2" column="21" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
       <jump line="79" column="82" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
       <jump line="27" column="0" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
       <jump line="104" column="42" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
@@ -414,46 +414,48 @@
       <jump line="48" column="22" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="18" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/TableView.vue" />
       <jump line="29" column="12" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/views/Main.vue" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
+      <jump line="64" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIEJvb3QgdGhlIGN1cnJlbnQgVnVlIGNvbXBvbmVudAo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Fake</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cudnVlID0gbmV3IFZ1ZSh7CiAgICAgICAgICAgIHJvdXRlcjogbmV3IFZ1ZVJvdXRlcih7cm91dGVzfSksCiAgICAgICAgICAgIHJlbmRlcjogaCA9PiBoKFZ1ZS5jb21wb25lbnQoY29tcF9uYW1lLCBjb21wX2ZpbGUpLCB7IHByb3BzIH0pCiAgICAgICAgfSkuJG1vdW50KHJvb3QpCg==</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZVJvdXRlciBmcm9tICd2dWUtcm91dGVyJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIEJvb3QgdGhlIGN1cnJlbnQgVnVlIGNvbXBvbmVudAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICBmcm9tICIiCg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgVnVlUm91dGVyIGZyb20gJ3Z1ZS1yb3V0ZXInCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9AdHMtaWdub3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wbwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBWdWVSb3V0ZXIgPSByZXF1aXJlKCd2dWUtcm91dGVyJykuZGVmYXVsdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL2NvbnN0IFZ1ZVJvdXRlciA9IHJlcXVpcmUoJ3Z1ZS1yb3V0ZXInKS5kZWZhdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBWdWVSb3V0ZXIgPSByZXF1aXJlKCd2dWUtcm91dGVyJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgVnVlUm91dGVyIGZyb20gJ3Z1ZS1yb3V0ZXInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmltcG9ydCBWdWVSb3V0ZXIgZnJvbSAndnVlLXJvdXRlcicKVnVlLnVzZShWdWVSb3V0ZXIpCg==</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZVJvdXRlciA9IHJlcXVpcmUoJ3Z1ZS1yb3V0ZXInKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
