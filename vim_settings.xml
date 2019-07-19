@@ -9,6 +9,13 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/TableView.vue" timestamp="1563525832558">
+        <mark key="'" line="15" column="16" />
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+      </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
         <mark key="[" line="10" column="61" />
         <mark key="]" line="11" column="0" />
@@ -52,7 +59,7 @@
       <file name="/run/user/1000/gvfs/smb-share:server=hbench,share=projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1562953988425">
         <mark key="[" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563489466889">
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563525409382">
         <mark key="'" line="49" column="32" />
         <mark key="[" line="48" column="100" />
         <mark key="]" line="48" column="105" />
@@ -66,11 +73,17 @@
         <mark key="^" line="22" column="52" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563522875574">
-        <mark key="'" line="125" column="92" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="75" column="5" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/FakeView.vue" timestamp="1563525776009">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563525088118">
+        <mark key="'" line="48" column="22" />
+        <mark key="[" line="116" column="91" />
+        <mark key="]" line="116" column="91" />
+        <mark key="^" line="117" column="19" />
+        <mark key="." line="116" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -182,6 +195,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/JavaScript Console" timestamp="1563525522751">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/main.ts" timestamp="1561447882729">
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="64" />
@@ -220,11 +236,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/views/Main.vue" timestamp="1563487815747">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="6" column="18" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/views/Main.vue" timestamp="1563525744576">
+        <mark key="'" line="32" column="12" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="12" column="10" />
       </file>
       <file name="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" timestamp="1561715020860">
         <mark key="'" line="18" column="23" />
@@ -287,17 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="4" filename="P:/ELLECI/kojovue/src/main/vue/components/ArtForm.vue" />
-      <jump line="13" column="0" filename="P:/ELLECI/kojovue/src/main/vue/components/ArtForm.vue" />
-      <jump line="4" column="16" filename="P:/ELLECI/kojovue/src/main/vue/components/vuetify.ArtForm.vue" />
-      <jump line="9" column="24" filename="P:/ELLECI/kjv/src/main/vue/components/ArtForm.vue" />
-      <jump line="0" column="0" filename="P:/ELLECI/kjv/src/main/vue/components/ArtForm.vue" />
-      <jump line="1" column="4" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
-      <jump line="14" column="0" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
-      <jump line="11" column="0" filename="P:/ELLECI/kjv/src/main/vue/main.ts" />
-      <jump line="34" column="88" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
-      <jump line="7" column="178" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
-      <jump line="25" column="25" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
       <jump line="13" column="20" filename="P:/ELLECI/kjv/src/main/vue/AppRouter.vue" />
       <jump line="2" column="21" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
       <jump line="79" column="82" filename="P:/ELLECI/kjv/src/main/vue/components/PrescForm.vue" />
@@ -376,7 +382,6 @@
       <jump line="13" column="71" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="41" column="57" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="43" column="56" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="55" column="43" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="59" column="22" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="4" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
       <jump line="42" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
@@ -387,66 +392,74 @@
       <jump line="68" column="34" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="82" column="11" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="122" column="92" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="124" column="23" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="55" column="20" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="87" column="15" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="95" column="24" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="107" column="22" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="72" column="21" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="77" column="13" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="94" column="26" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="48" column="22" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="18" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/TableView.vue" />
+      <jump line="29" column="12" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/views/Main.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdldCgiL2Zhdmljb24uaWNvIikgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>index.html</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>Fake</text>
       </register>
-      <register name="0" type="4">
-        <text>, chart: {id: &quot;temp_chart&quot;}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtYWluLnNlY3Rpb24KICAgICAgICAgICAgQ2hhcnRWaWV3Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldCgiL2Zhdmljb24uaWNvIikgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5qb29ieTpqb29ieS1qYWRlOisiKQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCAnLi4vcGx1Z2lucy9idWVmeScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb29ieS5qYWRlLkphZGUK</text>
+        <text encoding="base64">ICAgIGltcG9ydCAnLi4vcGx1Z2lucy9idWVmeScKICAgIGltcG9ydCAnLi4vcGx1Z2lucy9heGlvcycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2V0cygiLyIsICJhc3NldHMvIikK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldCgiLyIpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0Ym9keQogICAgICAgICAgICB0cih2LWZvcj0icncgaW4gcndzIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC5jb250YWluZXIuaXMtZmx1aWQKICAgICAgICBiLWZpZWxkKGxhYmVsPSJDb2RpY2UiKQogICAgICAgICAgICBiLWlucHV0CiAgICAgICAgYi1maWVsZChsYWJlbD0iRGVzY3JpemlvbmUiKQogICAgICAgICAgICBiLWlucHV0CiAgICAgICAgLmZpZWxkCiAgICAgICAgICAgIGItY2hlY2tib3ggU2tpcCBEQwogICAgICAgICAgICBiLWNoZWNrYm94IFRlc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5qb29ieTpqb29ieS1qYWRlOisiKQo=</text>
+        <text encoding="base64">ICAgIGdldCgiL3NjaGVtYSIpIHsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sYmFyOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRvb2xzOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxlY3Rpb246IGZhbHNlCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy5zY2hlbWEoKQogICAgICAgIC8vLnByaW50KG1heFJvd3MgPSAtMSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>Fake</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
-      <last-replace>opts</last-replace>
-      <last-substitute>series</last-substitute>
+      <last-pattern>Fake</last-pattern>
+      <last-replace>Table</last-replace>
+      <last-substitute>Fake</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>guessColType</entry>
-        <entry>List</entry>
-        <entry>reader</entry>
-        <entry>records</entry>
         <entry>gz</entry>
         <entry>summar</entry>
         <entry>summa</entry>
@@ -455,7 +468,6 @@
         <entry>Data</entry>
         <entry>group</entry>
         <entry>map</entry>
-        <entry>ISOD</entry>
         <entry>interest</entry>
         <entry>temp</entry>
         <entry>series</entry>
@@ -463,6 +475,11 @@
         <entry>public</entry>
         <entry>Jade</entry>
         <entry>print</entry>
+        <entry>ISOD</entry>
+        <entry>spread</entry>
+        <entry>ISODate</entry>
+        <entry>,$</entry>
+        <entry>Fake</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
@@ -473,6 +490,8 @@
         <entry>%s:r599:dtfr:g</entry>
         <entry encoding="base64">JzwsJz5zOnRlbXA6YnJha2U6Zw==</entry>
         <entry encoding="base64">JzwsJz5zOnNlcmllczpvcHRzOmc=</entry>
+        <entry>%s:Fake:Table:g</entry>
+        <entry encoding="base64">JzwsJz5zOkZha2U6VGFibGU6Zw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
