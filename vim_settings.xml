@@ -78,12 +78,12 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563614779731">
-        <mark key="'" line="48" column="22" />
-        <mark key="[" line="88" column="59" />
-        <mark key="]" line="88" column="60" />
-        <mark key="." line="88" column="60" />
-        <mark key="^" line="88" column="92" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563625585248">
+        <mark key="'" line="49" column="22" />
+        <mark key="[" line="126" column="16" />
+        <mark key="]" line="127" column="10" />
+        <mark key="." line="127" column="10" />
+        <mark key="^" line="127" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -250,9 +250,9 @@
         <mark key="." line="14" column="16" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/test.html" timestamp="1563574742177">
-        <mark key="[" line="8" column="61" />
-        <mark key="]" line="8" column="61" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/test.html" timestamp="1563625370067">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="7" />
         <mark key="." line="8" column="61" />
         <mark key="^" line="8" column="61" />
       </file>
@@ -424,45 +424,45 @@
       <jump line="62" column="34" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBodHRwMigpLmh0bQo=</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>opts</text>
       </register>
-      <register name="0" type="4">
-        <text>root.getAttribute(&quot;opts&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgogICAgPGhlYWQ+CiAgICAgICAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogICAgICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+CiAgICA8L2hlYWQ+CiAgICA8Ym9keT4KICAgICAgICA8IS0tdnVlIGNvbXBvbmVudD0iTWFpbiIgcHJvcHM9Int9Ii0tPgogICAgICAgIDx2dWUgY29tcG9uZW50PSJSb3V0ZXIiIHByb3BzPSJ7fSIgcm91dGVzPSJyb3V0ZXMiIG9wdHM9J3sibW9kZSI6Imhpc3RvcnkifSc+CiAgIDwvYm9keT4KPC9odG1sPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBERlJlbmRlcmVyLnJlbmRlclRvUERGKCkK</text>
+        <text encoding="base64">ICAgICAgICBodHRwMigpLmh0bQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UERGUmVuZGVyZXIK</text>
+        <text encoding="base64">ICAgIGFzc2V0cygiLyoqIiwgIi9hc3NldHMvezB9IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBERlJlbmRlcmVyLnJlbmRlclRvUERGKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;
-    compile group: '</text>
+      <register name="6" type="2">
+        <text encoding="base64">UERGUmVuZGVyZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnhodG1scmVuZGVyZXIvZmx5aW5nLXNhdWNlci1wZGYtb3BlbnBkZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcHRzKQo=</text>
+        <text encoding="base64">ICAgICIpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyb290LmdldEF0dHJpYnV0ZSgib3B0cyIpKQo=</text>
+      <register name="9" type="4">
+        <text>&quot;
+    compile group: '</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -511,6 +511,7 @@
         <entry encoding="base64">JzwsJz5zOnNlcmllczpvcHRzOmc=</entry>
         <entry>%s:Fake:Table:g</entry>
         <entry encoding="base64">JzwsJz5zOkZha2U6VGFibGU6Zw==</entry>
+        <entry>r test.html</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
