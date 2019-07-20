@@ -218,12 +218,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" timestamp="1563645991820">
-        <mark key="'" line="62" column="34" />
-        <mark key="[" line="55" column="22" />
-        <mark key="]" line="60" column="27" />
-        <mark key="." line="60" column="27" />
-        <mark key="^" line="60" column="27" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" timestamp="1563659588966">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="72" column="72" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1563373064650">
         <mark key="[" line="0" column="0" />
@@ -321,10 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="80" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
-      <jump line="100" column="70" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
-      <jump line="116" column="79" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
-      <jump line="124" column="67" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
       <jump line="130" column="15" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
       <jump line="132" column="20" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
       <jump line="37" column="73" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
@@ -404,7 +400,6 @@
       <jump line="29" column="12" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/views/Main.vue" />
       <jump line="64" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
-      <jump line="59" column="51" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
       <jump line="60" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
       <jump line="62" column="34" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
       <jump line="127" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
@@ -421,55 +416,60 @@
       <jump line="3" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="148" column="14" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="149" column="4" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="57" column="61" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
+      <jump line="69" column="76" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
+      <jump line="74" column="72" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
+      <jump line="58" column="28" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
+      <jump line="59" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vYXNzZXRzKCIvIiwgIi9hc3NldHMvaW5kZXguaHRtbCIpCiAgICAvL2Fzc2V0cygiL2pzLyoqIiwgIi9hc3NldHMvanMvezB9IikKICAgIC8vYXNzZXRzKCIvY3NzLyoqIiwgIi9hc3NldHMvY3NzL3swfSIpCiAgICAvL2Fzc2V0cygiL2ZvbnRzLyoqIiwgIi9hc3NldHMvZm9udHMvezB9IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJvdXRlcykK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>css</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2V0cygiL2ZvbnRzLyoqIiwgIi9hc3NldHMvZm9udHMvezB9IikK</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cudnVlID0gbmV3IFZ1ZSh7CiAgICAgICAgICAgIHJlbmRlcjogaCA9PiBoKFZ1ZS5jb21wb25lbnQoY29tcF9uYW1lLCBjb21wX2ZpbGUpLCB7IHByb3BzIH0pCiAgICAgICAgfSkuJG1vdW50KHJvb3QpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vYXNzZXRzKCIvIiwgIi9hc3NldHMvaW5kZXguaHRtbCIpCiAgICAvL2Fzc2V0cygiL2pzLyoqIiwgIi9hc3NldHMvanMvezB9IikKICAgIC8vYXNzZXRzKCIvY3NzLyoqIiwgIi9hc3NldHMvY3NzL3swfSIpCiAgICAvL2Fzc2V0cygiL2ZvbnRzLyoqIiwgIi9hc3NldHMvZm9udHMvezB9IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJvdXRlcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb21wKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2V0cygiL2Fzc2V0cy8qKiIsICIvYXNzZXRzL3swfSIpCiAgICB2dWUoIi8qKiIsICJSb3V0ZXIiLCByb3V0ZXMgPSAicm91dGVzIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3B0cy5yb3V0ZXMgPSByb3V0ZXMKICAgICAgICAgICAgd2luZG93LnZ1ZSA9IG5ldyBWdWUoewogICAgICAgICAgICAgICAgcm91dGVyOiBuZXcgVnVlUm91dGVyKG9wdHMpLAogICAgICAgICAgICAgICAgcmVuZGVyOiBoID0+IGgoVnVlLmNvbXBvbmVudChjb21wX25hbWUsIGNvbXBfZmlsZSksIHsgcHJvcHMgfSkKICAgICAgICAgICAgfSkuJG1vdW50KHJvb3QpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vdnVlKCIvdGFibGUiLCAiUm91dGVyIiwgcm91dGVzID0gInJvdXRlcyIpIC8vIEZJWE1FOiBub3QgcHJvY2Vzc2VkIGFmdGVyIGFzc2V0cyBwYXRoIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocm91dGVzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZ1ZSgiL3RhYmxlIiwgIlJvdXRlciIsIHJvdXRlcyA9ICJyb3V0ZXMiKSAvLyBGSVhNRTogbm90IHByb2Nlc3NlZCBhZnRlciBhc3NldHMgcGF0aCAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgcm91dGVzX3Byb21pc2UgPSAoKSA9PiBpbXBvcnQoJy4vdmlld3MvJyArIHJvdXRlc19uYW1lICsgJy50cycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZ1ZSgiL3RhYmxlIiwgIlJvdXRlciIsIHJvdXRlcyA9ICJyb3V0ZXMiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2V0cwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>css</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>css</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>fonts</last-replace>
       <last-substitute>css</last-substitute>
       <last-dir>1</last-dir>
@@ -477,8 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry>interest</entry>
-        <entry>temp</entry>
         <entry>series</entry>
         <entry>assets</entry>
         <entry>public</entry>
@@ -497,6 +495,8 @@
         <entry>&quot;</entry>
         <entry>js</entry>
         <entry>css</entry>
+        <entry>comp_file</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
