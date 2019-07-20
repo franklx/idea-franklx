@@ -81,12 +81,12 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563634642945">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
-        <mark key="^" line="145" column="23" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563637251107">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="30" column="68" />
+        <mark key="]" line="30" column="68" />
+        <mark key="." line="30" column="68" />
+        <mark key="^" line="30" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -94,11 +94,11 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" timestamp="1563633664864">
-        <mark key="[" line="47" column="29" />
-        <mark key="]" line="47" column="35" />
-        <mark key="^" line="47" column="35" />
-        <mark key="." line="47" column="35" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" timestamp="1563635443751">
+        <mark key="[" line="43" column="42" />
+        <mark key="]" line="44" column="3" />
+        <mark key="." line="44" column="3" />
+        <mark key="^" line="44" column="3" />
       </file>
       <file name="P:/EVAL/kotlin/jooby/src/main/conf/application.conf" timestamp="1561295151618">
         <mark key="[" line="2" column="24" />
@@ -168,10 +168,6 @@
         <mark key="]" line="7" column="29" />
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
-      </file>
-      <file name="P:/ELLECI/kjv/src/main/vue/components/ArtForm.vue" timestamp="1562330565282">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="18" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1553436251359">
         <mark key="'" line="62" column="32" />
@@ -284,6 +280,7 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/index.html" timestamp="1563636357995" />
       <file name="P:/ELLECI/kojovue/src/main/vue/components/PlainTable.vue" timestamp="1561474653772">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -325,11 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="72" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
-      <jump line="77" column="5" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
-      <jump line="148" column="46" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
-      <jump line="22" column="17" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
       <jump line="97" column="80" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
@@ -403,7 +395,6 @@
       <jump line="82" column="11" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="122" column="92" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="124" column="23" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="55" column="20" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="87" column="15" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="95" column="24" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
@@ -425,65 +416,68 @@
       <jump line="247" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby/1.6.3/3179949a7c17976efb668af4961cf6aaef7d969d/jooby-1.6.3-sources.jar!/org/jooby/internal/BuiltinRenderer.java" />
       <jump line="290" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby/1.6.3/3179949a7c17976efb668af4961cf6aaef7d969d/jooby-1.6.3-sources.jar!/org/jooby/internal/BuiltinRenderer.java" />
       <jump line="310" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby/1.6.3/3179949a7c17976efb668af4961cf6aaef7d969d/jooby-1.6.3-sources.jar!/org/jooby/internal/BuiltinRenderer.java" />
+      <jump line="144" column="93" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="130" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="21" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="32" column="96" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS12dWUgY29tcG9uZW50PSJNYWluIiBwcm9wcz0ie30iLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdCBzcmM9Ii9qcy9jaHVuay12ZW5kb3JzLmpzIj48L3NjcmlwdD4KICAgICAgICAgICAgPHNjcmlwdCBzcmM9Ii9qcy9pbmRleC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>html</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5qb29ieTpqb29ieS1nc29uOisiKQo=</text>
+        <text encoding="base64">ICAgIGdzb24udG9Kc29uKHByb3BzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS12dWUgY29tcG9uZW50PSJNYWluIiBwcm9wcz0ie30iLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdCBzcmM9Ii9qcy9jaHVuay12ZW5kb3JzLmpzIj48L3NjcmlwdD4KICAgICAgICAgICAgPHNjcmlwdCBzcmM9Ii9qcy9pbmRleC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY3JpcHQgc3JjPSIvanMvY2h1bmstdmVuZG9ycy5qcyI+PC9zY3JpcHQ+CiAgICAgICAgICAgICAgICA8c2NyaXB0IHNyYz0iL2pzL2luZGV4LmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNZWRpYVR5cGUuaHRtbC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY3JpcHQgc3JjPSIvanMvY2h1bmstdmVuZG9ycy5qcyI+PC9zY3JpcHQ+CiAgICAgICAgICAgICAgICA8c2NyaXB0IHNyYz0iL2pzL2luZGV4LmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEd6b24oKQo=</text>
+        <text encoding="base64">ICAgIEd6b24oKS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgIGdzb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENvbnRleHQuCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb29ieS5qc29uLkphY2tzb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJlbmRlcmVyLkNvbnRleHQuCg==</text>
+        <text encoding="base64">aW1wb3J0IGdzb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSZW5kZXJlci4K</text>
+        <text encoding="base64">ICAgIEd6b24udG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgIG9wdHMudG8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>html</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>html</last-pattern>
-      <last-replace>Table</last-replace>
-      <last-substitute>Fake</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>r599</entry>
-        <entry>DAta</entry>
-        <entry>Data</entry>
         <entry>group</entry>
         <entry>map</entry>
         <entry>interest</entry>
@@ -501,6 +495,9 @@
         <entry>opts</entry>
         <entry>Results</entry>
         <entry>html</entry>
+        <entry>get</entry>
+        <entry>require</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
@@ -514,6 +511,8 @@
         <entry>%s:Fake:Table:g</entry>
         <entry encoding="base64">JzwsJz5zOkZha2U6VGFibGU6Zw==</entry>
         <entry>r test.html</entry>
+        <entry encoding="base64">JzwsJz5zOiI6Jzpn</entry>
+        <entry>4</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
