@@ -81,12 +81,11 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563637251107">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="30" column="68" />
-        <mark key="]" line="30" column="68" />
-        <mark key="." line="30" column="68" />
-        <mark key="^" line="30" column="68" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563639309800">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+        <mark key="^" line="30" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -219,12 +218,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" timestamp="1563574891211">
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" timestamp="1563639238553">
         <mark key="'" line="62" column="34" />
-        <mark key="[" line="59" column="63" />
-        <mark key="]" line="59" column="63" />
-        <mark key="." line="59" column="63" />
-        <mark key="^" line="59" column="78" />
+        <mark key="[" line="4" column="112" />
+        <mark key="]" line="4" column="118" />
+        <mark key="." line="4" column="118" />
+        <mark key="^" line="4" column="118" />
       </file>
       <file name="/Dummy.txt" timestamp="1563373064650">
         <mark key="[" line="0" column="0" />
@@ -322,8 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
-      <jump line="83" column="0" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
       <jump line="97" column="80" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
       <jump line="100" column="70" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
       <jump line="116" column="79" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
@@ -422,64 +419,64 @@
       <jump line="21" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="32" column="96" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="148" column="14" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="149" column="4" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdCBzcmM9Ii9qcy9jaHVuay12ZW5kb3JzLmpzIj48L3NjcmlwdD4KICAgICAgICAgICAgPHNjcmlwdCBzcmM9Ii9qcy9pbmRleC5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIC8vYXNzZXRzKCIvIiwgIi9hc3NldHMvaW5kZXguaHRtbCIpCiAgICAvL2Fzc2V0cygiL2pzLyoqIiwgIi9hc3NldHMvanMvezB9IikKICAgIC8vYXNzZXRzKCIvY3NzLyoqIiwgIi9hc3NldHMvY3NzL3swfSIpCiAgICAvL2Fzc2V0cygiL2ZvbnRzLyoqIiwgIi9hc3NldHMvZm9udHMvezB9IikK</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>css</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdzb24udG9Kc29uKHByb3BzKQo=</text>
+        <text encoding="base64">ICAgIGFzc2V0cygiL2ZvbnRzLyoqIiwgIi9hc3NldHMvZm9udHMvezB9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdCBzcmM9Ii9qcy9jaHVuay12ZW5kb3JzLmpzIj48L3NjcmlwdD4KICAgICAgICAgICAgPHNjcmlwdCBzcmM9Ii9qcy9pbmRleC5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIC8vYXNzZXRzKCIvIiwgIi9hc3NldHMvaW5kZXguaHRtbCIpCiAgICAvL2Fzc2V0cygiL2pzLyoqIiwgIi9hc3NldHMvanMvezB9IikKICAgIC8vYXNzZXRzKCIvY3NzLyoqIiwgIi9hc3NldHMvY3NzL3swfSIpCiAgICAvL2Fzc2V0cygiL2ZvbnRzLyoqIiwgIi9hc3NldHMvZm9udHMvezB9IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY3JpcHQgc3JjPSIvanMvY2h1bmstdmVuZG9ycy5qcyI+PC9zY3JpcHQ+CiAgICAgICAgICAgICAgICA8c2NyaXB0IHNyYz0iL2pzL2luZGV4LmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY3JpcHQgc3JjPSIvanMvY2h1bmstdmVuZG9ycy5qcyI+PC9zY3JpcHQ+CiAgICAgICAgICAgICAgICA8c2NyaXB0IHNyYz0iL2pzL2luZGV4LmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEd6b24oKS4K</text>
+        <text encoding="base64">ICAgIGFzc2V0cygiL2Fzc2V0cy8qKiIsICIvYXNzZXRzL3swfSIpCiAgICB2dWUoIi8qKiIsICJSb3V0ZXIiLCByb3V0ZXMgPSAicm91dGVzIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdzb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb29ieS5qc29uLkphY2tzb24K</text>
+        <text encoding="base64">ICAgIC8vdnVlKCIvdGFibGUiLCAiUm91dGVyIiwgcm91dGVzID0gInJvdXRlcyIpIC8vIEZJWE1FOiBub3QgcHJvY2Vzc2VkIGFmdGVyIGFzc2V0cyBwYXRoIC8vCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGdzb24K</text>
+        <text encoding="base64">ICAgIHZ1ZSgiL3RhYmxlIiwgIlJvdXRlciIsIHJvdXRlcyA9ICJyb3V0ZXMiKSAvLyBGSVhNRTogbm90IHByb2Nlc3NlZCBhZnRlciBhc3NldHMgcGF0aCAvLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEd6b24udG8K</text>
+        <text encoding="base64">ICAgIHZ1ZSgiL3RhYmxlIiwgIlJvdXRlciIsIHJvdXRlcyA9ICJyb3V0ZXMiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9wdHMudG8K</text>
+        <text encoding="base64">ICAgIGFzc2V0cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>css</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>css</last-pattern>
+      <last-replace>fonts</last-replace>
+      <last-substitute>css</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>group</entry>
-        <entry>map</entry>
         <entry>interest</entry>
         <entry>temp</entry>
         <entry>series</entry>
@@ -498,6 +495,8 @@
         <entry>get</entry>
         <entry>require</entry>
         <entry>&quot;</entry>
+        <entry>js</entry>
+        <entry>css</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
@@ -513,6 +512,8 @@
         <entry>r test.html</entry>
         <entry encoding="base64">JzwsJz5zOiI6Jzpn</entry>
         <entry>4</entry>
+        <entry encoding="base64">JzwsJz5zOmpzOmNzczpn</entry>
+        <entry encoding="base64">JzwsJz5zOmNzczpmb250czpn</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
