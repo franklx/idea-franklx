@@ -19,6 +19,11 @@
       <file name="/a.dummy" timestamp="1563719782518">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Reshape.kt" timestamp="1563752571950">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
         <mark key="[" line="10" column="61" />
         <mark key="]" line="11" column="0" />
@@ -90,12 +95,12 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563752187139">
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563752761224">
         <mark key="'" line="41" column="52" />
-        <mark key="[" line="120" column="9" />
-        <mark key="]" line="120" column="8" />
-        <mark key="." line="120" column="8" />
-        <mark key="^" line="120" column="8" />
+        <mark key="[" line="126" column="13" />
+        <mark key="]" line="126" column="13" />
+        <mark key="." line="126" column="13" />
+        <mark key="^" line="126" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -450,10 +455,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.keys</text>
+        <text>separate()</text>
       </register>
       <register name="-" type="4">
-        <text>.keys</text>
+        <text>separate()</text>
       </register>
       <register name="/" type="4">
         <text>keys</text>
@@ -462,31 +467,31 @@
         <text>&quot;Applied torque at braking shaft&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7CiAgICAgICAgICAgICAgICBpdFtdCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHNwcmVhZEdyb3Vwcy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcSA9IGR0ZnIuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0WyJEZXNjcml6aW9uZSJdCg==</text>
+        <text encoding="base64">ICAgIGR0ZnIuZmlsdGVyQnlSb3cgeyAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7CiAgICAgICAgICAgICAgICBpdFsiIl0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7CiAgICAgICAgICAgICAgICBpdFtdCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5jbHVkZSgiLi4vX0ZPUkVkSUdOXy9rcmFuZ2wiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJvamVjdCgiOmtyYW5nbCIsIHByb2plY3REaXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0WyJEZXNjcml6aW9uZSJdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5jbHVkZSgiLi4vX0ZPUkVJR05fLyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7CiAgICAgICAgICAgICAgICBpdFsiIl0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5nYygpCg==</text>
+        <text encoding="base64">aW5jbHVkZSgiLi4vX0ZPUkVkSUdOXy9rcmFuZ2wiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkdGZyLnNlbGVjdCgiRGVzY3JpemlvbmUiLCAiVmFsb3JlIikK</text>
+        <text encoding="base64">cHJvamVjdCgiOmtyYW5nbCIsIHByb2plY3REaXIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
