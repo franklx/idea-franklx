@@ -16,6 +16,9 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
+      <file name="/a.dummy" timestamp="1563719408763">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="P:/ELLECI/kojovue/src/main/vue/components/Tabulator.vue" timestamp="1561453329086">
         <mark key="[" line="10" column="61" />
         <mark key="]" line="11" column="0" />
@@ -166,6 +169,13 @@
         <mark key="]" line="56" column="17" />
         <mark key="^" line="56" column="17" />
         <mark key="." line="56" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Joins.kt" timestamp="1563719565534">
+        <mark key="'" line="90" column="67" />
+        <mark key="[" line="226" column="92" />
+        <mark key="]" line="227" column="0" />
+        <mark key="^" line="227" column="0" />
+        <mark key="." line="227" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/babel.config.js" timestamp="1553428920149">
         <mark key="[" line="6" column="50" />
@@ -326,24 +336,17 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/settings.gradle.kts" timestamp="1563717004033">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/settings.gradle.kts" timestamp="1563719137261">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="11" column="59" />
+        <mark key="." line="11" column="59" />
+        <mark key="^" line="11" column="59" />
       </file>
       <file name="/fragment.java" timestamp="1563703217912">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
-      <jump line="23" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
-      <jump line="170" column="61" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
-      <jump line="238" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
-      <jump line="231" column="59" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
-      <jump line="201" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
-      <jump line="352" column="59" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
-      <jump line="452" column="64" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
       <jump line="455" column="63" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
       <jump line="459" column="50" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
       <jump line="460" column="56" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/Columns.kt" />
@@ -436,6 +439,14 @@
       <jump line="129" column="19" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="25" column="47" filename="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" />
       <jump line="24" column="33" filename="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" />
+      <jump line="223" column="0" filename="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Joins.kt" />
+      <jump line="227" column="24" filename="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Joins.kt" />
+      <jump line="231" column="100" filename="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Joins.kt" />
+      <jump line="36" column="64" filename="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Joins.kt" />
+      <jump line="49" column="65" filename="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Joins.kt" />
+      <jump line="62" column="64" filename="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Joins.kt" />
+      <jump line="78" column="65" filename="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Joins.kt" />
+      <jump line="90" column="67" filename="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Joins.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -445,7 +456,7 @@
         <text>:libraries</text>
       </register>
       <register name="/" type="4">
-        <text>kran</text>
+        <text>defaultBy</text>
       </register>
       <register name="0" type="4">
         <text>projectDir.path + &quot;/../../_FOREIGN_/krangl&quot;</text>
@@ -482,9 +493,9 @@
       </register>
     </registers>
     <search>
-      <last-search>kran</last-search>
+      <last-search>defaultBy</last-search>
       <last-offset />
-      <last-pattern>kran</last-pattern>
+      <last-pattern>defaultBy</last-pattern>
       <last-replace>fonts</last-replace>
       <last-substitute>css</last-substitute>
       <last-dir>1</last-dir>
@@ -492,8 +503,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Jade</entry>
-        <entry>print</entry>
         <entry>ISOD</entry>
         <entry>spread</entry>
         <entry>ISODate</entry>
@@ -512,6 +521,8 @@
         <entry>fmo</entry>
         <entry>System.gc</entry>
         <entry>kran</entry>
+        <entry>Joining by</entry>
+        <entry>defaultBy</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
