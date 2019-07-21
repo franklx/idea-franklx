@@ -90,9 +90,9 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563721613481">
-        <mark key="'" line="143" column="41" />
-        <mark key="[" line="127" column="48" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563749296397">
+        <mark key="'" line="41" column="52" />
+        <mark key="[" line="127" column="52" />
         <mark key="]" line="127" column="51" />
         <mark key="." line="127" column="51" />
         <mark key="^" line="127" column="51" />
@@ -445,9 +445,9 @@
       <jump line="129" column="29" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="156" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="38" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="41" column="22" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="127" column="38" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="143" column="41" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="41" column="52" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -457,7 +457,7 @@
         <text>.keys</text>
       </register>
       <register name="/" type="4">
-        <text>anyof</text>
+        <text>keys</text>
       </register>
       <register name="0" type="4">
         <text>&quot;Applied torque at braking shaft&quot;</text>
@@ -494,9 +494,9 @@
       </register>
     </registers>
     <search>
-      <last-search>anyof</last-search>
+      <last-search>keys</last-search>
       <last-offset />
-      <last-pattern>anyof</last-pattern>
+      <last-pattern>keys</last-pattern>
       <last-replace>fonts</last-replace>
       <last-substitute>css</last-substitute>
       <last-dir>1</last-dir>
@@ -504,7 +504,6 @@
     </search>
     <history>
       <history-search>
-        <entry>,$</entry>
         <entry>Fake</entry>
         <entry>opts</entry>
         <entry>Results</entry>
@@ -524,6 +523,7 @@
         <entry>.filter</entry>
         <entry>intere</entry>
         <entry>anyof</entry>
+        <entry>keys</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
