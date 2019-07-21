@@ -94,11 +94,12 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" timestamp="1563635443751">
-        <mark key="[" line="43" column="42" />
-        <mark key="]" line="44" column="3" />
-        <mark key="." line="44" column="3" />
-        <mark key="^" line="44" column="3" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" timestamp="1563717442080">
+        <mark key="'" line="24" column="33" />
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="37" />
       </file>
       <file name="/fragment.kt" timestamp="1563703283400">
         <mark key="[" line="0" column="0" />
@@ -319,13 +320,16 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/settings.gradle.kts" timestamp="1563717004033">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1563703217912">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="15" column="3" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="21" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
       <jump line="23" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
       <jump line="170" column="61" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
@@ -424,55 +428,57 @@
       <jump line="24" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="117" column="19" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="129" column="19" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="25" column="47" filename="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" />
+      <jump line="24" column="33" filename="$USER_HOME$/Projects/TORP/stchart/build.gradle.kts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>:libraries</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>:libraries</text>
       </register>
       <register name="/" type="4">
-        <text>System.gc</text>
+        <text>kran</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkdGZyLnNlbGVjdCgiVGltZXN0YW1wIiwgIlRTR3JvdXAiLCAiRGVzY3JpemlvbmUiLCAiVmFsb3JlIikK</text>
+      <register name="0" type="4">
+        <text>projectDir.path + &quot;/../../_FOREIGN_/krangl&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5nYygpCg==</text>
+        <text encoding="base64">aW5jbHVkZSgiLi4vX0ZPUkVkSUdOXy9rcmFuZ2wiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkdGZyLnNlbGVjdCgiRGVzY3JpemlvbmUiLCAiVmFsb3JlIikK</text>
+        <text encoding="base64">cHJvamVjdCgiOmtyYW5nbCIsIHByb2plY3REaXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByCg==</text>
+        <text encoding="base64">aW5jbHVkZSgiLi4vX0ZPUkVJR05fLyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZ2MoKQo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5nYygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHRmci5sZWZ0Sm9pbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBkdGZyLnNlbGVjdCgiRGVzY3JpemlvbmUiLCAiVmFsb3JlIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHRmci4K</text>
+        <text encoding="base64">ICAgICAgICByCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmdyb3VwQnkoIlRTR3JvdXAiKQogICAgICAgICAgICAuc3VtbWFyaXplKAogICAgICAgICAgICAgICAgIm5vaXNlIiB0byB7IGl0WyJNYXggcmVjb3JkZWQgbm9pc2UgbGV2ZWwiXS5taW4odHJ1ZSkgfQogICAgICAgICAgICAgICAgLCJ0ZW1wIiAgdG8geyBpdFsiVGVtcGVyYXR1cmEgdGVybW9jb3BwaWEgMSJdLm1pbih0cnVlKSB9CiAgICAgICAgICAgICAgICAsImJyYWtlIiB0byB7IGl0WyJBcHBsaWVkIHRvcnF1ZSBhdCBicmFraW5nIHNoYWZ0Il0ubWluKHJlbW92ZU5BID0gdHJ1ZSkgfQogICAgICAgICAgICApCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0uZ2MoKQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZHRmci5sZWZ0Sm9pbigpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJvdXRlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHRmci4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>System.gc</last-search>
+      <last-search>kran</last-search>
       <last-offset />
-      <last-pattern>System.gc</last-pattern>
+      <last-pattern>kran</last-pattern>
       <last-replace>fonts</last-replace>
       <last-substitute>css</last-substitute>
       <last-dir>1</last-dir>
@@ -480,7 +486,6 @@
     </search>
     <history>
       <history-search>
-        <entry>public</entry>
         <entry>Jade</entry>
         <entry>print</entry>
         <entry>ISOD</entry>
@@ -500,6 +505,7 @@
         <entry>console.log</entry>
         <entry>fmo</entry>
         <entry>System.gc</entry>
+        <entry>kran</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
