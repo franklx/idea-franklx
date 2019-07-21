@@ -81,12 +81,12 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563711536656">
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563712477442">
         <mark key="'" line="129" column="19" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="129" column="29" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="65" column="15" />
+        <mark key="." line="65" column="15" />
+        <mark key="^" line="65" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -426,11 +426,11 @@
       <jump line="129" column="19" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5nYygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIHIgPSA=</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>System.gc</text>
