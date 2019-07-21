@@ -81,12 +81,12 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563705363379">
-        <mark key="'" line="79" column="82" />
-        <mark key="[" line="129" column="13" />
-        <mark key="]" line="130" column="29" />
-        <mark key="." line="130" column="29" />
-        <mark key="^" line="130" column="29" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563711536656">
+        <mark key="'" line="129" column="19" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="129" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -324,9 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="20" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
-      <jump line="37" column="73" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/ZigBeeDataStore.kt" />
-      <jump line="62" column="22" filename="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" />
       <jump line="30" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="15" column="3" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="21" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
@@ -424,55 +421,58 @@
       <jump line="72" column="10" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="73" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="78" column="82" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="117" column="19" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="129" column="19" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkdGZyLnNlbGVjdCgiRGVzY3JpemlvbmUiLCAiVmFsb3JlIikK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5nYygpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dmFsIHIgPSA=</text>
       </register>
       <register name="/" type="4">
-        <text>fmo</text>
+        <text>System.gc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkdGZyLnNlbGVjdCgiVGltZXN0YW1wIiwgIlRTR3JvdXAiLCAiRGVzY3JpemlvbmUiLCAiVmFsb3JlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkdGZyLnNlbGVjdCgiRGVzY3JpemlvbmUiLCAiVmFsb3JlIikK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5nYygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByCg==</text>
+        <text encoding="base64">ICAgICAgICBkdGZyLnNlbGVjdCgiRGVzY3JpemlvbmUiLCAiVmFsb3JlIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZ2MoKQo=</text>
+        <text encoding="base64">ICAgICAgICByCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHRmci5sZWZ0Sm9pbigpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHRmci4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmdyb3VwQnkoIlRTR3JvdXAiKQogICAgICAgICAgICAuc3VtbWFyaXplKAogICAgICAgICAgICAgICAgIm5vaXNlIiB0byB7IGl0WyJNYXggcmVjb3JkZWQgbm9pc2UgbGV2ZWwiXS5taW4odHJ1ZSkgfQogICAgICAgICAgICAgICAgLCJ0ZW1wIiAgdG8geyBpdFsiVGVtcGVyYXR1cmEgdGVybW9jb3BwaWEgMSJdLm1pbih0cnVlKSB9CiAgICAgICAgICAgICAgICAsImJyYWtlIiB0byB7IGl0WyJBcHBsaWVkIHRvcnF1ZSBhdCBicmFraW5nIHNoYWZ0Il0ubWluKHJlbW92ZU5BID0gdHJ1ZSkgfQogICAgICAgICAgICApCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0uZ2MoKQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZHRmci5sZWZ0Sm9pbigpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZHRmci4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmdyb3VwQnkoIlRTR3JvdXAiKQogICAgICAgICAgICAuc3VtbWFyaXplKAogICAgICAgICAgICAgICAgIm5vaXNlIiB0byB7IGl0WyJNYXggcmVjb3JkZWQgbm9pc2UgbGV2ZWwiXS5taW4odHJ1ZSkgfQogICAgICAgICAgICAgICAgLCJ0ZW1wIiAgdG8geyBpdFsiVGVtcGVyYXR1cmEgdGVybW9jb3BwaWEgMSJdLm1pbih0cnVlKSB9CiAgICAgICAgICAgICAgICAsImJyYWtlIiB0byB7IGl0WyJBcHBsaWVkIHRvcnF1ZSBhdCBicmFraW5nIHNoYWZ0Il0ubWluKHJlbW92ZU5BID0gdHJ1ZSkgfQogICAgICAgICAgICApCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJvdXRlcykK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZ2MoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb21wKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJvdXRlcykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fmo</last-search>
+      <last-search>System.gc</last-search>
       <last-offset />
-      <last-pattern>fmo</last-pattern>
+      <last-pattern>System.gc</last-pattern>
       <last-replace>fonts</last-replace>
       <last-substitute>css</last-substitute>
       <last-dir>1</last-dir>
@@ -480,7 +480,6 @@
     </search>
     <history>
       <history-search>
-        <entry>assets</entry>
         <entry>public</entry>
         <entry>Jade</entry>
         <entry>print</entry>
@@ -500,6 +499,7 @@
         <entry>comp_file</entry>
         <entry>console.log</entry>
         <entry>fmo</entry>
+        <entry>System.gc</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
