@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\Users\franco\.gradle\caches\modules-2\files-2.1\com.zsmartsystems.zigbee\com.zsmartsystems.zigbee\1.2.0\8dc7609e0ec5bedb913723d25b8a9b8066f3962e\com.zsmartsystems.zigbee-1.2.0.jar!\com\zsmartsystems\zigbee\ZigBeeCommand.class [Gradle: com.zsmartsystems.zigbee:com.zsmartsystems.zigbee:1.2.0]'" />
-    <option name="defaultScopeName" value="File 'C:\Users\franco\.gradle\caches\modules-2\files-2.1\com.zsmartsystems.zigbee\com.zsmartsystems.zigbee\1.2.0\8dc7609e0ec5bedb913723d25b8a9b8066f3962e\com.zsmartsystems.zigbee-1.2.0.jar!\com\zsmartsystems\zigbee\ZigBeeCommand.class [Gradle: com.zsmartsystems.zigbee:com.zsmartsystems.zigbee:1.2.0]'" />
-    <option name="SEARCH_SCOPE" value="File 'C:\Users\franco\.gradle\caches\modules-2\files-2.1\com.zsmartsystems.zigbee\com.zsmartsystems.zigbee\1.2.0\8dc7609e0ec5bedb913723d25b8a9b8066f3962e\com.zsmartsystems.zigbee-1.2.0.jar!\com\zsmartsystems\zigbee\ZigBeeCommand.class [Gradle: com.zsmartsystems.zigbee:com.zsmartsystems.zigbee:1.2.0]'" />
+    <option name="customScope" value="Project 'krangl'" />
+    <option name="defaultScopeName" value="Project 'krangl'" />
+    <option name="SEARCH_SCOPE" value="Project 'krangl'" />
   </component>
 </application>
