@@ -9,12 +9,11 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/TableView.vue" timestamp="1563781737189">
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/TableView.vue" timestamp="1563799563368">
         <mark key="'" line="23" column="16" />
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="8" column="35" />
-        <mark key="." line="8" column="35" />
-        <mark key="^" line="8" column="35" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1563719782518">
         <mark key="[" line="0" column="0" />
@@ -73,12 +72,12 @@
       <file name="/run/user/1000/gvfs/smb-share:server=hbench,share=projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1562953988425">
         <mark key="[" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563525409382">
-        <mark key="'" line="49" column="32" />
-        <mark key="[" line="48" column="100" />
-        <mark key="]" line="48" column="105" />
-        <mark key="." line="48" column="105" />
-        <mark key="^" line="48" column="105" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563799645828">
+        <mark key="'" line="50" column="32" />
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+        <mark key="^" line="2" column="34" />
       </file>
       <file name="P:/TORP/stchart/src/main/vue/Main.vue" timestamp="1562330687032">
         <mark key="'" line="15" column="10" />
@@ -95,12 +94,12 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563791059520">
-        <mark key="'" line="151" column="71" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-        <mark key="^" line="155" column="61" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563800032781">
+        <mark key="'" line="144" column="46" />
+        <mark key="[" line="129" column="89" />
+        <mark key="]" line="129" column="89" />
+        <mark key="." line="129" column="89" />
+        <mark key="^" line="129" column="101" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -118,6 +117,12 @@
       <file name="/fragment.kt" timestamp="1563703283400">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/views/routes.ts" timestamp="1563798893409">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+      </file>
       <file name="P:/EVAL/kotlin/jooby/src/main/conf/application.conf" timestamp="1561295151618">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="29" />
@@ -129,6 +134,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="38" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/views/Router.vue" timestamp="1563800618175">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="9" column="24" />
       </file>
       <file name="P:/ELLECI/kjv/src/main/vue/plugins/buefy.ts" timestamp="1561712628083">
         <mark key="[" line="8" column="37" />
@@ -355,15 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
-      <jump line="211" column="78" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
-      <jump line="174" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
-      <jump line="108" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
-      <jump line="15" column="17" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="38" column="12" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="77" column="9" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="66" column="9" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="73" column="11" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="74" column="0" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="90" column="0" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="79" column="9" filename="P:/TORP/stchart/src/main/kotlin/stchart/App.kt" />
@@ -388,12 +390,10 @@
       <jump line="68" column="34" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="82" column="11" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="122" column="92" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="124" column="23" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="55" column="20" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="95" column="24" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="107" column="22" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="77" column="13" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="94" column="26" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="48" column="22" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="18" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/TableView.vue" />
       <jump line="29" column="12" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/views/Main.vue" />
@@ -406,11 +406,9 @@
       <jump line="247" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby/1.6.3/3179949a7c17976efb668af4961cf6aaef7d969d/jooby-1.6.3-sources.jar!/org/jooby/internal/BuiltinRenderer.java" />
       <jump line="290" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby/1.6.3/3179949a7c17976efb668af4961cf6aaef7d969d/jooby-1.6.3-sources.jar!/org/jooby/internal/BuiltinRenderer.java" />
       <jump line="310" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooby/jooby/1.6.3/3179949a7c17976efb668af4961cf6aaef7d969d/jooby-1.6.3-sources.jar!/org/jooby/internal/BuiltinRenderer.java" />
-      <jump line="130" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="21" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="32" column="96" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="148" column="14" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="57" column="61" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
       <jump line="69" column="76" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
       <jump line="74" column="72" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
@@ -439,13 +437,10 @@
       <jump line="127" column="38" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="41" column="52" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="134" column="12" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="143" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="144" column="22" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="87" column="20" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="607" column="40" filename="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Columns.kt" />
       <jump line="149" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="147" column="72" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="390" column="12" filename="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Columns.kt" />
       <jump line="394" column="16" filename="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Columns.kt" />
@@ -455,55 +450,71 @@
       <jump line="16" column="41" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="88" column="24" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="151" column="71" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="132" column="49" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="144" column="46" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="154" column="44" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="57" column="69" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="165" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="170" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="180" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="184" column="12" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="94" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="124" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="143" column="32" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="64" column="31" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="148" column="43" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="130" column="12" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="136" column="40" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="147" column="46" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgaXQuZ2V0T3JEZWZhdWx0KCkKICAgICAgICAgICAgICAgIChpdFsibm9pc2UiXSBhcyBEb3VibGU/KT8uaXNOYU4oKSA/OiBmYWxzZQogICAgICAgICAgICAgICAgIShpdFsibm9pc2UiXSBhcyBEb3VibGU/KT8uaXNOYU4oKSAmJiAhKGl0WyJ0ZW1wIl0gYXMgRG91YmxlPyk/LmlzTmFOKCkgJiYgIShpdFsiYnJha2UiXSBhcyBEb3VibGU/KT8uaXNOYU4oKQo=</text>
+      <register name="&quot;" type="4">
+        <text>router-link</text>
       </register>
       <register name="-" type="4">
-        <text>temp</text>
+        <text>router-link</text>
       </register>
       <register name="/" type="4">
-        <text>mean</text>
+        <text>xff</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICEoKGl0WyJ0ZW1wIl0gYXM/IERvdWJsZSk/LmlzTmFOKCkgPzogdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0ZXItbGluay5uYXZiYXItaXRlbSh0bz0iL2NoYXJ0LzYwOCIpIDYwOC5jc3YK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgaXQuZ2V0T3JEZWZhdWx0KCkKICAgICAgICAgICAgICAgIChpdFsibm9pc2UiXSBhcyBEb3VibGU/KT8uaXNOYU4oKSA/OiBmYWxzZQogICAgICAgICAgICAgICAgIShpdFsibm9pc2UiXSBhcyBEb3VibGU/KT8uaXNOYU4oKSAmJiAhKGl0WyJ0ZW1wIl0gYXMgRG91YmxlPyk/LmlzTmFOKCkgJiYgIShpdFsiYnJha2UiXSBhcyBEb3VibGU/KT8uaXNOYU4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYXZiYXItZHJvcGRvd24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxEb3VibGU/Pml0WyJub2lzZSJdCg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlKCJkYXRhLyIpLmxpc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGgxIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy4kcm91dGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJvd3MubWFwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImFsbG9yYT8iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImFsbG9yYT8iKQogICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRyb3V0ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LmdldE9yRGVmYXVsdChpdFsibm9pc2UiXSwgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImFsbG9yYT8iKQogICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRyb3V0ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0WyJub2lzZSJdCg==</text>
+        <text encoding="base64">ICAgICAgICAvLy5hcHBseSB7IHdyaXRlQ1NWKEZpbGUoIm91dC5jc3YiKSkgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLy5hZGRDb2x1bW4oIlRTR3JvdXAiKSB7IGl0WyJJbnN0YW50Il0uYXNMb25ncygpLm1hcHsgaXQ/LmRpdigzXzYwMF8wMDBMKT8udGltZXMoM182MDBfMDAwTCkgfSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIk1heCByZWNvcmRlZCBub2lzZSBsZXZlbCIsCiAgICAgICAgICAgICJUZW1wZXJhdHVyYSB0ZXJtb2NvcHBpYSAxIiwKICAgICAgICAgICAgIkFwcGxpZWQgdG9ycXVlIGF0IGJyYWtpbmcgc2hhZnQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mean</last-search>
+      <last-search>xff</last-search>
       <last-offset />
-      <last-pattern>mean</last-pattern>
+      <last-pattern>xff</last-pattern>
       <last-replace>max</last-replace>
       <last-substitute>mean</last-substitute>
       <last-dir>1</last-dir>
@@ -511,10 +522,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fmo</entry>
-        <entry>System.gc</entry>
-        <entry>kran</entry>
-        <entry>Joining by</entry>
         <entry>defaultBy</entry>
         <entry>.filter</entry>
         <entry>intere</entry>
@@ -531,6 +538,10 @@
         <entry>3_6</entry>
         <entry>1_800_000L</entry>
         <entry>mean</entry>
+        <entry>data.csv</entry>
+        <entry>dtfr</entry>
+        <entry>File_ID</entry>
+        <entry>xff</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zOkFydDpQcmVzYzpn</entry>
