@@ -95,12 +95,12 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563790170547">
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563791059520">
         <mark key="'" line="151" column="71" />
-        <mark key="[" line="153" column="26" />
-        <mark key="]" line="154" column="21" />
-        <mark key="." line="154" column="21" />
-        <mark key="^" line="154" column="21" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="155" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -458,43 +458,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LmdldE9yRGVmYXVsdChpdFsibm9pc2UiXSwgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgaXQuZ2V0T3JEZWZhdWx0KCkKICAgICAgICAgICAgICAgIChpdFsibm9pc2UiXSBhcyBEb3VibGU/KT8uaXNOYU4oKSA/OiBmYWxzZQogICAgICAgICAgICAgICAgIShpdFsibm9pc2UiXSBhcyBEb3VibGU/KT8uaXNOYU4oKSAmJiAhKGl0WyJ0ZW1wIl0gYXMgRG91YmxlPyk/LmlzTmFOKCkgJiYgIShpdFsiYnJha2UiXSBhcyBEb3VibGU/KT8uaXNOYU4oKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>NaN</text>
+        <text>temp</text>
       </register>
       <register name="/" type="4">
         <text>mean</text>
       </register>
-      <register name="0" type="4">
-        <text>it[&quot;noise&quot;] as Double?)?.isNaN()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICEoKGl0WyJ0ZW1wIl0gYXM/IERvdWJsZSk/LmlzTmFOKCkgPzogdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LmdldE9yRGVmYXVsdChpdFsibm9pc2UiXSwgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgaXQuZ2V0T3JEZWZhdWx0KCkKICAgICAgICAgICAgICAgIChpdFsibm9pc2UiXSBhcyBEb3VibGU/KT8uaXNOYU4oKSA/OiBmYWxzZQogICAgICAgICAgICAgICAgIShpdFsibm9pc2UiXSBhcyBEb3VibGU/KT8uaXNOYU4oKSAmJiAhKGl0WyJ0ZW1wIl0gYXMgRG91YmxlPyk/LmlzTmFOKCkgJiYgIShpdFsiYnJha2UiXSBhcyBEb3VibGU/KT8uaXNOYU4oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0WyJub2lzZSJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxEb3VibGU/Pml0WyJub2lzZSJdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLy5hZGRDb2x1bW4oIlRTR3JvdXAiKSB7IGl0WyJJbnN0YW50Il0uYXNMb25ncygpLm1hcHsgaXQ/LmRpdigzXzYwMF8wMDBMKT8udGltZXMoM182MDBfMDAwTCkgfSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0WyJub2lzZSJdICE9IG51bGwgJiYgaXRbInRlbXAiXSAhPSBudWxsICYmIGl0WyJicmFrZSJdICE9IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCByIDogRG91YmxlID0gaXRbIm5vaXNlIl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJvd3MubWFwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LmdldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LnZhbHVlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LmdldE9yRGVmYXVsdChpdFsibm9pc2UiXSwgKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGl0WyJub2lzZSJdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbgo=</text>
+        <text encoding="base64">ICAgICAgICAvLy5hZGRDb2x1bW4oIlRTR3JvdXAiKSB7IGl0WyJJbnN0YW50Il0uYXNMb25ncygpLm1hcHsgaXQ/LmRpdigzXzYwMF8wMDBMKT8udGltZXMoM182MDBfMDAwTCkgfSB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
