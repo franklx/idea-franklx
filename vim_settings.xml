@@ -95,12 +95,12 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563778221306">
-        <mark key="'" line="41" column="52" />
-        <mark key="[" line="50" column="4" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="52" column="0" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563780487041">
+        <mark key="'" line="134" column="12" />
+        <mark key="[" line="51" column="65" />
+        <mark key="]" line="51" column="81" />
+        <mark key="." line="51" column="81" />
+        <mark key="^" line="51" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -445,62 +445,62 @@
       <jump line="78" column="65" filename="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Joins.kt" />
       <jump line="90" column="67" filename="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Joins.kt" />
       <jump line="123" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="134" column="12" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="129" column="29" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="156" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="38" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="127" column="38" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="143" column="41" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="41" column="52" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="134" column="12" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>keys</text>
+        <text>iqr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW5maXggZnVuIDxSPiBEYXRhQ29sLmFueW9mKGk6IEFycmF5PFI+KTogQm9vbGVhbkFycmF5ID0gdGhpcy52YWx1ZXMoKS5tYXB7aXQgaW4gaX0udG9Cb29sZWFuQXJyYXkoKQo=</text>
+        <text encoding="base64">ICAgIHZhbCAobG93LCBoaSkgPSBkYmEuaXFyKDMuMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LnRvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNwcmVhZEdyb3Vwcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgeCA9IGl0WyJWYWxvcmUiICsKICAgICAgICAgICAgICAgICAgICAgICAgIiJdLmFzRG91YmxlcygpLmlxcigzLjApCiAgICAgICAgICAgICAgICAgICAgICAgIC4uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcSA9IGR0ZnIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGR0ZnIuZmlsdGVyQnlSb3cgeyAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpdD8uY29tcGFyZVRvKGxvdykgPiAtMSA/OiBmYWxzZSB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7CiAgICAgICAgICAgICAgICBpdFtdCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXQgPT0gbnVsbCkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZgo=</text>
+        <text encoding="base64">ICAgIGRiYS5tYXAgeyBpdD8uY29tcGFyZVRvKGxvdykgfS50b0Jvb2xlYW5BcnJheSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0WyJEZXNjcml6aW9uZSJdCg==</text>
+        <text encoding="base64">ICAgIHZhbCB4ID0gZGJhLmlxcigzLjApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7CiAgICAgICAgICAgICAgICBpdFsiIl0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCAobG93LCBoaSkgPSBkYmEuaXFyKDMuMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5jbHVkZSgiLi4vX0ZPUkVkSUdOXy9rcmFuZ2wiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LnRvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>keys</last-search>
+      <last-search>iqr</last-search>
       <last-offset />
-      <last-pattern>keys</last-pattern>
+      <last-pattern>iqr</last-pattern>
       <last-replace>fonts</last-replace>
       <last-substitute>css</last-substitute>
       <last-dir>1</last-dir>
@@ -508,7 +508,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Fake</entry>
         <entry>opts</entry>
         <entry>Results</entry>
         <entry>html</entry>
@@ -528,6 +527,7 @@
         <entry>intere</entry>
         <entry>anyof</entry>
         <entry>keys</entry>
+        <entry>iqr</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
