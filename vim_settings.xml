@@ -73,12 +73,12 @@
       <file name="/run/user/1000/gvfs/smb-share:server=hbench,share=projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1562953988425">
         <mark key="[" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563833751734">
-        <mark key="'" line="64" column="17" />
-        <mark key="[" line="36" column="32" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="29" />
-        <mark key="^" line="37" column="29" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563834533264">
+        <mark key="'" line="66" column="17" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="52" column="103" />
       </file>
       <file name="P:/TORP/stchart/src/main/vue/Main.vue" timestamp="1562330687032">
         <mark key="'" line="15" column="10" />
@@ -366,7 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="13" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="13" column="71" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="43" column="56" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="59" column="22" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
@@ -466,50 +465,53 @@
       <jump line="50" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
       <jump line="51" column="25" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
       <jump line="62" column="17" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
+      <jump line="63" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJGZvcmNlVXBkYXRlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>temp</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>load</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vdGhpcy50ZW1wX29wdHMueGF4aXMuY2F0ZWdvcmllcyA9IGRhdGEuY29sc1swXS52YWx1ZXMK</text>
+      <register name="0" type="4">
+        <text>, type: 'datetime'})</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJGZvcmNlVXBkYXRlKCkK</text>
       </register>
       <register name="2" type="8">
+        <text>)
+)
+)</text>
+      </register>
+      <register name="3" type="8">
+        <text>'
+'
+'</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAqLwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJGZvcmNlVXBkYXRlKCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="9" type="8">
         <text>//
 //
 //</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVnb3JpZXM6IG51bGwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkX29wdHMoKSB7CgogICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVnb3JpZXM6IGRhdGEuY29sc1swXS52YWx1ZXMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlX29wdHMgPSB7fQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBiYXNlX29wdHMgPSB7CiAgICAgICAgICAgICAgICAgICAgZGF0YUxhYmVscyA6IHsKICAgICAgICAgICAgICAgICAgICAgICAgLy9lbmFibGVkOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB6b29tOiB7CiAgICAgICAgICAgICAgICAgICAgICB0eXBlOiAneCcsCiAgICAgICAgICAgICAgICAgICAgICBlbmFibGVkOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICBzdHJva2U6IHsKICAgICAgICAgICAgICAgICAgICAgICAgLy9jdXJ2ZTogJ3Ntb290aCcKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIG1hcmtlcnM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgLy9zaXplOiA2CiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB4YXhpczogewogICAgICAgICAgICAgICAgICAgICAgICB0eXBlOiAnZGF0ZXRpbWUnLAogICAgICAgICAgICAgICAgICAgICAgICBjYXRlZ29yaWVzOiBkYXRhLmNvbHNbMF0udmFsdWVzCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="8">
-        <text>this.
-this.
-this.</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub2lzZV9vcHRzID0gbnVsbAogICAgICAgIHRlbXBfb3B0cyA9IG51bGwKICAgICAgICBicmFrZV9vcHRzID0gbnVsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
