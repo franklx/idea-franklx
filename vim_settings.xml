@@ -135,11 +135,10 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/views/Router.vue" timestamp="1563800618175">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="9" column="24" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/views/Router.vue" timestamp="1563808404401">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
       </file>
       <file name="P:/ELLECI/kjv/src/main/vue/plugins/buefy.ts" timestamp="1561712628083">
         <mark key="[" line="8" column="37" />
@@ -469,52 +468,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>router-link</text>
+        <text encoding="base64">IHt7IGNoYXJ0X2xpbmsgfX0=</text>
       </register>
       <register name="-" type="4">
-        <text>router-link</text>
+        <text encoding="base64">IHt7IGNoYXJ0X2xpbmsgfX0=</text>
       </register>
       <register name="/" type="4">
-        <text>xff</text>
+        <text>navbar-drop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0ZXItbGluay5uYXZiYXItaXRlbSh0bz0iL2NoYXJ0LzYwOCIpIDYwOC5jc3YK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgcm91dGVyLWxpbmsubmF2YmFyLWl0ZW0odi1mb3I9ImNoYXJ0X2xpbmsgaW4gY2hhcnRfbGlua3MiKSB7eyBjaGFydF9saW5rIH19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYXZiYXItZHJvcGRvd24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHNldCh0aGlzLmNoYXJ0X2xpbmtzLCBkYXRhKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlKCJkYXRhLyIpLmxpc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGgxIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInRlc3QiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy4kcm91dGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKHRvPSIvY2hhcnQvNjA4IikgNjA4LmNzdgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcm91dGVyLWxpbmsubmF2YmFyLWl0ZW0odG89Ii9jaGFydC82MDgiKSA2MDguY3N2CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0ZXItbGluay5uYXZiYXItaXRlbSh0bz0iL2NoYXJ0LzYwOCIpIDYwOC5jc3YK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImFsbG9yYT8iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyB9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImFsbG9yYT8iKQogICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRyb3V0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHYtZm9yKGNoYXJ0X2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImFsbG9yYT8iKQogICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRyb3V0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLy5hcHBseSB7IHdyaXRlQ1NWKEZpbGUoIm91dC5jc3YiKSkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIk1heCByZWNvcmRlZCBub2lzZSBsZXZlbCIsCiAgICAgICAgICAgICJUZW1wZXJhdHVyYSB0ZXJtb2NvcHBpYSAxIiwKICAgICAgICAgICAgIkFwcGxpZWQgdG9ycXVlIGF0IGJyYWtpbmcgc2hhZnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYXZiYXItZHJvcGRvd24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>xff</last-search>
+      <last-search>navbar-drop</last-search>
       <last-offset />
-      <last-pattern>xff</last-pattern>
+      <last-pattern>navbar-drop</last-pattern>
       <last-replace>max</last-replace>
       <last-substitute>mean</last-substitute>
       <last-dir>1</last-dir>
@@ -522,7 +521,6 @@
     </search>
     <history>
       <history-search>
-        <entry>defaultBy</entry>
         <entry>.filter</entry>
         <entry>intere</entry>
         <entry>anyof</entry>
@@ -542,6 +540,7 @@
         <entry>dtfr</entry>
         <entry>File_ID</entry>
         <entry>xff</entry>
+        <entry>navbar-drop</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zOkFydDpQcmVzYzpn</entry>
