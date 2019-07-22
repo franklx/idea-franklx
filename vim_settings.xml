@@ -95,11 +95,11 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563782625313">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563783435011">
+        <mark key="'" line="147" column="72" />
+        <mark key="[" line="149" column="73" />
+        <mark key="]" line="149" column="73" />
+        <mark key="." line="149" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -153,6 +153,9 @@
         <mark key="]" line="9" column="4" />
         <mark key="^" line="9" column="111" />
         <mark key="." line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Columns.kt" timestamp="1563783361852">
+        <mark key="'" line="607" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1553439775233">
         <mark key="'" line="20" column="0" />
@@ -351,8 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
-      <jump line="143" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
       <jump line="145" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
       <jump line="146" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
       <jump line="149" column="47" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.mpicbg.scicomp/krangl/0.11/33d7a6472743df1f2d31e6d5d215a8e6b51ddd53/krangl-0.11-sources.jar!/krangl/TableIO.kt" />
@@ -418,7 +419,6 @@
       <jump line="32" column="96" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="148" column="14" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="149" column="4" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="57" column="61" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
       <jump line="69" column="76" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
       <jump line="74" column="72" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" />
@@ -451,66 +451,65 @@
       <jump line="144" column="22" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="87" column="20" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="607" column="40" filename="$USER_HOME$/Projects/_FOREIGN_/krangl/src/main/kotlin/krangl/Columns.kt" />
+      <jump line="149" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="147" column="72" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcm5vdAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>print()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>TSG</text>
+        <text>false</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuYWRkQ29sdW1uKCJUU0dyb3VwIikgeyBpdFsiSW5zdGFudCJdLmFzTG9uZ3MoKS5tYXB7IGl0Py5kaXYoM182MDBfMDAwTCk/LnRpbWVzKDNfNjAwXzAwMEwpIH0gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7IGl0WyJWYWxvcmUiXS5sdCgxMDAwKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcm5vdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7IGl0WyJWYWxvcmUiXS5pZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7IGl0WyJWYWxvcmUiXS59Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcm5vdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7IGl0WyJWYWxvcmUiXS5pc05vdE5BKCl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7IGl0WyJWYWxvcmUiXS59Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7IGl0WyJEZSJdfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7IGl0WyJWYWxvcmUiXS5pc05vdE5BKCl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlckJ5Um93IHsgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7IGl0WyJEZSJdfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgLmZpbHRlcntpdFsiRGVzY3JpemlvbmUiXSBhbnlvZiB4ZmYua2V5cy50b1R5cGVkQXJyYXkoKSB9CiAgICAgICAgICAgIC5ncm91cEJ5KCJEZXNjcml6aW9uZSIpLmdyb3VwcygpLm1hcCB7CiAgICAgICAgICAgICAgICBpdC5maWx0ZXIgeyBpdFsiVmFsb3JlIl0uaXFyX2ZpbHRlcigzLjApIH0KICAgICAgICAgICAgfQogICAgICAgICAgICAuYmluZFJvd3MoKQogICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlckJ5Um93IHsgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgLmZpbHRlcntpdFsiRGVzY3JpemlvbmUiXSBhbnlvZiB4ZmYua2V5cy50b1R5cGVkQXJyYXkoKSB9CiAgICAgICAgICAgIC5ncm91cEJ5KCJEZXNjcml6aW9uZSIpLmdyb3VwcygpLm1hcCB7CiAgICAgICAgICAgICAgICBpdC5maWx0ZXIgeyBpdFsiVmFsb3JlIl0uaXFyX2ZpbHRlcigzLjApIH0KICAgICAgICAgICAgfQogICAgICAgICAgICAuYmluZFJvd3MoKQogICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzZXBhcmUgYnkga2V5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICwiQ3N2TWluIiB0byB7IGl0WyJNaW5pbW8iXS5tYXgodHJ1ZSkgfQogICAgICAgICAgICAgICAgLCJDc3ZNYXgiIHRvIHsgaXRbIk1hc3NpbW8iXS5tYXgodHJ1ZSkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBzZXBhcmUgYnkga2V5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TSG</last-search>
+      <last-search>false</last-search>
       <last-offset />
-      <last-pattern>TSG</last-pattern>
-      <last-replace>fonts</last-replace>
-      <last-substitute>css</last-substitute>
+      <last-pattern>false</last-pattern>
+      <last-replace>true</last-replace>
+      <last-substitute>false</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>html</entry>
-        <entry>get</entry>
-        <entry>require</entry>
-        <entry>&quot;</entry>
         <entry>js</entry>
         <entry>css</entry>
         <entry>comp_file</entry>
@@ -527,6 +526,10 @@
         <entry>iqr</entry>
         <entry>Minimo</entry>
         <entry>TSG</entry>
+        <entry>mean</entry>
+        <entry>ignoreNA</entry>
+        <entry>true</entry>
+        <entry>false</entry>
       </history-search>
       <history-cmd>
         <entry>%s:b-:v-:g</entry>
@@ -544,6 +547,9 @@
         <entry>4</entry>
         <entry encoding="base64">JzwsJz5zOmpzOmNzczpn</entry>
         <entry encoding="base64">JzwsJz5zOmNzczpmb250czpn</entry>
+        <entry encoding="base64">JzwsJz5zOm1lYW46bWluOmc=</entry>
+        <entry encoding="base64">JzwsJz5zOnRydWU6ZmFsc2U6Zw==</entry>
+        <entry encoding="base64">JzwsJz5zOmZhbHNlOnRydWU6Zw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
