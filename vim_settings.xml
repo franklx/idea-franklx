@@ -95,12 +95,12 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563752761224">
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563753890376">
         <mark key="'" line="41" column="52" />
-        <mark key="[" line="126" column="13" />
-        <mark key="]" line="126" column="13" />
-        <mark key="." line="126" column="13" />
-        <mark key="^" line="126" column="14" />
+        <mark key="[" line="131" column="66" />
+        <mark key="]" line="132" column="26" />
+        <mark key="." line="132" column="26" />
+        <mark key="^" line="132" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -454,11 +454,11 @@
       <jump line="41" column="52" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>separate()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LnRvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>separate()</text>
+        <text>iqr(3.0)</text>
       </register>
       <register name="/" type="4">
         <text>keys</text>
@@ -467,31 +467,31 @@
         <text>&quot;Applied torque at braking shaft&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNwcmVhZEdyb3Vwcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LnRvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcSA9IGR0ZnIuCg==</text>
+        <text encoding="base64">ICAgIHNwcmVhZEdyb3Vwcy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGR0ZnIuZmlsdGVyQnlSb3cgeyAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcSA9IGR0ZnIuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7CiAgICAgICAgICAgICAgICBpdFtdCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGR0ZnIuZmlsdGVyQnlSb3cgeyAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7CiAgICAgICAgICAgICAgICBpdFtdCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0WyJEZXNjcml6aW9uZSJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7CiAgICAgICAgICAgICAgICBpdFsiIl0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0WyJEZXNjcml6aW9uZSJdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5jbHVkZSgiLi4vX0ZPUkVkSUdOXy9rcmFuZ2wiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7CiAgICAgICAgICAgICAgICBpdFsiIl0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJvamVjdCgiOmtyYW5nbCIsIHByb2plY3REaXIpCg==</text>
+        <text encoding="base64">aW5jbHVkZSgiLi4vX0ZPUkVkSUdOXy9rcmFuZ2wiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
