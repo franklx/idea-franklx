@@ -95,12 +95,12 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563753890376">
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563778221306">
         <mark key="'" line="41" column="52" />
-        <mark key="[" line="131" column="66" />
-        <mark key="]" line="132" column="26" />
-        <mark key="." line="132" column="26" />
-        <mark key="^" line="132" column="26" />
+        <mark key="[" line="50" column="4" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -454,17 +454,17 @@
       <jump line="41" column="52" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LnRvCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>iqr(3.0)</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>keys</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;Applied torque at braking shaft&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW5maXggZnVuIDxSPiBEYXRhQ29sLmFueW9mKGk6IEFycmF5PFI+KTogQm9vbGVhbkFycmF5ID0gdGhpcy52YWx1ZXMoKS5tYXB7aXQgaW4gaX0udG9Cb29sZWFuQXJyYXkoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LnRvCg==</text>
