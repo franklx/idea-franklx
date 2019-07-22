@@ -72,12 +72,12 @@
       <file name="/run/user/1000/gvfs/smb-share:server=hbench,share=projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1562953988425">
         <mark key="[" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563811657003">
-        <mark key="'" line="51" column="32" />
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="27" column="21" />
-        <mark key="." line="27" column="21" />
-        <mark key="^" line="27" column="21" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563828206297">
+        <mark key="'" line="52" column="32" />
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="29" column="35" />
+        <mark key="." line="29" column="35" />
+        <mark key="^" line="29" column="35" />
       </file>
       <file name="P:/TORP/stchart/src/main/vue/Main.vue" timestamp="1562330687032">
         <mark key="'" line="15" column="10" />
@@ -135,11 +135,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/views/Router.vue" timestamp="1563811597430">
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="9" />
-        <mark key="." line="30" column="9" />
-        <mark key="^" line="30" column="9" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/views/Router.vue" timestamp="1563829614729">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
       </file>
       <file name="P:/ELLECI/kjv/src/main/vue/plugins/buefy.ts" timestamp="1561712628083">
         <mark key="[" line="8" column="37" />
@@ -469,43 +469,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>router-link</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>router-link</text>
       </register>
       <register name="/" type="4">
         <text>xtens</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvL0ZpbGUoImRhdGEvIikubGlzdChXaWxkY2FyZEZpbGVGaWx0ZXIoIiouY3N2IikgYXMgRmlsZW5hbWVGaWx0ZXIpLmZpbHRlck5vdE51bGwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImxvYWRfbWVudSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAV2F0Y2goIiRyb3V0ZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaERhdGEK</text>
+        <text encoding="base64">ICAgICAgICBjaGFydF9saW5rcyA9IGF3YWl0IHRoaXMuJGh0dHAuZ2V0KCIvbGlzdCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAgZnJvbSAndnVlLXByb3BlcnR5LWRlY29yYXRvcicK</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB7Q29tcG9uZW50fSBmcm9tICJ2dWUtcHJvcGVydHktZGVjb3JhdG9yIjsK</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAV2F0Cg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHNldCh0aGlzLmNoYXJ0X2xpbmtzLCBkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInRlc3QiKQo=</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKHRvPSIvY2hhcnQvNjA4IikgNjA4LmNzdgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcm91dGVyLWxpbmsubmF2YmFyLWl0ZW0odG89Ii9jaGFydC82MDgiKSA2MDguY3N2CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0ZXItbGluay5uYXZiYXItaXRlbSh0bz0iL2NoYXJ0LzYwOCIpIDYwOC5jc3YK</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
