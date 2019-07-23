@@ -73,12 +73,11 @@
       <file name="/run/user/1000/gvfs/smb-share:server=hbench,share=projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1562953988425">
         <mark key="[" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563862397020">
-        <mark key="'" line="57" column="16" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="34" column="13" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563891575675">
+        <mark key="[" line="55" column="26" />
+        <mark key="]" line="55" column="40" />
+        <mark key="." line="52" column="82" />
+        <mark key="^" line="55" column="40" />
       </file>
       <file name="P:/TORP/stchart/src/main/vue/Main.vue" timestamp="1562330687032">
         <mark key="'" line="15" column="10" />
@@ -95,8 +94,8 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563811706314">
-        <mark key="'" line="70" column="42" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563892778309">
+        <mark key="'" line="175" column="10" />
         <mark key="[" line="130" column="82" />
         <mark key="]" line="130" column="82" />
         <mark key="." line="130" column="82" />
@@ -117,6 +116,12 @@
       </file>
       <file name="/fragment.kt" timestamp="1563703283400">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/node_modules/apexcharts/types/apexcharts.d.ts" timestamp="1563889791641">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="25" column="40" />
+        <mark key="." line="25" column="40" />
+        <mark key="^" line="25" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/views/routes.ts" timestamp="1563798893409">
         <mark key="[" line="1" column="21" />
@@ -214,6 +219,12 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/TORP/stchart/vue.config.js" timestamp="1563892607972">
+        <mark key="[" line="43" column="9" />
+        <mark key="]" line="43" column="9" />
+        <mark key="." line="43" column="9" />
+        <mark key="^" line="43" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/ELLECI/kjv/src/main/vue/main-ssrt-csrn.html" timestamp="1562277007985">
         <mark key="[" line="1" column="0" />
@@ -366,7 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="22" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="4" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
       <jump line="42" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
       <jump line="19" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
@@ -446,7 +456,6 @@
       <jump line="143" column="32" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="64" column="31" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="148" column="43" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="130" column="12" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="136" column="40" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="147" column="46" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="129" column="73" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
@@ -466,61 +475,57 @@
       <jump line="63" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
       <jump line="58" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
       <jump line="59" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
+      <jump line="130" column="72" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="175" column="10" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vLS0K</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJlZj0icHJvdmEiKQ==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>temp</text>
+        <text>medie</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudGVtcF9vcHRzID0gey4uLnRoaXMudGVtcF9vcHRzLCAuLi57eGF4aXM6IHt0eXBlOiAnZGF0ZXRpbWUnLCBjYXRlZ29yaWVzOiBkYXRhLmNvbHNbMF0udmFsdWVzfSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAobGV0IGNoIG9mIFsnbm9pc2VfY2gnLCAndGVtcF9jaCcsICdicmFrZV9jaCddKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vLS0K</text>
+        <text encoding="base64">ICAgICAgICBoaXN0b3J5QXBpRmFsbGJhY2s6IHRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICBoaXN0b3J5QXBpRmFsbGJhY2s6IHRydWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAobGV0IGNoIG9mIFsnbm9pc2VfY2gnLCAndGVtcF9jaCcsICdicmFrZV9jaCddKSB7Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>}
-}
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="8">
-        <text>...{
-...{
-...{</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjaCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHJlZnMucHJvdmEudXBkYXRlT3B0aW9ucyh0aGlzLm5vaXNlX29wdHMsIHRydWUsIHRydWUsIHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHJlZnMucHJvdmEudXBkYXRlT3B0aW9ucyh0aGlzLm5vaXNlX29wdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCiAgICAgICAgICAgICAgICB0aGlzLm5vaXNlX29wdHMgPSB7Li4udGhpcy5ub2lzZV9vcHRzLCB4YXhpczoge3R5cGU6ICdkYXRldGltZScsIGNhdGVnb3JpZXM6IGRhdGEuY29sc1swXS52YWx1ZXN9IH0KICAgICAgICAgICAgICAgIHRoaXMudGVtcF9vcHRzID0gIHsuLi50aGlzLnRlbXBfb3B0cywgIHhheGlzOiB7dHlwZTogJ2RhdGV0aW1lJywgY2F0ZWdvcmllczogZGF0YS5jb2xzWzBdLnZhbHVlc30gfQogICAgICAgICAgICAgICAgdGhpcy5icmFrZV9vcHRzID0gey4uLnRoaXMuYnJha2Vfb3B0cywgeGF4aXM6IHt0eXBlOiAnZGF0ZXRpbWUnLCBjYXRlZ29yaWVzOiBkYXRhLmNvbHNbMF0udmFsdWVzfSB9CiAgICAgICAgICAgICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudGVtcF9vcHRzICA9IGRhdGEuY29sc1swXS52YWx1ZXMKICAgICAgICAgICAgICAgIHRoaXMuYnJha2Vfb3B0cyA9IGRhdGEuY29sc1swXS52YWx1ZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbwo=</text>
       </register>
-      <register name="9" type="8">
-        <text>.xaxis
-xaxis 
-.xaxis</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHJlZnMubm9pc2VfY2gudXBkYXRlT3B0aW9ucygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>temp</last-search>
+      <last-search>medie</last-search>
       <last-offset />
-      <last-pattern>temp</last-pattern>
+      <last-pattern>medie</last-pattern>
       <last-replace>brake</last-replace>
       <last-substitute>temp</last-substitute>
       <last-dir>1</last-dir>
@@ -528,7 +533,6 @@ xaxis
     </search>
     <history>
       <history-search>
-        <entry>true</entry>
         <entry>false</entry>
         <entry>asD</entry>
         <entry>columnCast</entry>
@@ -548,6 +552,7 @@ xaxis
         <entry>load</entry>
         <entry>noise</entry>
         <entry>temp</entry>
+        <entry>medie</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
