@@ -73,12 +73,12 @@
       <file name="/run/user/1000/gvfs/smb-share:server=hbench,share=projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1562953988425">
         <mark key="[" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563834533264">
-        <mark key="'" line="66" column="17" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="52" column="103" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" timestamp="1563862397020">
+        <mark key="'" line="57" column="16" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="34" column="13" />
       </file>
       <file name="P:/TORP/stchart/src/main/vue/Main.vue" timestamp="1562330687032">
         <mark key="'" line="15" column="10" />
@@ -366,8 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="71" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
-      <jump line="43" column="56" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="59" column="22" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="4" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
       <jump line="42" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
@@ -466,70 +464,70 @@
       <jump line="51" column="25" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
       <jump line="62" column="17" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
       <jump line="63" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
+      <jump line="58" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
+      <jump line="59" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJGZvcmNlVXBkYXRlKCkK</text>
+        <text encoding="base64">ICAgIC8vLS0K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IHJlZj0icHJvdmEiKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>load</text>
+        <text>temp</text>
       </register>
-      <register name="0" type="4">
-        <text>, type: 'datetime'})</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudGVtcF9vcHRzID0gey4uLnRoaXMudGVtcF9vcHRzLCAuLi57eGF4aXM6IHt0eXBlOiAnZGF0ZXRpbWUnLCBjYXRlZ29yaWVzOiBkYXRhLmNvbHNbMF0udmFsdWVzfSB9fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJGZvcmNlVXBkYXRlKCkK</text>
+        <text encoding="base64">ICAgIC8vLS0K</text>
       </register>
-      <register name="2" type="8">
-        <text>)
-)
-)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
       </register>
-      <register name="3" type="8">
-        <text>'
-'
-'</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCg==</text>
+      <register name="4" type="8">
+        <text>}
+}
+}</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAqLwo=</text>
+      <register name="5" type="8">
+        <text>...{
+...{
+...{</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHJlZnMucHJvdmEudXBkYXRlT3B0aW9ucyh0aGlzLm5vaXNlX29wdHMsIHRydWUsIHRydWUsIHRydWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJGZvcmNlVXBkYXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHJlZnMucHJvdmEudXBkYXRlT3B0aW9ucyh0aGlzLm5vaXNlX29wdHMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudGVtcF9vcHRzICA9IGRhdGEuY29sc1swXS52YWx1ZXMKICAgICAgICAgICAgICAgIHRoaXMuYnJha2Vfb3B0cyA9IGRhdGEuY29sc1swXS52YWx1ZXMK</text>
       </register>
       <register name="9" type="8">
-        <text>//
-//
-//</text>
+        <text>.xaxis
+xaxis 
+.xaxis</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>load</last-search>
+      <last-search>temp</last-search>
       <last-offset />
-      <last-pattern>load</last-pattern>
-      <last-replace>max</last-replace>
-      <last-substitute>mean</last-substitute>
+      <last-pattern>temp</last-pattern>
+      <last-replace>brake</last-replace>
+      <last-substitute>temp</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TSG</entry>
-        <entry>ignoreNA</entry>
         <entry>true</entry>
         <entry>false</entry>
         <entry>asD</entry>
@@ -548,14 +546,14 @@
         <entry>xax</entry>
         <entry>base_opts</entry>
         <entry>load</entry>
+        <entry>noise</entry>
+        <entry>temp</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zOkFydDpQcmVzYzpn</entry>
         <entry>w!</entry>
         <entry>quit</entry>
         <entry encoding="base64">JzwsJz5zOiw6LEZpbGUoImRhdGEvNTk5LmNzdiIpLnJlYWRlcigp</entry>
         <entry>%s:r599:dtfr:g</entry>
-        <entry encoding="base64">JzwsJz5zOnRlbXA6YnJha2U6Zw==</entry>
         <entry encoding="base64">JzwsJz5zOnNlcmllczpvcHRzOmc=</entry>
         <entry>%s:Fake:Table:g</entry>
         <entry encoding="base64">JzwsJz5zOkZha2U6VGFibGU6Zw==</entry>
@@ -569,6 +567,8 @@
         <entry encoding="base64">JzwsJz5zOmZhbHNlOnRydWU6Zw==</entry>
         <entry encoding="base64">JzwsJz5zOjFfODAwXzAwMEw6a19kaXY6Zw==</entry>
         <entry encoding="base64">JzwsJz5zOm1lYW46bWF4Omc=</entry>
+        <entry encoding="base64">JzwsJz5zOm5vaXNlOnRlbXA6Zw==</entry>
+        <entry encoding="base64">JzwsJz5zOnRlbXA6YnJha2U6Zw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
