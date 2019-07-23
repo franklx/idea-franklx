@@ -218,11 +218,11 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/vue.config.js" timestamp="1563896690782">
-        <mark key="[" line="50" column="5" />
-        <mark key="]" line="50" column="5" />
-        <mark key="." line="50" column="5" />
-        <mark key="^" line="46" column="7" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/vue.config.js" timestamp="1563905998077">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="44" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/ELLECI/kjv/src/main/vue/main-ssrt-csrn.html" timestamp="1562277007985">
         <mark key="[" line="1" column="0" />
@@ -477,44 +477,44 @@
       <jump line="175" column="10" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZW50QmFzZTogImFzc2V0cyIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>_dummy_</text>
       </register>
       <register name="/" type="4">
         <text>medie</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAobGV0IGNoIG9mIFsnbm9pc2VfY2gnLCAndGVtcF9jaCcsICdicmFrZV9jaCddKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgIF9kdW1teV86IHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50QmFzZTogImFzc2V0cyIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGpvbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldDogJ2h0dHA6Ly9sb2NhbGhvc3Q6JyArIHByb2Nlc3MuZW52WydhcHBsaWNhdGlvbi5wb3J0J10sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsdWdpbgo=</text>
+        <text encoding="base64">ICAgICAgICBwb3J0OiA5MDAwLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwcGx5KHBsdWdpbj0iIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vaWQoIiIpIGFwcGx5IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlkKCJqb29ieSIpIHZlcnNpb24gIjEuNi4zIgo=</text>
+        <text encoding="base64">ICAgIGFzc2V0Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGpvbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgbWF2ZW5DZW50cmFsKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgIHBsdWdpbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGpvbwo=</text>
+        <text encoding="base64">ICAgIGFwcGx5KHBsdWdpbj0iIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
