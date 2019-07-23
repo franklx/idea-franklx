@@ -94,11 +94,12 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563896025832">
-        <mark key="'" line="175" column="10" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
-        <mark key="." line="193" column="0" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" timestamp="1563912345799">
+        <mark key="'" line="31" column="42" />
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="34" column="36" />
+        <mark key="^" line="33" column="15" />
+        <mark key="." line="34" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/Main.vue" timestamp="1563428144202">
         <mark key="[" line="19" column="12" />
@@ -218,11 +219,10 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/vue.config.js" timestamp="1563905998077">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="44" column="8" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/vue.config.js" timestamp="1563913129848">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ELLECI/kjv/src/main/vue/main-ssrt-csrn.html" timestamp="1562277007985">
         <mark key="[" line="1" column="0" />
@@ -267,12 +267,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" timestamp="1563659588966">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="72" column="72" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/Projects/TORP/stchart/src/main/vue/main.ts" timestamp="1563912143401">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1563373064650">
         <mark key="[" line="0" column="0" />
@@ -375,7 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
       <jump line="42" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
       <jump line="19" column="8" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
       <jump line="47" column="0" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
@@ -475,55 +474,57 @@
       <jump line="59" column="16" filename="$USER_HOME$/Projects/TORP/stchart/src/main/vue/components/ChartView.vue" />
       <jump line="130" column="72" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
       <jump line="175" column="10" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
+      <jump line="31" column="42" filename="$USER_HOME$/Projects/TORP/stchart/src/main/kotlin/stchart/App.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50QmFzZTogImFzc2V0cyIsCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWNQYXRoOiAiLyIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_dummy_</text>
+        <text>http://localhost:8080/assets/js/&quot;,</text>
       </register>
       <register name="/" type="4">
-        <text>medie</text>
+        <text>js</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIF9kdW1teV86IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iL2Fzc2V0cy9jc3MvY2h1bmstdmVuZG9ycy5jc3MiLz4KICAgICAgICAgICAgICAgIDxzY3JpcHQgc3JjPSIvYXNzZXRzL2pzL2NodW5rLXZlbmRvcnMuanMiPjwvc2NyaXB0PgogICAgICAgICAgICAgICAgPHNjcmlwdCBzcmM9Ii9hc3NldHMvanMvYXBwLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50QmFzZTogImFzc2V0cyIsCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWNQYXRoOiAiLyIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldDogJ2h0dHA6Ly9sb2NhbGhvc3Q6JyArIHByb2Nlc3MuZW52WydhcHBsaWNhdGlvbi5wb3J0J10sCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWNQYXRoOiAiLy9sb2NhbGhvc3Q6ODA4MC9hc3NldHMvanMvIiwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwb3J0OiA5MDAwLAo=</text>
+      <register name="3" type="8">
+        <text>/js
+/js</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iL2Fzc2V0cy8vY2h1bmstdmVuZG9ycy5jc3MiLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCg==</text>
+        <text encoding="base64">ICAgIGFzc2V0c0RpcjogIi4uIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1YmxpY1BhdGg6ICIvYXNzZXRzL2pzLyIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGpvbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlIGlmICgvKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsdWdpbgo=</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwcGx5KHBsdWdpbj0iIikK</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>medie</last-search>
+      <last-search>js</last-search>
       <last-offset />
-      <last-pattern>medie</last-pattern>
+      <last-pattern>js</last-pattern>
       <last-replace>brake</last-replace>
       <last-substitute>temp</last-substitute>
       <last-dir>1</last-dir>
@@ -531,7 +532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>false</entry>
         <entry>asD</entry>
         <entry>columnCast</entry>
         <entry>3_6</entry>
@@ -551,6 +551,7 @@
         <entry>noise</entry>
         <entry>temp</entry>
         <entry>medie</entry>
+        <entry>js</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
