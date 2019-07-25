@@ -3,7 +3,7 @@
     <property name="created">2018-12-31T14:07:25</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2019-07-25T16:30:55</property>
+    <property name="modified">2019-07-25T17:05:40</property>
     <property name="originalScheme">Desert256</property>
   </metaInfo>
   <colors>
@@ -622,7 +622,12 @@
         <option name="FOREGROUND" value="ffd493" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="b7ff87" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
