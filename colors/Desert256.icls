@@ -3,7 +3,7 @@
     <property name="created">2018-12-31T14:07:25</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2019-07-25T17:05:40</property>
+    <property name="modified">2019-07-25T22:24:34</property>
     <property name="originalScheme">Desert256</property>
   </metaInfo>
   <colors>
@@ -213,11 +213,13 @@
     <option name="DEFAULT_BRACES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -232,7 +234,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="f0e770" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -264,7 +266,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="f0e770" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -273,7 +275,9 @@
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="87ff87" />
+      </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
@@ -318,7 +322,7 @@
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="ffd700" />
+        <option name="FOREGROUND" value="5faf5f" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -343,7 +347,8 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="f0e770" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -354,11 +359,12 @@
     <option name="DEFAULT_PARENTHS">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="f0e770" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -554,6 +560,24 @@
         <option name="FOREGROUND" value="ffd700" />
       </value>
     </option>
+    <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="87ff87" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="5faf5f" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="87ff87" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
@@ -622,20 +646,34 @@
         <option name="FOREGROUND" value="ffd493" />
       </value>
     </option>
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="ff5f5f" />
+      </value>
+    </option>
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="b7ff87" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="87ff87" />
       </value>
     </option>
     <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="87ff87" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="b7ff87" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="5faf5f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="5faf5f" />
       </value>
     </option>
     <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
