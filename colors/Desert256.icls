@@ -3,7 +3,7 @@
     <property name="created">2018-12-31T14:07:25</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2019-07-26T07:02:08</property>
+    <property name="modified">2019-07-27T11:15:19</property>
     <property name="originalScheme">Desert256</property>
   </metaInfo>
   <colors>
@@ -549,7 +549,24 @@
         <option name="FOREGROUND" value="82f985" />
       </value>
     </option>
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="f2f2f2" />
+      </value>
+    </option>
+    <option name="JADE_TAG_CLASS">
+      <value>
+        <option name="FOREGROUND" value="ff5f5f" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JADE_TAG_ID">
+      <value>
+        <option name="FOREGROUND" value="87ff87" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
@@ -618,6 +635,17 @@
     <option name="LOG_WARNING_OUTPUT">
       <value>
         <option name="FOREGROUND" value="b6b193" />
+      </value>
+    </option>
+    <option name="LS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="f2f2f2" />
+      </value>
+    </option>
+    <option name="LS_THIS">
+      <value>
+        <option name="FOREGROUND" value="5faf5f" />
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
