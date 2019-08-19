@@ -1,20 +1,15 @@
 <scheme name="Desert256" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-12-31T14:07:25</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2019-06-23T11:44:46</property>
+    <property name="modified">2019-07-27T11:15:19</property>
     <property name="originalScheme">Desert256</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Iosevka Expanded Light" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="7ef076" />
-    <option name="CARET_ROW_COLOR" value="101010" />
+    <option name="CARET_ROW_COLOR" value="202020" />
     <option name="CONSOLE_BACKGROUND_KEY" value="262626" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
@@ -35,15 +30,16 @@
     <option name="GUTTER_BACKGROUND" value="161616" />
     <option name="INDENT_GUIDE" value="404040" />
     <option name="LINE_NUMBERS_COLOR" value="b4aba2" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="cac1b8" />
     <option name="METHOD_SEPARATORS_COLOR" value="3c3c3c" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="606060" />
-    <option name="SELECTED_TEARLINE_COLOR" value="587b18" />
+    <option name="SELECTED_TEARLINE_COLOR" value="ff5f5f" />
     <option name="SELECTION_BACKGROUND" value="5f5f5f" />
     <option name="SELECTION_FOREGROUND" value="" />
-    <option name="TEARLINE_COLOR" value="3c3c3c" />
+    <option name="TEARLINE_COLOR" value="6e6e6e" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
@@ -218,11 +214,13 @@
     <option name="DEFAULT_BRACES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -237,7 +235,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="f0e770" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -269,7 +267,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="f0e770" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -278,7 +276,9 @@
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="87ff87" />
+      </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
@@ -323,7 +323,7 @@
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="ffd700" />
+        <option name="FOREGROUND" value="5faf5f" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -348,7 +348,8 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="f0e770" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -359,11 +360,12 @@
     <option name="DEFAULT_PARENTHS">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="f0e770" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -547,6 +549,24 @@
         <option name="FOREGROUND" value="82f985" />
       </value>
     </option>
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="f2f2f2" />
+      </value>
+    </option>
+    <option name="JADE_TAG_CLASS">
+      <value>
+        <option name="FOREGROUND" value="ff5f5f" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JADE_TAG_ID">
+      <value>
+        <option name="FOREGROUND" value="87ff87" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
@@ -556,6 +576,24 @@
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="ffd700" />
+      </value>
+    </option>
+    <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="87ff87" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="5faf5f" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="87ff87" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
@@ -599,6 +637,17 @@
         <option name="FOREGROUND" value="b6b193" />
       </value>
     </option>
+    <option name="LS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="f2f2f2" />
+      </value>
+    </option>
+    <option name="LS_THIS">
+      <value>
+        <option name="FOREGROUND" value="5faf5f" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff6b5b" />
@@ -626,27 +675,38 @@
         <option name="FOREGROUND" value="ffd493" />
       </value>
     </option>
-    <option name="PY.KEYWORD_ARGUMENT">
+    <option name="PY.ANNOTATION">
       <value>
-        <option name="FOREGROUND" value="d7af87" />
+        <option name="FOREGROUND" value="ff5f5f" />
       </value>
     </option>
-    <option name="PY.PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="ffd7d7" />
-      </value>
-    </option>
-    <option name="PY.PREDEFINED_DEFINITION">
+    <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="87ff87" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PY.SELF_PARAMETER">
+    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PY.FUNC_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="ffd7d7" />
+        <option name="FOREGROUND" value="87ff87" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="5faf5f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="5faf5f" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />

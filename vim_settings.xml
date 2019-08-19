@@ -1,198 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="C:/gtk-build/build/x64/release/gtk/build/win32/introspection.body.mak" timestamp="1560720407325">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="3" column="15" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="3" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/main.ts" timestamp="1553354864866">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/kt-native/src/mingwMain/kotlin/sample/SampleMingw.kt" timestamp="1554586551356">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="C:/gtk-build/gtk/x64/release/share/gir-1.0/Gdk-3.0.gir" timestamp="1560700262220">
-        <mark key="'" line="390" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/babel.config.js" timestamp="1553428920149">
-        <mark key="[" line="6" column="50" />
-        <mark key="]" line="6" column="61" />
-        <mark key="." line="6" column="61" />
-        <mark key="^" line="6" column="61" />
-      </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/package.json" timestamp="1553424795740">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/kotlin/xmlsync/src/mingwMain/kotlin/sample/SampleMingw.kt" timestamp="1554249197170">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/log4j.xml" timestamp="1553433392724">
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="36" />
-        <mark key="." line="33" column="36" />
-      </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/App.vue" timestamp="1553439775233">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="24" column="41" />
-        <mark key="." line="24" column="41" />
-        <mark key="^" line="24" column="41" />
-      </file>
-      <file name="P:/EVAL/kotlin/jooby/build.gradle.kts" timestamp="1561293971416">
-        <mark key="'" line="41" column="29" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/build.gradle.kts" timestamp="1555107594613">
-        <mark key="'" line="7" column="22" />
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="7" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/vue/components/Lamp.vue" timestamp="1553436251359">
-        <mark key="'" line="62" column="32" />
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="25" />
-        <mark key="." line="3" column="25" />
-        <mark key="^" line="3" column="25" />
-      </file>
-      <file name="/Kotlin Console" timestamp="1561235591871">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="P:/EVAL/kotlin/jooby/src/main/conf/application.conf" timestamp="1561295151618">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="29" />
-        <mark key="." line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/kotlin/ktorch/App.kt" timestamp="1555192239494">
-        <mark key="'" line="204" column="23" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/COBI/ktorch/src/main/conf/application.conf" timestamp="1554468397059">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-      </file>
-      <file name="P:/EVAL/kotlin/jooby/src/main/kotlin/example/jooby/App.kt" timestamp="1561293842001">
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="36" column="8" />
-        <mark key="." line="36" column="8" />
-        <mark key="^" line="29" column="5" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1555192206371">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/EVAL/kotlin-jooby/build.gradle.kts" timestamp="1555101626818">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-      </file>
-      <file name="/fragment.java" timestamp="1555192072421">
-        <mark key="[" line="0" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="7" column="22" filename="$USER_HOME$/Projects/COBI/ktorch/build.gradle.kts" />
-      <jump line="63" column="13" filename="C:/gtk-build/gtk/x64/release/share/gir-1.0/Gdk-3.0.gir" />
-      <jump line="366" column="35" filename="C:/gtk-build/gtk/x64/release/share/gir-1.0/Gdk-3.0.gir" />
-      <jump line="389" column="34" filename="C:/gtk-build/gtk/x64/release/share/gir-1.0/Gdk-3.0.gir" />
-      <jump line="390" column="41" filename="C:/gtk-build/gtk/x64/release/share/gir-1.0/Gdk-3.0.gir" />
-      <jump line="52" column="5" filename="P:/EVAL/kotlin/jooby/build.gradle.kts" />
-      <jump line="41" column="29" filename="P:/EVAL/kotlin/jooby/build.gradle.kts" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoa290bGluKHJlZmxlY3QpKQo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>/</text>
-      </register>
-      <register name="/" type="4">
-        <text>ostg</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGdldCgiL3Rlc3RkYi1ncm91cCIpIHsKICAgICAgICByZXF1aXJlKEpkYmk6OmNsYXNzKS53aXRoSGFuZGxlPEFueSxFeGNlcHRpb24+IHsKICAgICAgICAgICAgaXQuY3JlYXRlUXVlcnkoIlNFTEVDVCAqIEZST00gYXJ0aWNvbGkiKS5tYXBUb01hcCgpLmdyb3VwQnl7IGl0WyJpZF9ncnBfYXJ0MSJdIHRvIGl0WyJpZF9ncnBfYXJ0MiJdIHRvIGl0WyJza2lwX2RjIl0gfQogICAgICAgIH0KICAgIH0K</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoa290bGluKHJlZmxlY3QpKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGtvdGxpbigicmVmbGVjdCIpIHZlcnNpb24ga3RfdmVyCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuY3JlYXRlUXVlcnkoIlNFTEVDVCAqIEZST00gYXJ0aWNvbGkiKS5tYXBUb01hcCgpLmdyb3VwQnkoeyBpdFsiaWRfZ3JwX2FydDEiXX0sIHtpdFsiaWRfZ3JwX2FydDIiXSB9KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNyZWF0ZXEK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuY3JlYXRlUXVlcnkoIlNFTEVDVCAqIEZST00gYXJ0aWNvbGkiKS5tYXBUb01hcCgpLmdyb3VwQnl7IGl0WyJpZF9ncnBfYXJ0MSJdIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy92YWwgcSA9IGl0LmNyZWF0ZVF1ZXJ5KCJTRUxFQ1QgKiBGUk9NIGFydGljb2xpIikubWFwVG9NYXAoKS5saXN0KCkuZ3JvdXBCeXtpdFsiaWRfYXJ0aWNvbG8iXX0gLy8ubGlzdCgpLmdyb3VwQnl7aXRbImlkX2FydGljb2xvIl19Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLy5saXN0KCkuZ3JvdXBCeSB7IGl0WyJpZF9hcnRpY29sbyJdIH0K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
-    <search>
-      <last-search>ostg</last-search>
-      <last-offset />
-      <last-pattern>ostg</last-pattern>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search>
-        <entry>babe</entry>
-        <entry>level</entry>
-        <entry>lux</entry>
-        <entry>absent</entry>
-        <entry>nodes</entry>
-        <entry>tnis.node</entry>
-        <entry>this.node</entry>
-        <entry encoding="base64">XDxub2RlXD4=</entry>
-        <entry>node</entry>
-        <entry>permit</entry>
-        <entry encoding="base64">XDwyMVw+</entry>
-        <entry>Atom</entry>
-        <entry>intern</entry>
-        <entry>intern_</entry>
-        <entry>atom_intern</entry>
-        <entry>ostg</entry>
-      </history-search>
-      <history-cmd>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
@@ -209,6 +17,30 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>
